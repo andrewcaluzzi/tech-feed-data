@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:11:47+00:00",
+  "generated_at": "2026-06-16T23:52:30+00:00",
   "items": [
     {
       "id": "247ca322f9426dd8",
@@ -16,13 +16,13 @@
       "sources": [
         {
           "name": "HN",
-          "score": 918,
-          "comments": 392,
+          "score": 941,
+          "comments": 407,
           "thread_url": "https://news.ycombinator.com/item?id=48555993"
         },
         {
           "name": "lobste.rs",
-          "score": 15,
+          "score": 16,
           "comments": 2,
           "thread_url": "https://lobste.rs/s/hwqdvt/running_local_models_is_good_now"
         }
@@ -42,8 +42,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 796,
-          "comments": 1218,
+          "score": 817,
+          "comments": 1251,
           "thread_url": "https://news.ycombinator.com/item?id=48553224"
         }
       ]
@@ -62,7 +62,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 603,
+          "score": 609,
           "comments": 113,
           "thread_url": "https://news.ycombinator.com/item?id=48553550"
         }
@@ -82,8 +82,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 489,
-          "comments": 158,
+          "score": 511,
+          "comments": 168,
           "thread_url": "https://news.ycombinator.com/item?id=48557530"
         }
       ]
@@ -96,15 +96,14 @@
       "category": "Systems",
       "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what’s happened",
       "tags": [
-        "programming",
         "story"
       ],
       "published_at": "2026-06-16T16:27:43+00:00",
       "sources": [
         {
           "name": "HN",
-          "score": 331,
-          "comments": 295,
+          "score": 352,
+          "comments": 325,
           "thread_url": "https://news.ycombinator.com/item?id=48558045"
         },
         {
@@ -112,12 +111,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1u7o7s0/why_is_meta_destroying_its_engineering/"
         }
       ]
     },
@@ -135,8 +128,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 330,
-          "comments": 194,
+          "score": 349,
+          "comments": 215,
           "thread_url": "https://news.ycombinator.com/item?id=48559935"
         }
       ]
@@ -157,15 +150,35 @@
       "sources": [
         {
           "name": "HN",
-          "score": 268,
-          "comments": 83,
+          "score": 271,
+          "comments": 85,
           "thread_url": "https://news.ycombinator.com/item?id=48552844"
         },
         {
           "name": "lobste.rs",
-          "score": 31,
+          "score": 32,
           "comments": 5,
           "thread_url": "https://lobste.rs/s/irws5p/correlated_randomness_slay_spire_2"
+        }
+      ]
+    },
+    {
+      "id": "HN-48561654",
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "domain": "discuss.grapheneos.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-16T20:34:35Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 264,
+          "comments": 106,
+          "thread_url": "https://news.ycombinator.com/item?id=48561654"
         }
       ]
     },
@@ -183,49 +196,56 @@
       "sources": [
         {
           "name": "HN",
-          "score": 213,
-          "comments": 84,
+          "score": 233,
+          "comments": 105,
           "thread_url": "https://news.ycombinator.com/item?id=48557079"
         }
       ]
     },
     {
-      "id": "HN-48558018",
-      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "id": "23357f44cbdac4d2",
+      "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp",
       "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
       "domain": "mareksuppa.com",
-      "category": "Web",
+      "category": "Systems",
       "summary": "",
       "tags": [
+        "linux",
         "story"
       ],
       "published_at": "2026-06-16T16:40:58Z",
       "sources": [
         {
           "name": "HN",
-          "score": 206,
-          "comments": 113,
+          "score": 224,
+          "comments": 121,
           "thread_url": "https://news.ycombinator.com/item?id=48558018"
+        },
+        {
+          "name": "lobste.rs",
+          "score": 2,
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/6qwblq/making_http_requests_from_container_has"
         }
       ]
     },
     {
-      "id": "HN-48561654",
-      "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
-      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "domain": "discuss.grapheneos.org",
-      "category": "Dev Tools",
+      "id": "HN-48558147",
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "domain": "gist.github.com",
+      "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-06-16T20:34:35Z",
+      "published_at": "2026-06-16T16:49:46Z",
       "sources": [
         {
           "name": "HN",
-          "score": 200,
-          "comments": 82,
-          "thread_url": "https://news.ycombinator.com/item?id=48561654"
+          "score": 199,
+          "comments": 126,
+          "thread_url": "https://news.ycombinator.com/item?id=48558147"
         }
       ]
     },
@@ -244,35 +264,15 @@
       "sources": [
         {
           "name": "HN",
-          "score": 185,
-          "comments": 49,
+          "score": 194,
+          "comments": 51,
           "thread_url": "https://news.ycombinator.com/item?id=48555838"
         },
         {
           "name": "lobste.rs",
-          "score": 6,
+          "score": 8,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/zpjomk/yak_shaving_is_fun"
-        }
-      ]
-    },
-    {
-      "id": "HN-48558147",
-      "title": "Stop Using JWTs",
-      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-      "domain": "gist.github.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-16T16:49:46Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 184,
-          "comments": 121,
-          "thread_url": "https://news.ycombinator.com/item?id=48558147"
         }
       ]
     },
@@ -290,29 +290,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 165,
+          "score": 169,
           "comments": 23,
           "thread_url": "https://news.ycombinator.com/item?id=48522316"
-        }
-      ]
-    },
-    {
-      "id": "HN-48558338",
-      "title": "'Ghost jobs' could soon be illegal in New York",
-      "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
-      "domain": "fastcompany.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-16T17:01:12Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 164,
-          "comments": 92,
-          "thread_url": "https://news.ycombinator.com/item?id=48558338"
         }
       ]
     },
@@ -330,29 +310,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 117,
-          "comments": 112,
+          "score": 123,
+          "comments": 130,
           "thread_url": "https://news.ycombinator.com/item?id=48559188"
-        }
-      ]
-    },
-    {
-      "id": "HN-48554814",
-      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-      "domain": "qwen.ai",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-16T13:15:15Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 108,
-          "comments": 16,
-          "thread_url": "https://news.ycombinator.com/item?id=48554814"
         }
       ]
     },
@@ -370,9 +330,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 103,
-          "comments": 111,
+          "score": 120,
+          "comments": 125,
           "thread_url": "https://news.ycombinator.com/item?id=48558489"
+        }
+      ]
+    },
+    {
+      "id": "HN-48554814",
+      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "domain": "qwen.ai",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-16T13:15:15Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 112,
+          "comments": 17,
+          "thread_url": "https://news.ycombinator.com/item?id=48554814"
         }
       ]
     },
@@ -417,26 +397,6 @@
       ]
     },
     {
-      "id": "HN-48557768",
-      "title": "Making ast.walk 220x Faster",
-      "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
-      "domain": "reflex.dev",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-16T16:25:28Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 77,
-          "comments": 14,
-          "thread_url": "https://news.ycombinator.com/item?id=48557768"
-        }
-      ]
-    },
-    {
       "id": "HN-48559083",
       "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
       "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
@@ -450,9 +410,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 76,
-          "comments": 61,
+          "score": 83,
+          "comments": 64,
           "thread_url": "https://news.ycombinator.com/item?id=48559083"
+        }
+      ]
+    },
+    {
+      "id": "HN-48557768",
+      "title": "Making ast.walk 220x Faster",
+      "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+      "domain": "reflex.dev",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-16T16:25:28Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 80,
+          "comments": 13,
+          "thread_url": "https://news.ycombinator.com/item?id=48557768"
         }
       ]
     },
@@ -470,29 +450,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 66,
-          "comments": 1,
+          "score": 68,
+          "comments": 2,
           "thread_url": "https://news.ycombinator.com/item?id=48497067"
-        }
-      ]
-    },
-    {
-      "id": "HN-48558337",
-      "title": "Specs Augmented Reality Glasses",
-      "url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
-      "domain": "newsroom.snap.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-16T17:00:59Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 65,
-          "comments": 39,
-          "thread_url": "https://news.ycombinator.com/item?id=48558337"
         }
       ]
     },
@@ -510,8 +470,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 30,
-          "comments": 13,
+          "score": 53,
+          "comments": 39,
           "thread_url": "https://news.ycombinator.com/item?id=48562957"
         }
       ]
@@ -530,29 +490,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 24,
+          "score": 27,
           "comments": 1,
           "thread_url": "https://news.ycombinator.com/item?id=48525340"
-        }
-      ]
-    },
-    {
-      "id": "HN-48560454",
-      "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
-      "url": "https://voicedraw.com/",
-      "domain": "voicedraw.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-16T19:13:30Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 23,
-          "comments": 8,
-          "thread_url": "https://news.ycombinator.com/item?id=48560454"
         }
       ]
     },
@@ -570,9 +510,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 22,
+          "score": 23,
           "comments": 8,
           "thread_url": "https://news.ycombinator.com/item?id=48561402"
+        }
+      ]
+    },
+    {
+      "id": "HN-48563569",
+      "title": "NLnet announces funding for 67 more open-source projects",
+      "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+      "domain": "nlnet.nl",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-16T23:12:09Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 22,
+          "comments": 5,
+          "thread_url": "https://news.ycombinator.com/item?id=48563569"
         }
       ]
     },
@@ -590,9 +550,49 @@
       "sources": [
         {
           "name": "HN",
-          "score": 14,
-          "comments": 4,
+          "score": 17,
+          "comments": 5,
           "thread_url": "https://news.ycombinator.com/item?id=48561410"
+        }
+      ]
+    },
+    {
+      "id": "HN-48563394",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "domain": "mll.sh",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-16T22:53:34Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 16,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=48563394"
+        }
+      ]
+    },
+    {
+      "id": "HN-48536660",
+      "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
+      "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
+      "domain": "arstechnica.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-15T04:37:42Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 13,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=48536660"
         }
       ]
     },
@@ -650,8 +650,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 36,
-          "comments": 9,
+          "score": 41,
+          "comments": 11,
           "thread_url": "https://lobste.rs/s/mxfd45/google_chrome_s_next_update_will_mark_end"
         }
       ]
@@ -671,7 +671,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 78,
+          "score": 79,
           "comments": 16,
           "thread_url": "https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released"
         }
@@ -692,9 +692,30 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 38,
-          "comments": 10,
+          "score": 39,
+          "comments": 11,
           "thread_url": "https://lobste.rs/s/2u1z4w/backdoor_linkedin_job_offer"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-tmeqrk",
+      "title": "How memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "domain": "kobzol.github.io",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "c",
+        "rust"
+      ],
+      "published_at": "2026-06-16T07:28:27.000-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 27,
+          "comments": 20,
+          "thread_url": "https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between"
         }
       ]
     },
@@ -719,28 +740,7 @@
       ]
     },
     {
-      "id": "lobste.rs-tmeqrk",
-      "title": "How memory safety CVEs differ between Rust and C/C++",
-      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-      "domain": "kobzol.github.io",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "c",
-        "rust"
-      ],
-      "published_at": "2026-06-16T07:28:27.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 26,
-          "comments": 17,
-          "thread_url": "https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between"
-        }
-      ]
-    },
-    {
-      "id": "702896bb9c35282d",
+      "id": "lobste.rs-erc2po",
       "title": "zlib-rs in Firefox",
       "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
       "domain": "trifectatech.org",
@@ -751,19 +751,13 @@
         "release",
         "rust"
       ],
-      "published_at": "2026-06-16T12:42:59+00:00",
+      "published_at": "2026-06-16T08:29:53.000-05:00",
       "sources": [
         {
           "name": "lobste.rs",
           "score": 25,
           "comments": 6,
           "thread_url": "https://lobste.rs/s/erc2po/zlib_rs_firefox"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1u7cgen/zlibrs_in_firefox_trifecta_tech_foundation/"
         }
       ]
     },
@@ -823,8 +817,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 40,
-          "comments": 10,
+          "score": 41,
+          "comments": 11,
           "thread_url": "https://lobste.rs/s/mjkp4m/time_x86_emulator_team_found_code_so_bad"
         }
       ]
@@ -844,8 +838,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 40,
-          "comments": 45,
+          "score": 41,
+          "comments": 46,
           "thread_url": "https://lobste.rs/s/k6qon4/what_job_interviews_taught_me_about"
         }
       ]
@@ -885,20 +879,21 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 30,
+          "score": 31,
           "comments": 2,
           "thread_url": "https://lobste.rs/s/qkli6l/oxygen_6_7_is_here_breath_fresh_air_for_kde_s"
         }
       ]
     },
     {
-      "id": "lobste.rs-uqagn2",
+      "id": "e4ae4e6dc9b8a4cf",
       "title": "curl summer of bliss",
       "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
       "domain": "daniel.haxx.se",
       "category": "Security",
       "summary": "",
       "tags": [
+        "cybersecurity",
         "security"
       ],
       "published_at": "2026-06-15T02:53:52.000-05:00",
@@ -908,6 +903,12 @@
           "score": 257,
           "comments": 21,
           "thread_url": "https://lobste.rs/s/uqagn2/curl_summer_bliss"
+        },
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u6gm5t/the_curl_project_will_not_accept_or_otherwise/"
         }
       ]
     },
@@ -995,23 +996,23 @@
       ]
     },
     {
-      "id": "lobste.rs-zaejgn",
-      "title": "Malware in Arch Linux AURs now inserting Russian spam into shell configs",
-      "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/",
-      "domain": "lists.archlinux.org",
-      "category": "Security",
+      "id": "lobste.rs-k7kojd",
+      "title": "all the ways in which terminals' text rendering is bad (2024)",
+      "url": "https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi",
+      "domain": "ecs.d2evs.net",
+      "category": "Systems",
       "summary": "",
       "tags": [
-        "linux",
-        "security"
+        "graphics",
+        "unix"
       ],
-      "published_at": "2026-06-16T13:36:47.000-05:00",
+      "published_at": "2026-06-16T14:04:17.000-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 8,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting"
+          "score": 4,
+          "comments": 2,
+          "thread_url": "https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering"
         }
       ]
     },
@@ -1029,7 +1030,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 101,
+          "score": 102,
           "comments": 11,
           "thread_url": "https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes"
         }
@@ -1074,27 +1075,6 @@
           "score": 13,
           "comments": 3,
           "thread_url": "https://lobste.rs/s/cyj3wa/when_float_division_beats_integer"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-k7kojd",
-      "title": "all the ways in which terminals' text rendering is bad (2024)",
-      "url": "https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi",
-      "domain": "ecs.d2evs.net",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "graphics",
-        "unix"
-      ],
-      "published_at": "2026-06-16T14:04:17.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 3,
-          "comments": 2,
-          "thread_url": "https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering"
         }
       ]
     },
@@ -1492,7 +1472,7 @@
       "url": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
       "domain": "theverge.com",
       "category": "Systems",
-      "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4 , adding a new Live Updates feature that tracks live events from your Android smart watch. Live Updates will now sync with Wear OS devices, so updates…",
+      "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4, adding a new Live Updates feature that tracks live events from your Android smartwatch. Live Updates will now sync with Wear OS devices, so updates…",
       "tags": [
         "Gadgets",
         "Google",
@@ -1952,6 +1932,35 @@
       ]
     },
     {
+      "id": "Wired-68add5d053e834d71da91abc",
+      "title": "Best Handheld Fans and Wearable Fans (2026)",
+      "url": "https://www.wired.com/gallery/best-handheld-fans/",
+      "domain": "wired.com",
+      "category": "Dev Tools",
+      "summary": "Whether you’re at a festival, tennis match, or wedding, these hand fans and wearable cooling devices will make the heat way more bearable.",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products",
+        "Gear / Products / Outdoor",
+        "Shopping",
+        "Stay Cool",
+        "buying guides",
+        "cooling",
+        "home",
+        "household"
+      ],
+      "published_at": "2026-06-16T23:48:10+00:00",
+      "sources": [
+        {
+          "name": "Wired",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.wired.com/gallery/best-handheld-fans/"
+        }
+      ]
+    },
+    {
       "id": "Wired-6a31687d64340aad9268452b",
       "title": "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
       "url": "https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/",
@@ -2256,27 +2265,22 @@
       ]
     },
     {
-      "id": "Wired-6a315f677dd65fa15466a3b1",
-      "title": "10 Designers Share the Trends Defining Dwellings of Tomorrow",
-      "url": "https://www.wired.com/story/10-designers-share-the-trends-defining-the-homes-of-tomorrow/",
-      "domain": "wired.com",
+      "id": "Engadget-https://www.engadget.com/2195930/dell-xps-13-available/",
+      "title": "The Dell XPS 13 laptop is available starting today",
+      "url": "https://www.engadget.com/2195930/dell-xps-13-available/",
+      "domain": "engadget.com",
       "category": "Systems",
-      "summary": "From friend compounds and meditation spaces to shaded outdoor areas and rooms just to make coffee, homes are getting even more multipurpose.",
+      "summary": "The Dell XPS 13 is now available, starting at $599.",
       "tags": [
-        "Architecture",
-        "Gear / Products / Home",
-        "The Big Story",
-        "The Future of Home",
-        "design",
-        "housing"
+        "Laptops"
       ],
-      "published_at": "2026-06-16T14:52:34+00:00",
+      "published_at": "2026-06-16T23:22:11+00:00",
       "sources": [
         {
-          "name": "Wired",
+          "name": "Engadget",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.wired.com/story/10-designers-share-the-trends-defining-the-homes-of-tomorrow/"
+          "thread_url": "https://www.engadget.com/2195930/dell-xps-13-available/"
         }
       ]
     },
@@ -2498,26 +2502,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.engadget.com/2194861/xreal-aura-android-xr-glasses-launch-no-price/"
-        }
-      ]
-    },
-    {
-      "id": "Engadget-https://www.engadget.com/2195309/nucurrent-smart-glass-nfc-charging-tech-in-ray-ban-meta-prototype/",
-      "title": "Is NFC charging the secret to nicer-looking smartglasses?",
-      "url": "https://www.engadget.com/2195309/nucurrent-smart-glass-nfc-charging-tech-in-ray-ban-meta-prototype/",
-      "domain": "engadget.com",
-      "category": "Systems",
-      "summary": "A pair of prototype Ray Ban Meta glasses at AWE 2026 show that NFC charging can achieve similar performance to the pogo pins common in smart glasses today.",
-      "tags": [
-        "Wearables"
-      ],
-      "published_at": "2026-06-16T17:00:00+00:00",
-      "sources": [
-        {
-          "name": "Engadget",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.engadget.com/2195309/nucurrent-smart-glass-nfc-charging-tech-in-ray-ban-meta-prototype/"
         }
       ]
     },
@@ -2978,6 +2962,27 @@
       ]
     },
     {
+      "id": "TechRadar-YnkJGUqu6cmM6gkGxBp9ca",
+      "title": "Next-gen 128TB SSDs set to squeeze data on the fly thanks to a new smart chip — Longsys WM8500 promises a compression ratio of up to 2:1, creating a virtual 256TB SSD at a much lower price",
+      "url": "https://www.techradar.com/pro/next-gen-128tb-ssds-set-to-squeeze-data-on-the-fly-thanks-to-a-new-smart-chip-longsys-wm8500-promises-a-compression-ratio-of-up-to-2-1-creating-a-virtual-256tb-ssd-at-a-much-lower-price",
+      "domain": "techradar.com",
+      "category": "AI / ML",
+      "summary": "Longsys might have an answer to ever-increasing SSD prices: intelligent storage that incorporates state-of-the-art compression.",
+      "tags": [
+        "AI Platforms &amp; Assistants",
+        "Pro"
+      ],
+      "published_at": "2026-06-16T23:20:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/pro/next-gen-128tb-ssds-set-to-squeeze-data-on-the-fly-thanks-to-a-new-smart-chip-longsys-wm8500-promises-a-compression-ratio-of-up-to-2-1-creating-a-virtual-256tb-ssd-at-a-much-lower-price"
+        }
+      ]
+    },
+    {
       "id": "TechRadar-CRFTkobPzdef2s4hjTyFvK",
       "title": "NYT Connections hints and answers for Wednesday, June 17 (game #1102)",
       "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-17-june-2026",
@@ -2994,28 +2999,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-17-june-2026"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-kUcVKwRZQ6KpkYdzB3KRQU",
-      "title": "Quordle hints and answers for Wednesday, June 17 (game #1605)",
-      "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-17-june-2026",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-      "tags": [
-        "Computing",
-        "Internet",
-        "Websites &amp; Apps"
-      ],
-      "published_at": "2026-06-16T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-17-june-2026"
         }
       ]
     },
@@ -3038,6 +3021,28 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-17-june-2026"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-kUcVKwRZQ6KpkYdzB3KRQU",
+      "title": "Quordle hints and answers for Wednesday, June 17 (game #1605)",
+      "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-17-june-2026",
+      "domain": "techradar.com",
+      "category": "Systems",
+      "summary": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
+      "tags": [
+        "Computing",
+        "Internet",
+        "Websites &amp; Apps"
+      ],
+      "published_at": "2026-06-16T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-17-june-2026"
         }
       ]
     },
@@ -3211,28 +3216,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techradar.com/pro/you-cant-hide-the-sound-of-an-engine-inside-the-revolutionary-czech-ai-acoustic-shield-designed-to-hunt-low-flying-drones-which-could-soon-come-to-a-street-near-you"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-LCpVMcmUFNPP8BKghWMPVg",
-      "title": "How to watch Iraq vs Norway: Free Streams & TV Channels for FIFA World Cup 2026",
-      "url": "https://www.techradar.com/how-to-watch/football/iraq-vs-norway-world-cup-2026",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "Here's how to watch Iraq vs Norway for free online and from anywhere as Erling Haaland prepares for his long-awaited FIFA World Cup debut.",
-      "tags": [
-        "How to Watch",
-        "How to Watch Football",
-        "How to Watch Sport"
-      ],
-      "published_at": "2026-06-16T19:05:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/how-to-watch/football/iraq-vs-norway-world-cup-2026"
         }
       ]
     },
@@ -3642,15 +3625,16 @@
       ]
     },
     {
-      "id": "404 Media-6a300d8f2162ed000167eff7",
+      "id": "6789758a745b5dd9",
       "title": "Hackers Are Hijacking Entire Roblox Games Now",
       "url": "https://www.404media.co/hackers-are-hijacking-entire-roblox-games-now/",
       "domain": "404media.co",
-      "category": "Systems",
+      "category": "Security",
       "summary": "Whereas Roblox hackers were previously focused on stealing players' high value items, some have taken over entire Roblox games, stealing their ownership and Robux in the process.",
       "tags": [
         "Hacking",
-        "News"
+        "News",
+        "cybersecurity"
       ],
       "published_at": "2026-06-16T13:00:49+00:00",
       "sources": [
@@ -3659,6 +3643,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.404media.co/hackers-are-hijacking-entire-roblox-games-now/"
+        },
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u7e2mw/hackers_are_hijacking_entire_roblox_games_now/"
         }
       ]
     },
@@ -3705,7 +3695,7 @@
       ]
     },
     {
-      "id": "404 Media-6a3007482162ed00016584cc",
+      "id": "dff612c0bfae0c68",
       "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests",
       "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
       "domain": "404media.co",
@@ -3714,7 +3704,8 @@
       "tags": [
         "AI",
         "AI Search",
-        "Reddit"
+        "Reddit",
+        "cybersecurity"
       ],
       "published_at": "2026-06-15T14:19:11+00:00",
       "sources": [
@@ -3723,6 +3714,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/"
+        },
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u6ku2b/it_is_trivially_easy_to_use_reddit_to_manipulate/"
         }
       ]
     },
@@ -10737,6 +10734,31 @@
       ]
     },
     {
+      "id": "AWS News-d825f9d469e21e76b22344398328d967de0264d2",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "domain": "aws.amazon.com",
+      "category": "Systems",
+      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale…",
+      "tags": [
+        "AWS Summit New York",
+        "Amazon Simple Storage Service (S3)",
+        "Events",
+        "Launch",
+        "News",
+        "Storage"
+      ],
+      "published_at": "2026-06-16T23:13:10+00:00",
+      "sources": [
+        {
+          "name": "AWS News",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"
+        }
+      ]
+    },
+    {
       "id": "AWS News-b888b8d60a4fd57cdcb13b3f7ef4d08b578e7e5d",
       "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
       "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
@@ -11012,29 +11034,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/"
-        }
-      ]
-    },
-    {
-      "id": "AWS News-1dbcfe788aeef8c99f13abab87cac5b8c7c70477",
-      "title": "Meet Our Newest AWS Heroes – May 2026",
-      "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
-      "domain": "aws.amazon.com",
-      "category": "Systems",
-      "summary": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge sharing that makes the AWS community thrive. From building AI-powered tools that help…",
-      "tags": [
-        "AWS Heroes",
-        "Announcements",
-        "Launch",
-        "News"
-      ],
-      "published_at": "2026-05-27T16:15:05+00:00",
-      "sources": [
-        {
-          "name": "AWS News",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/"
         }
       ]
     },
@@ -11505,288 +11504,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://about.gitlab.com/blog/sbom-based-dependency-scanning/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=qodana&p=712838",
-      "title": "Opinion: The Anthropic Dispute Is Not Really About Anthropic. It’s About Trust.",
-      "url": "https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/",
-      "domain": "blog.jetbrains.com",
-      "category": "AI / ML",
-      "summary": "When the US government effectively forced Anthropic to suspend access to some of its newest AI models over security concerns (Fable 5, Mythos 5), much of the debate immediately split into familiar camps. One side saw government overreach…",
-      "tags": [
-        "agentic-ai",
-        "ai",
-        "jetbrains",
-        "qodana",
-        "qodana-ai"
-      ],
-      "published_at": "2026-06-15T12:10:43+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/qodana/2026/06/anthropic-suspension/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=dotnet&p=712652",
-      "title": "dotInsights | June 2026",
-      "url": "https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "Did you know? The var keyword isn’t a keyword! It’s one of several “contextual” keywords in C#, and it only has special meaning when used to declare a variable. Try defining a class called var and see what happens to the rest of your…",
-      "tags": [
-        "dotinsights",
-        "net-tools"
-      ],
-      "published_at": "2026-06-12T11:43:07+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=life-at-jetbrains&p=712524",
-      "title": "Inside JetPride: How JetBrains Employees Built an LGBTQIA+ Community",
-      "url": "https://blog.jetbrains.com/life-at-jetbrains/2026/06/inside-jetpride-how-jetbrains-employees-built-an-lgbtqia-community/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "What makes a workplace feel welcoming? Sometimes it’s finding colleagues who share your interests. Sometimes it’s discovering people with similar experiences. Sometimes it’s knowing you can talk openly about your life, ask questions, share…",
-      "tags": [],
-      "published_at": "2026-06-12T07:59:58+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/life-at-jetbrains/2026/06/inside-jetpride-how-jetbrains-employees-built-an-lgbtqia-community/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=mps&p=709722",
-      "title": "MPS 2026.1 Release Candidate Arrives",
-      "url": "https://blog.jetbrains.com/mps/2026/06/the-mps-2026-1-rc1/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "Before we finalize the 2026.1 release, we are presenting a release candidate build so you can preview the new features ahead of time. Download MPS 2026.1 Release Candidate now: DOWNLOAD MPS 2026.1 RC 1 The release candidate brings a…",
-      "tags": [
-        "eap",
-        "release",
-        "releases"
-      ],
-      "published_at": "2026-06-11T12:07:28+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/mps/2026/06/the-mps-2026-1-rc1/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=pycharm&p=712584",
-      "title": "Best Python AI Frameworks in 2026",
-      "url": "https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "Whether you’re building chatbots, training computer vision models, or analyzing business data, choosing the right AI framework can make or break your project. Python has become the dominant language for AI and machine learning development…",
-      "tags": [
-        "data-science",
-        "hugging-face",
-        "keras",
-        "langchain",
-        "pytorch",
-        "scikit-learn",
-        "tensorflow"
-      ],
-      "published_at": "2026-06-11T11:28:08+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=phpstorm&p=710104",
-      "title": "Contribute to the State of PHP Survey",
-      "url": "https://blog.jetbrains.com/phpstorm/2026/06/state-of-php-survey-2026/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "Together with The PHP Foundation, we’re embarking on an exciting expedition – the first annual State of PHP census that aims to tally the elePHPant population across the world. Come join us! With the help of the community, we’ve designed a…",
-      "tags": [
-        "phpstorm",
-        "survey"
-      ],
-      "published_at": "2026-06-11T10:38:57+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/phpstorm/2026/06/state-of-php-survey-2026/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=qodana&p=712443",
-      "title": "Static Code Analysis and the Rules of Zero, Three, and Five",
-      "url": "https://blog.jetbrains.com/qodana/2026/06/static-code-analysis-and-the-rules-of-zero-three-and-five/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "The Rule of Zero, Three, and Five, sometimes written 0/3/5, is a set of C++ guidelines about resource ownership and the special member functions. They exist because the alternatives are double-frees, dangling pointers, and silently broken…",
-      "tags": [
-        "cpp",
-        "cpp-2",
-        "how-tos",
-        "qodana"
-      ],
-      "published_at": "2026-06-10T16:14:45+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/qodana/2026/06/static-code-analysis-and-the-rules-of-zero-three-and-five/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=clion&p=712025",
-      "title": "Modern C++ Support in CLion: What’s New",
-      "url": "https://blog.jetbrains.com/clion/2026/06/modern-cpp-support/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "Modern C++ makes advanced high-performance techniques more accessible, with features like compile-time computation, zero-overhead abstractions, and expressive template code. But as your codebase grows, your ability to use these techniques…",
-      "tags": [
-        "clionnova",
-        "code-analysis",
-        "constexpr",
-        "constexprdebugger",
-        "cpp26",
-        "gcc",
-        "news",
-        "tips-tricks"
-      ],
-      "published_at": "2026-06-10T09:36:29+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/clion/2026/06/modern-cpp-support/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=ai&p=712375",
-      "title": "Agentic AI Governance: Designing for Accountability and Control",
-      "url": "https://blog.jetbrains.com/ai/2026/06/agentic-ai-governance-designing-for-accountability-and-control/",
-      "domain": "blog.jetbrains.com",
-      "category": "AI / ML",
-      "summary": "Many organizations are already deploying agentic workflows. Some are still experimental, while others are running in production. Once an AI agent can take action on behalf of a business, the question is no longer whether it’s useful, but…",
-      "tags": [
-        "agentic-ai",
-        "ai-governance",
-        "governance",
-        "jetbrains-ai",
-        "jetbrains-central",
-        "partners"
-      ],
-      "published_at": "2026-06-10T03:31:57+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/ai/2026/06/agentic-ai-governance-designing-for-accountability-and-control/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=platform&p=712352",
-      "title": "JetBrains Plugin Developer Conf 2026 – Call for Speakers",
-      "url": "https://blog.jetbrains.com/platform/2026/06/jetbrains-plugin-developer-conf-2026-call-for-speakers/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "We’re excited to be preparing the third edition of Plugin Developer Conf, coming this November 2026 — a free community event focused on developing and managing plugins for JetBrains products. Over the past two years, Plugin Developer Conf…",
-      "tags": [
-        "events",
-        "jetbrains-marketplace",
-        "livestreams",
-        "marketplace",
-        "plugin-development",
-        "plugins"
-      ],
-      "published_at": "2026-06-09T19:08:21+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/platform/2026/06/jetbrains-plugin-developer-conf-2026-call-for-speakers/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=rust&p=711654",
-      "title": "Fewer False Alarms, Better Coding Flow in RustRover 2026.1",
-      "url": "https://blog.jetbrains.com/rust/2026/06/09/fewer-false-positives-rustrover/",
-      "domain": "blog.jetbrains.com",
-      "category": "Dev Tools",
-      "summary": "False positives interrupt your workflow. In RustRover 2026.1, we reduced them by up to 25% in real projects, so you’ll see fewer misleading warnings, more relevant suggestions, and smoother completion. Read on to learn what causes false…",
-      "tags": [
-        "false-positives",
-        "rustrover"
-      ],
-      "published_at": "2026-06-09T11:35:00+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/rust/2026/06/09/fewer-false-positives-rustrover/"
-        }
-      ]
-    },
-    {
-      "id": "JetBrains-https://blog.jetbrains.com/?post_type=dotnet&p=711938",
-      "title": "Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More.",
-      "url": "https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/",
-      "domain": "blog.jetbrains.com",
-      "category": "AI / ML",
-      "summary": "Rider 2026.2 EAP 5 is now available, bringing a faster startup flow with the new non-modal Welcome screen and quality-check hooks for AI agents. If you’re catching up on the 2026.2 EAP cycle, be sure to check out the blog posts we’ve…",
-      "tags": [
-        "ai-agent-hooks",
-        "claude",
-        "claude-code",
-        "codex",
-        "eap",
-        "early-access-program",
-        "jetbrains-ai",
-        "mcp-tools",
-        "net-tools",
-        "rider"
-      ],
-      "published_at": "2026-06-08T14:40:28+00:00",
-      "sources": [
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/"
         }
       ]
     },
@@ -13395,7 +13112,7 @@
       "category": "Systems",
       "summary": "For years, teams have relied on k6 to take a more proactive approach to performance testing, ensuring they can catch issues early and deliver more reliable user experiences. That approach has helped make k6 one of the most widely used…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13413,7 +13130,7 @@
       "category": "Systems",
       "summary": "Most platform and observability teams have logs they know are noise. These could be throwaway health check logs, forgotten DEBUG logs, or verbose INFO logs from little used services that only serve to inflate your bill. Regardless of what…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13431,7 +13148,7 @@
       "category": "Systems",
       "summary": "So your database is slow. Now what? Grafana Cloud Database Observability already gives you visibility into your SQL queries with RED metrics, individual execution samples, wait event breakdowns, table schemas, and visual explain plans. But…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13449,7 +13166,7 @@
       "category": "Systems",
       "summary": "When an unexpected alert fires these days, most engineers' first move is to ask their AI assistant for help.You ask why your checkout service is slow and the assistant gets to work, but it can't get any meaningful insights—at least not…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13467,7 +13184,7 @@
       "category": "Systems",
       "summary": "The way you write code is changing, which means the way you observe your systems and respond to issues needs to change, too. Engineers today spend much of their day working via command line, as agentic tools like Cursor and Claude Code…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13485,7 +13202,7 @@
       "category": "Systems",
       "summary": "To simulate real user behavior, performance tests often rely on API keys, tokens, or credentials to interact with real systems. But as your testing suite grows, this sensitive data can start to sprawl across scripts, configs, and…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13503,7 +13220,7 @@
       "category": "Systems",
       "summary": "Part of what makes Cloud Provider Observability in Grafana Cloud really useful is that it gives you prebuilt dashboards and drill-downs for AWS, Azure, and Google Cloud. Out of the box you get service overviews, instance-level views, and…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13521,7 +13238,7 @@
       "category": "Systems",
       "summary": "Continuous profiling is becoming a standard part of the observability stack, and for good reason. It's the only signal that tells you why your code is slow or expensive, not just that it is. Metrics tell you CPU usage is high. Logs tell…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13539,7 +13256,7 @@
       "category": "Systems",
       "summary": "Evaluating agents is hard. Verifying observability tasks is harder. Yes, AI agents have gotten dramatically and quantifiably better at coding and tool use, but observability presents a different kind of challenge. In a real incident, the…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13557,7 +13274,7 @@
       "category": "Systems",
       "summary": "The observability industry has developed great tools for using metrics, logs, traces, and profiles to monitor the cloud native applications that have dominated the last decade of software development. But when it comes to understanding…",
       "tags": [],
-      "published_at": "2026-06-16T23:11:32+00:00",
+      "published_at": "2026-06-16T23:52:16+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -15885,6 +15602,73 @@
       ]
     },
     {
+      "id": "Wccftech-https://wccftech.com/?post_type=how-to&p=1728086",
+      "title": "Fatekeeper PC Performance Analysis & Tuning Guide – How To Get The Best Experience On PC",
+      "url": "https://wccftech.com/how-to/fatekeeper-pc-performance-analysis-tuning-guide-how-to-get-the-best-experience-on-pc/",
+      "domain": "wccftech.com",
+      "category": "Hardware",
+      "summary": "With Unreal Engine 5 games becoming increasingly common on PC, it is always interesting to see which developers can actually tame Epic Games’ state-of-the-art engine rather than simply brute-forcing their way to good visuals at a massive…",
+      "tags": [
+        "DLSS Super Resolution",
+        "Fatekeeper",
+        "Featured",
+        "Guides",
+        "Hardware",
+        "Nanite Virtualized Geometry",
+        "News",
+        "Paraglacial",
+        "Software Lumen",
+        "Sticky",
+        "TSR",
+        "Unreal Engine 5",
+        "Virtual Shadow Maps",
+        "thq nordic"
+      ],
+      "published_at": "2026-06-16T23:31:16+00:00",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://wccftech.com/how-to/fatekeeper-pc-performance-analysis-tuning-guide-how-to-get-the-best-experience-on-pc/"
+        }
+      ]
+    },
+    {
+      "id": "Wccftech-https://wccftech.com/?p=1728164",
+      "title": "Intel’s 18A-P Debuts Power Boost, an Industry-First Dual-Contact Transistor That Squeezes More Frequency From the Same Chip Footprint",
+      "url": "https://wccftech.com/intel-18a-p-debuts-power-boost-industry-first-dual-contact-transistor-more-frequency-same-chip-footprint/",
+      "domain": "wccftech.com",
+      "category": "Hardware",
+      "summary": "Intel is sharing more details of its 18A-P process technology, which is expected to see some major customer momentum. Intel's 18A-P Process Tech Is Just As Key To Its Foundry Business As 14A, And Chipzilla Is Further Sharing Its Benefits…",
+      "tags": [
+        "14A",
+        "18A",
+        "18A-P",
+        "CFET",
+        "Diamond Rapids",
+        "Featured",
+        "Hardware",
+        "Intel",
+        "News",
+        "PowerVIA",
+        "RibbonFET",
+        "Semiconductor",
+        "SpaceX",
+        "Sticky",
+        "TeraFab"
+      ],
+      "published_at": "2026-06-16T23:20:09+00:00",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://wccftech.com/intel-18a-p-debuts-power-boost-industry-first-dual-contact-transistor-more-frequency-same-chip-footprint/"
+        }
+      ]
+    },
+    {
       "id": "Wccftech-https://wccftech.com/?p=1728154",
       "title": "AMD’s Next-Gen Threadripper “Mustang Peak” Confirmed: Built For TR6 Platform, Bringing 2nm Zen 6 Cores and PCIe Gen6",
       "url": "https://wccftech.com/amd-next-gen-threadripper-mustang-peak-confirmed-tr6-platform-2nm-zen-6-cores-pcie-gen6/",
@@ -16145,54 +15929,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://wccftech.com/apple-a22-pro-first-1-4nm-chipset-arriving-in-a-couple-of-years/"
-        }
-      ]
-    },
-    {
-      "id": "Wccftech-https://wccftech.com/?p=1728011",
-      "title": "An FCC Filing Exposes Samsung’s Galaxy Z Fold 8 Secrets, Pointing To A Snapdragon Chip And Satellite Connectivity Ahead Of Its July Debut",
-      "url": "https://wccftech.com/an-fcc-filing-exposes-samsungs-galaxy-z-fold-8-secrets-pointing-to-a-snapdragon-chip-and-satellite-connectivity-ahead-of-its-july-debut/",
-      "domain": "wccftech.com",
-      "category": "Hardware",
-      "summary": "It appears Samsung had been hiding a couple of surprises vis-à-vis the upcoming Galaxy Z Fold 8 only to see them unearthed via a timely FCC filing, which delineates the specific modem that would be used within the Apple iPhone Ultra…",
-      "tags": [
-        "Galaxy Z Fold 8",
-        "Mobile",
-        "News",
-        "Samsung"
-      ],
-      "published_at": "2026-06-16T16:17:09+00:00",
-      "sources": [
-        {
-          "name": "Wccftech",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://wccftech.com/an-fcc-filing-exposes-samsungs-galaxy-z-fold-8-secrets-pointing-to-a-snapdragon-chip-and-satellite-connectivity-ahead-of-its-july-debut/"
-        }
-      ]
-    },
-    {
-      "id": "Wccftech-https://wccftech.com/?p=1727988",
-      "title": "Google Sent A Broken Galaxy S22 Ultra As A Replacement For A Defective Pixel Unit, With One Customer Finding Out The Hard Way",
-      "url": "https://wccftech.com/pixel-owner-received-broken-galaxy-s22-ultra-as-replacement-for-defective-unit/",
-      "domain": "wccftech.com",
-      "category": "Hardware",
-      "summary": "The Galaxy S22 Ultra and Pixel 9 Pro XL are worlds apart in terms of design, but both smartphones appear to look the same, at least according to a subpar experience from a Google customer, who says that he sent out the older flagship for…",
-      "tags": [
-        "Featured",
-        "Galaxy S22 Ultra",
-        "Google",
-        "Mobile",
-        "News",
-        "Pixel 9 Pro XL"
-      ],
-      "published_at": "2026-06-16T15:54:41+00:00",
-      "sources": [
-        {
-          "name": "Wccftech",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://wccftech.com/pixel-owner-received-broken-galaxy-s22-ultra-as-replacement-for-defective-unit/"
         }
       ]
     },
@@ -18022,222 +17758,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-top-10-web-hacking-techniques-of-2025",
-      "title": "Top 10 web hacking techniques of 2025",
-      "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Welcome to the Top 10 Web Hacking Techniques of 2025, the 19th edition of our annual community-powered effort to identify the most innovative must-read web security research published in the last year",
-      "tags": [],
-      "published_at": "2026-02-05T15:28:08+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-top-10-web-hacking-techniques-of-2025-nominations-open",
-      "title": "Top 10 web hacking techniques of 2025: call for nominations",
-      "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Update: nominations are now closed, and voting is live! Cast your vote here Over the last year, security researchers have shared a huge amount of work with the community through blog posts, presentati",
-      "tags": [],
-      "published_at": "2026-01-06T15:31:28+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-the-fragile-lock",
-      "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
-      "url": "https://portswigger.net/research/the-fragile-lock",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "TLDR This post shows how to achieve a full authentication bypass in the Ruby and PHP SAML ecosystem by exploiting several parser-level inconsistencies: including attribute pollution, namespace confusi",
-      "tags": [],
-      "published_at": "2025-12-10T12:32:00+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/the-fragile-lock"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-introducing-http-anomaly-rank",
-      "title": "Introducing HTTP Anomaly Rank",
-      "url": "https://portswigger.net/research/introducing-http-anomaly-rank",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "HTTP Anomaly Rank If you've ever used Burp Intruder or Turbo Intruder, you'll be familiar with the ritual of manually digging through thousands of responses by repeatedly sorting the table via length,",
-      "tags": [],
-      "published_at": "2025-11-11T14:41:53+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/introducing-http-anomaly-rank"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-websocket-turbo-intruder-unearthing-the-websocket-goldmine",
-      "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
-      "url": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Many testers and tools give up the moment a protocol upgrade to WebSocket occurs, or only perform shallow analysis. This is a huge blind spot, leaving many bugs like Broken Access Controls, Race condi",
-      "tags": [],
-      "published_at": "2025-09-17T12:40:06+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
-      "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
-      "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
-      "tags": [],
-      "published_at": "2025-09-03T14:46:23+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-inline-style-exfiltration",
-      "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
-      "url": "https://portswigger.net/research/inline-style-exfiltration",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
-      "tags": [],
-      "published_at": "2025-08-26T12:54:03+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/inline-style-exfiltration"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-how-to-distinguish-http-pipelining-from-request-smuggling",
-      "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling",
-      "url": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Sometimes people think they've found HTTP request smuggling, when they're actually just observing HTTP keep-alive or pipelining. This is usually a false positive, but sometimes there's actually a real",
-      "tags": [],
-      "published_at": "2025-08-19T14:30:44+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-http1-must-die",
-      "title": "HTTP/1.1 must die: the desync endgame",
-      "url": "https://portswigger.net/research/http1-must-die",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Abstract Upstream HTTP/1.1 is inherently insecure and regularly exposes millions of websites to hostile takeover. Six years of attempted mitigations have hidden the issue, but failed to fix it. This p",
-      "tags": [],
-      "published_at": "2025-08-06T22:20:00+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/http1-must-die"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-repeater-strike-manual-testing-amplified",
-      "title": "Repeater Strike: manual testing, amplified",
-      "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
-      "tags": [],
-      "published_at": "2025-07-15T13:46:37+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
-      "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code",
-      "url": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Control characters like SOH, STX, EOT and ETX were never meant to run your code - but in the world of modern terminal emulators, they sometimes do. In this post, I'll dive into the forgotten mechanics",
-      "tags": [],
-      "published_at": "2025-04-30T12:37:11+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code"
-        }
-      ]
-    },
-    {
-      "id": "PortSwigger-document-my-pentest",
-      "title": "Document My Pentest: you hack, the AI writes it up!",
-      "url": "https://portswigger.net/research/document-my-pentest",
-      "domain": "portswigger.net",
-      "category": "Security",
-      "summary": "Tired of repeating yourself? Automate your web security audit trail. In this post I'll introduce a new Burp AI extension that takes the boring bits out of your pen test. Web security testing can be a",
-      "tags": [],
-      "published_at": "2025-04-23T13:17:24+00:00",
-      "sources": [
-        {
-          "name": "PortSwigger",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://portswigger.net/research/document-my-pentest"
         }
       ]
     },
@@ -20566,114 +20086,6 @@
       ]
     },
     {
-      "id": "Hugging Face-https://huggingface.co/blog/allenai/olmo-eval",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "domain": "huggingface.co",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-06-12T15:56:10+00:00",
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://huggingface.co/blog/allenai/olmo-eval"
-        }
-      ]
-    },
-    {
-      "id": "Hugging Face-https://huggingface.co/blog/torch-mlp-fusion",
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "domain": "huggingface.co",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://huggingface.co/blog/torch-mlp-fusion"
-        }
-      ]
-    },
-    {
-      "id": "Hugging Face-https://huggingface.co/blog/mishig/spaces-agents-md",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "domain": "huggingface.co",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-06-09T10:46:19+00:00",
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://huggingface.co/blog/mishig/spaces-agents-md"
-        }
-      ]
-    },
-    {
-      "id": "Hugging Face-https://huggingface.co/blog/github-ci-hf-jobs",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "domain": "huggingface.co",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-06-09T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://huggingface.co/blog/github-ci-hf-jobs"
-        }
-      ]
-    },
-    {
-      "id": "Hugging Face-https://huggingface.co/blog/openenv-agentic-rl",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "domain": "huggingface.co",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-06-08T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://huggingface.co/blog/openenv-agentic-rl"
-        }
-      ]
-    },
-    {
-      "id": "Hugging Face-https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "domain": "huggingface.co",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-06-04T18:57:45+00:00",
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
-        }
-      ]
-    },
-    {
       "id": "Google Research-https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
       "title": "From pixels to planning: Earth AI for nature restoration",
       "url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
@@ -22518,292 +21930,6 @@
       ]
     },
     {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80559",
-      "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation",
-      "url": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B for manipulation. We cover RobotWorld, a language-conditioned video world model with a…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "New Releases",
-        "Physical AI",
-        "Robotics",
-        "Staff",
-        "Technology"
-      ],
-      "published_at": "2026-06-16T16:51:19+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80556",
-      "title": "Hermes Agent Adds Asynchronous Subagents, So Delegated Work No Longer Blocks the Parent Chat",
-      "url": "https://www.marktechpost.com/2026/06/16/hermes-agent-adds-asynchronous-subagents-so-delegated-work-no-longer-blocks-the-parent-chat/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "We look at Hermes Agent's new asynchronous subagents from Nous Research. The delegate tool can now spawn background agents that no longer block the parent chat. We walk through the async_delegation toolset tracked in issue #5586, covering…",
-      "tags": [
-        "AI Agents",
-        "Agentic AI",
-        "Editors Pick",
-        "New Releases",
-        "Software Engineering",
-        "Staff",
-        "Tech News"
-      ],
-      "published_at": "2026-06-16T09:21:12+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/16/hermes-agent-adds-asynchronous-subagents-so-delegated-work-no-longer-blocks-the-parent-chat/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80549",
-      "title": "Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)",
-      "url": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "The concept of vibe coding is interesting; you don’t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications…",
-      "tags": [
-        "Agentic AI",
-        "Editors Pick",
-        "Promote",
-        "Sponsored",
-        "Staff",
-        "Tech News",
-        "Vibe Coding"
-      ],
-      "published_at": "2026-06-16T08:50:17+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80542",
-      "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
-      "url": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Context Engineering",
-        "Editors Pick",
-        "For Devs",
-        "Machine Learning",
-        "New Releases",
-        "Software Engineering",
-        "Staff",
-        "Tech News",
-        "Technology"
-      ],
-      "published_at": "2026-06-16T08:18:58+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80539",
-      "title": "How to Build a Parsing Pipeline with Docling Parse for Layout-Aware Document Intelligence",
-      "url": "https://www.marktechpost.com/2026/06/16/how-to-build-a-parsing-pipeline-with-docling-parse-for-layout-aware-document-intelligence/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "In this tutorial, we build a workflow that uses Docling Parse to analyze PDF documents at a detailed structural level. We prepare a stable Python environment, handle common Colab dependency issues, and generate a custom multi-page PDF with…",
-      "tags": [
-        "AI Infrastructure",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Staff",
-        "Technology",
-        "Tutorials"
-      ],
-      "published_at": "2026-06-16T07:20:08+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/16/how-to-build-a-parsing-pipeline-with-docling-parse-for-layout-aware-document-intelligence/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80529",
-      "title": "Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides",
-      "url": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "Sakana AI's first commercial product runs autonomously for up to eight hours per task. It returns multi-page reports and slides, built on AB-MCTS and AI Scientist workflows. The post Sakana AI Commercializes AB-MCTS in Sakana Marlin, an…",
-      "tags": [
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Enterprise AI",
-        "New Releases",
-        "Staff",
-        "Tech News",
-        "Technology",
-        "Uncategorized"
-      ],
-      "published_at": "2026-06-15T22:32:50+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80521",
-      "title": "Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
-      "url": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "Flash-KMeans is an open-source, IO-aware implementation of standard Lloyd's k-means in Triton GPU kernels. It does not change the math or approximate. FlashAssign removes distance-matrix materialization; Sort-Inverse Update eliminates…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "New Releases",
-        "Open Source",
-        "Staff",
-        "Tech News",
-        "Technology"
-      ],
-      "published_at": "2026-06-15T09:16:09+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80518",
-      "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
-      "url": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max effort levels. It drops into Claude Code, Cline, and OpenClaw through an…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model",
-        "Large Language Model",
-        "Machine Learning",
-        "New Releases",
-        "Software Engineering",
-        "Staff",
-        "Tech News",
-        "Technology"
-      ],
-      "published_at": "2026-06-15T06:10:23+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80513",
-      "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
-      "url": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hooks to MCP and Auto Mode. It includes a comparison table, working code examples, real use…",
-      "tags": [
-        "AI Agents",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Software Engineering",
-        "Technology",
-        "Top"
-      ],
-      "published_at": "2026-06-15T01:04:53+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=80510",
-      "title": "A Coding Hands-On on FineWeb for Streaming, Filtering, Deduplication, Tokenization, and Large-Scale Web Corpus Analytics",
-      "url": "https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "In this tutorial, we explore the FineWeb dataset through an advanced hands-on workflow. We stream a manageable sample of the dataset without downloading the full multi-terabyte corpus, inspect its schema and metadata, and analyze key…",
-      "tags": [
-        "Artificial Intelligence",
-        "Data Science",
-        "Dataset",
-        "Editors Pick",
-        "Machine Learning",
-        "Staff",
-        "Technology",
-        "Tutorials"
-      ],
-      "published_at": "2026-06-14T20:45:32+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/"
-        }
-      ]
-    },
-    {
       "id": "The Gradient-69879dd077c3d76051ac158f",
       "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
@@ -24430,6 +23556,106 @@
       ]
     },
     {
+      "id": "Phys.org-news700843202",
+      "title": "AI can clone your voice. Why that's powerful—and dangerous",
+      "url": "https://phys.org/news/2026-06-ai-clone-voice-powerful-dangerous.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Using artificial intelligence, scammers can duplicate someone's voice with just seconds of audio, says the University of Cincinnati's Kimberly Hyun. Impostor scams are one of the most common forms of fraud, according to the Federal Trade…",
+      "tags": [
+        "Economics & Business"
+      ],
+      "published_at": "2026-06-16T23:40:05+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-06-ai-clone-voice-powerful-dangerous.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news700834683",
+      "title": "Intensive nickel mining has transformed microbial biodiversity of Thio Lagoon in New Caledonia",
+      "url": "https://phys.org/news/2026-06-intensive-nickel-microbial-biodiversity-thio.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "A study carried out by scientists from Ifremer, IRD, the universities of Western Brittany (UBO) and Bordeaux, CNRS, and the University of Tartu (Estonia) reveals the impact of nickel mining on the coastal ecosystems of New Caledonia…",
+      "tags": [
+        "Ecology"
+      ],
+      "published_at": "2026-06-16T23:40:03+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-06-intensive-nickel-microbial-biodiversity-thio.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news700847941",
+      "title": "Webb and Hubble reveal the history of a relic of Milky Way's formation",
+      "url": "https://phys.org/news/2026-06-webb-hubble-reveal-history-relic.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Researchers using two of humanity's most powerful observatories—NASA's James Webb and Hubble Space Telescopes—have definitively shown that Terzan 5 is not a globular star cluster, as it was once classified, offering new insight into how…",
+      "tags": [
+        "Astronomy"
+      ],
+      "published_at": "2026-06-16T23:30:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-06-webb-hubble-reveal-history-relic.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news700833967",
+      "title": "Report reveals how digital tools are transforming biodiversity crisis response",
+      "url": "https://phys.org/news/2026-06-reveals-digital-tools-biodiversity-crisis.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Scientists who study plant physiology and evolution have a new tool in their toolkit: a machine learning algorithm that can scan digital plant specimen collections and quickly measure leaf size and thickness.",
+      "tags": [
+        "Ecology"
+      ],
+      "published_at": "2026-06-16T23:20:03+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-06-reveals-digital-tools-biodiversity-crisis.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news700834501",
+      "title": "Cotton's roots traced to Yucatan Peninsula, where wild gene pool runs deepest",
+      "url": "https://phys.org/news/2026-06-cotton-roots-yucatan-peninsula-wild.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "There's nothing like this in nature, Jonathan Wendel said as he showed a visitor in his Bessey Hall office the long white puffs billowing from a cotton boll—the protective flower capsule of the plant cultivated by humans for thousands of…",
+      "tags": [
+        "Evolution"
+      ],
+      "published_at": "2026-06-16T23:20:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-06-cotton-roots-yucatan-peninsula-wild.html"
+        }
+      ]
+    },
+    {
       "id": "Phys.org-news700846801",
       "title": "Santa Cruz trail study reveals how mountain lions and outdoor recreation can safely share spaces",
       "url": "https://phys.org/news/2026-06-santa-cruz-trail-reveals-mountain.html",
@@ -24566,106 +23792,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://phys.org/news/2026-06-rna-barcoding-approach-reveals-previously.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news700837742",
-      "title": "Quantum lab aboard space station gets 'chilly' upgrade",
-      "url": "https://phys.org/news/2026-06-quantum-lab-aboard-space-station.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Astronauts aboard the International Space Station have switched on NASA's newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum…",
-      "tags": [
-        "Space Exploration"
-      ],
-      "published_at": "2026-06-16T22:20:06+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-06-quantum-lab-aboard-space-station.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news700832882",
-      "title": "AI system evaluates chemical spectra in minutes",
-      "url": "https://phys.org/news/2026-06-ai-chemical-spectra-minutes.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "A research team has developed an artificial intelligence (AI) system that proposes suitable molecular structures from the raw data of spectroscopic measurements and assesses their plausibility. The system is openly accessible and has been…",
-      "tags": [
-        "Analytical Chemistry"
-      ],
-      "published_at": "2026-06-16T22:20:03+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-06-ai-chemical-spectra-minutes.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news700844882",
-      "title": "A flexible graphene-based neural interface can 'speak and listen' to the brain",
-      "url": "https://phys.org/news/2026-06-flexible-graphene-based-neural-interface.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Neural interfaces are devices that can detect or modulate neuronal activity when placed in contact with the brain. They are already used to treat various conditions related to the nervous system. However, current technologies still have…",
-      "tags": [
-        "Bio & Medicine"
-      ],
-      "published_at": "2026-06-16T22:10:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-06-flexible-graphene-based-neural-interface.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news700833947",
-      "title": "AI-based system developed to better detect toxic online content",
-      "url": "https://phys.org/news/2026-06-ai-based-toxic-online-content.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "A Concordia-led team of researchers has developed a new artificial intelligence-based method of detecting toxic online content that is faster and more accurate than existing tools. The system is designed to ensure social media platforms…",
-      "tags": [
-        "Social Sciences"
-      ],
-      "published_at": "2026-06-16T22:00:07+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-06-ai-based-toxic-online-content.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news700832821",
-      "title": "Why one famous predator shrank two ways: Fossils reveal distinct growth strategies in early Permian Dimetrodon",
-      "url": "https://phys.org/news/2026-06-famous-predator-shrank-ways-fossils.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "The sail-backed predator Dimetrodon is one of the most iconic animals of the early Permian—long before dinosaurs dominated Earth. Most known species of this early relative of mammals reached large body sizes, sometimes up to 3 meters (10…",
-      "tags": [
-        "Evolution"
-      ],
-      "published_at": "2026-06-16T22:00:04+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-06-famous-predator-shrank-ways-fossils.html"
         }
       ]
     },
@@ -24886,6 +24012,27 @@
       ]
     },
     {
+      "id": "ScienceAlert-https://www.sciencealert.com/?p=205140",
+      "title": "Breakthrough to Make Bones Stronger Could Reverse Osteoporosis",
+      "url": "https://www.sciencealert.com/breakthrough-to-make-bones-stronger-could-reverse-osteoporosis",
+      "domain": "sciencealert.com",
+      "category": "Science",
+      "summary": "A potential treatment for millions. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "tags": [
+        "Health",
+        "MSFT Content"
+      ],
+      "published_at": "2026-06-16T23:31:41+00:00",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencealert.com/breakthrough-to-make-bones-stronger-could-reverse-osteoporosis"
+        }
+      ]
+    },
+    {
       "id": "ScienceAlert-https://www.sciencealert.com/?p=205100",
       "title": "Strange Green Stones And a Child's Tooth Deepen a Pyrenees Mystery",
       "url": "https://www.sciencealert.com/strange-green-stones-and-a-childs-tooth-deepen-a-pyrenees-mystery",
@@ -25068,27 +24215,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.sciencealert.com/a-useless-organ-that-doctors-often-remove-may-actually-fight-cancer"
-        }
-      ]
-    },
-    {
-      "id": "ScienceAlert-https://www.sciencealert.com/?p=204547",
-      "title": "Your Brain Might Predict Social Interactions Before They Happen",
-      "url": "https://www.sciencealert.com/your-brain-might-predict-social-interactions-before-they-happen",
-      "domain": "sciencealert.com",
-      "category": "Science",
-      "summary": "A social sync. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-      "tags": [
-        "MSFT Content",
-        "Nature"
-      ],
-      "published_at": "2026-06-15T23:00:21+00:00",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencealert.com/your-brain-might-predict-social-interactions-before-they-happen"
         }
       ]
     },
@@ -26024,122 +25150,182 @@
       ]
     },
     {
-      "id": "r/dev-t3_1u7q8pg",
-      "title": "Nginx explained in plain English",
-      "url": "https://sanyamserver.online/posts/nginx-reverse-proxy/",
-      "domain": "sanyamserver.online",
+      "id": "r/netsec-t3_1u7p4rj",
+      "title": "27 Years in the Dark: OpenBSD Fixes Ancient Remote Kernel Auth Bypass",
+      "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+      "domain": "blog.argus-systems.ai",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "programming"
+        "netsec"
       ],
-      "published_at": "2026-06-16T21:08:49+00:00",
+      "published_at": "2026-06-16T20:26:26+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/netsec",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1u7q8pg/nginx_explained_in_plain_english/"
+          "thread_url": "https://www.reddit.com/r/netsec/comments/1u7p4rj/27_years_in_the_dark_openbsd_fixes_ancient_remote/"
         }
       ]
     },
     {
-      "id": "r/dev-t3_1u7jiir",
-      "title": "Fearless Embedded Rust: Driving a Lego Car with a Pico W",
-      "url": "https://dystroy.org/blog/picomobile/",
-      "domain": "dystroy.org",
-      "category": "Dev Tools",
+      "id": "r/netsec-t3_1u7mbsp",
+      "title": "Nothing on the Internet Is Secure Anymore",
+      "url": "https://www.theatlantic.com/technology/2026/06/ai-hacking-cybersecurity-banks/687562/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo&utm_term=short",
+      "domain": "theatlantic.com",
+      "category": "Security",
       "summary": "",
       "tags": [
-        "rust"
+        "cybersecurity"
       ],
-      "published_at": "2026-06-16T17:06:39+00:00",
+      "published_at": "2026-06-16T18:45:48+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/netsec",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1u7jiir/fearless_embedded_rust_driving_a_lego_car_with_a/"
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u7mbsp/nothing_on_the_internet_is_secure_anymore/"
         }
       ]
     },
     {
-      "id": "r/dev-t3_1u7i2bj",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "domain": "crunchydata.com",
+      "id": "r/netsec-t3_1u7jjwe",
+      "title": "Getting a CVE Without Shipping Slop",
+      "url": "https://www.credrelay.com/p/getting-a-cve-without-shipping-slop",
+      "domain": "credrelay.com",
+      "category": "Security",
+      "summary": "",
+      "tags": [
+        "cybersecurity"
+      ],
+      "published_at": "2026-06-16T17:07:56+00:00",
+      "sources": [
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u7jjwe/getting_a_cve_without_shipping_slop/"
+        }
+      ]
+    },
+    {
+      "id": "r/netsec-t3_1u7e74s",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/?comments-page=1#comments",
+      "domain": "arstechnica.com",
+      "category": "Security",
+      "summary": "",
+      "tags": [
+        "cybersecurity"
+      ],
+      "published_at": "2026-06-16T13:53:00+00:00",
+      "sources": [
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u7e74s/critical_copilot_vulnerability_allowed_hackers_to/"
+        }
+      ]
+    },
+    {
+      "id": "r/netsec-t3_1u7aujo",
+      "title": "Council of Europe hacked",
+      "url": "https://threatroad.substack.com/p/council-of-europe-hackedhttps://threatroad.substack.com/p/council-of-europe-hacked",
+      "domain": "threatroad.substack.com",
+      "category": "Security",
+      "summary": "",
+      "tags": [
+        "cybersecurity"
+      ],
+      "published_at": "2026-06-16T11:28:37+00:00",
+      "sources": [
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u7aujo/council_of_europe_hacked/"
+        }
+      ]
+    },
+    {
+      "id": "r/netsec-t3_1u7ak2s",
+      "title": "The Hidden Backdoors Inside Millions of Smart Devices | WSJ",
+      "url": "https://www.youtube.com/watch?v=apEPPKYgLL0",
+      "domain": "youtube.com",
+      "category": "Security",
+      "summary": "",
+      "tags": [
+        "cybersecurity"
+      ],
+      "published_at": "2026-06-16T11:13:40+00:00",
+      "sources": [
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u7ak2s/the_hidden_backdoors_inside_millions_of_smart/"
+        }
+      ]
+    },
+    {
+      "id": "r/netsec-t3_1u6smzb",
+      "title": "Empty-ciphertext panic in aws-encryption-provider (CVD with AWS)",
+      "url": "https://syntetisk.tech/blog/posts/empty-ciphertext-panic-in-aws-encryption-provider-cvd-with-aws/",
+      "domain": "syntetisk.tech",
+      "category": "Security",
+      "summary": "",
+      "tags": [
+        "netsec"
+      ],
+      "published_at": "2026-06-15T20:38:45+00:00",
+      "sources": [
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/netsec/comments/1u6smzb/emptyciphertext_panic_in_awsencryptionprovider/"
+        }
+      ]
+    },
+    {
+      "id": "r/netsec-t3_1u6q2l5",
+      "title": "FBI issues urgent Kali365 security warning for Teams, Outlook, OneDrive users",
+      "url": "https://thehill.com/policy/technology/5924655-microsoft-365-phishing-threat/",
+      "domain": "thehill.com",
+      "category": "Security",
+      "summary": "",
+      "tags": [
+        "cybersecurity"
+      ],
+      "published_at": "2026-06-15T19:07:27+00:00",
+      "sources": [
+        {
+          "name": "r/netsec",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/cybersecurity/comments/1u6q2l5/fbi_issues_urgent_kali365_security_warning_for/"
+        }
+      ]
+    },
+    {
+      "id": "r/netsec-t3_1u6gzs7",
+      "title": "SearchLeak: How We Turned M365 Copilot Into a One-Click Data Exfiltration Weapon",
+      "url": "https://www.varonis.com/blog/searchleak",
+      "domain": "varonis.com",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "programming"
+        "netsec"
       ],
-      "published_at": "2026-06-16T16:15:33+00:00",
+      "published_at": "2026-06-15T13:42:31+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/netsec",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1u7i2bj/british_columbia_time_zones_and_postgres/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1u77h7h",
-      "title": "Don't run SQL migrations in tests: How I sped up the test suite by 2x",
-      "url": "https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html",
-      "domain": "gaultier.github.io",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "programming"
-      ],
-      "published_at": "2026-06-16T08:18:40+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1u77h7h/dont_run_sql_migrations_in_tests_how_i_sped_up/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1u6ww32",
-      "title": "Using OxCaml to implement type-safe reference counting between OCaml and Python",
-      "url": "https://blog.janestreet.com/oxcaml-typesafe-reference-counting-python/",
-      "domain": "blog.janestreet.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "ProgrammingLanguages"
-      ],
-      "published_at": "2026-06-15T23:24:10+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1u6ww32/using_oxcaml_to_implement_typesafe_reference/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1u6mbzg",
-      "title": "Programming Language Design and Implementation (PLDI) 2026 Live Streams",
-      "url": "https://pldi26.sigplan.org/attending/live-streams",
-      "domain": "pldi26.sigplan.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "ProgrammingLanguages"
-      ],
-      "published_at": "2026-06-15T16:57:10+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1u6mbzg/programming_language_design_and_implementation/"
+          "thread_url": "https://www.reddit.com/r/netsec/comments/1u6gzs7/searchleak_how_we_turned_m365_copilot_into_a/"
         }
       ]
     }

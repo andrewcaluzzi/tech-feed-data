@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:21:04+00:00",
+  "generated_at": "2026-07-04T08:35:15+00:00",
   "items": [
     {
       "id": "HN-48776044",
@@ -15,8 +15,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 385,
-          "comments": 365,
+          "score": 394,
+          "comments": 366,
           "thread_url": "https://news.ycombinator.com/item?id=48776044"
         }
       ]
@@ -36,8 +36,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 336,
-          "comments": 81,
+          "score": 355,
+          "comments": 87,
           "thread_url": "https://news.ycombinator.com/item?id=48779683"
         },
         {
@@ -62,8 +62,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 322,
-          "comments": 146,
+          "score": 334,
+          "comments": 151,
           "thread_url": "https://news.ycombinator.com/item?id=48775921"
         }
       ]
@@ -82,76 +82,36 @@
       "sources": [
         {
           "name": "HN",
-          "score": 227,
-          "comments": 93,
+          "score": 238,
+          "comments": 98,
           "thread_url": "https://news.ycombinator.com/item?id=48776035"
         }
       ]
     },
     {
-      "id": "HN-48780417",
+      "id": "f56a279c6b131452",
       "title": "Performance per dollar is getting faster and cheaper",
       "url": "https://www.wafer.ai/blog/glm52-amd",
       "domain": "wafer.ai",
       "category": "Systems",
       "summary": "",
       "tags": [
+        "singularity",
         "story"
       ],
       "published_at": "2026-07-03T21:49:06Z",
       "sources": [
         {
           "name": "HN",
-          "score": 211,
-          "comments": 62,
+          "score": 224,
+          "comments": 73,
           "thread_url": "https://news.ycombinator.com/item?id=48780417"
-        }
-      ]
-    },
-    {
-      "id": "741f744b7b833376",
-      "title": "Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?",
-      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "domain": "ubuntu.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "programming",
-        "story"
-      ],
-      "published_at": "2026-06-30T11:07:38Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 196,
-          "comments": 22,
-          "thread_url": "https://news.ycombinator.com/item?id=48730953"
         },
         {
-          "name": "r/dev",
+          "name": "r/ai",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1umi3j4/hunting_a_16yearold_sqlite_bug_with_tla_is_dqlite/"
-        }
-      ]
-    },
-    {
-      "id": "HN-48779454",
-      "title": "SearXNG: A free internet metasearch engine",
-      "url": "https://github.com/searxng/searxng",
-      "domain": "github.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-03T20:15:49Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 191,
-          "comments": 51,
-          "thread_url": "https://news.ycombinator.com/item?id=48779454"
+          "thread_url": "https://www.reddit.com/r/singularity/comments/1umua0n/performance_per_dollar_is_getting_faster_and/"
         }
       ]
     },
@@ -169,9 +129,49 @@
       "sources": [
         {
           "name": "HN",
-          "score": 187,
-          "comments": 43,
+          "score": 210,
+          "comments": 50,
           "thread_url": "https://news.ycombinator.com/item?id=48780801"
+        }
+      ]
+    },
+    {
+      "id": "HN-48730953",
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "domain": "ubuntu.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-30T11:07:38Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 203,
+          "comments": 22,
+          "thread_url": "https://news.ycombinator.com/item?id=48730953"
+        }
+      ]
+    },
+    {
+      "id": "HN-48779454",
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "domain": "github.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-03T20:15:49Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 202,
+          "comments": 53,
+          "thread_url": "https://news.ycombinator.com/item?id=48779454"
         }
       ]
     },
@@ -189,29 +189,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 171,
+          "score": 186,
           "comments": 89,
           "thread_url": "https://news.ycombinator.com/item?id=48780870"
-        }
-      ]
-    },
-    {
-      "id": "HN-48777266",
-      "title": "International chess federation sanctions Kramnik",
-      "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-      "domain": "fide.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-03T17:04:08Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 151,
-          "comments": 84,
-          "thread_url": "https://news.ycombinator.com/item?id=48777266"
         }
       ]
     },
@@ -229,29 +209,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 121,
-          "comments": 42,
+          "score": 133,
+          "comments": 45,
           "thread_url": "https://news.ycombinator.com/item?id=48778757"
-        }
-      ]
-    },
-    {
-      "id": "HN-48780865",
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "domain": "github.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-03T22:39:50Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 118,
-          "comments": 24,
-          "thread_url": "https://news.ycombinator.com/item?id=48780865"
         }
       ]
     },
@@ -269,9 +229,49 @@
       "sources": [
         {
           "name": "HN",
-          "score": 113,
-          "comments": 144,
+          "score": 131,
+          "comments": 167,
           "thread_url": "https://news.ycombinator.com/item?id=48781196"
+        }
+      ]
+    },
+    {
+      "id": "HN-48780865",
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "domain": "github.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-03T22:39:50Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 127,
+          "comments": 27,
+          "thread_url": "https://news.ycombinator.com/item?id=48780865"
+        }
+      ]
+    },
+    {
+      "id": "HN-48783117",
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "domain": "blog.mikebowler.ca",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-04T06:32:28Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 125,
+          "comments": 60,
+          "thread_url": "https://news.ycombinator.com/item?id=48783117"
         }
       ]
     },
@@ -289,7 +289,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 100,
+          "score": 103,
           "comments": 7,
           "thread_url": "https://news.ycombinator.com/item?id=48779723"
         }
@@ -309,8 +309,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 89,
-          "comments": 30,
+          "score": 94,
+          "comments": 32,
           "thread_url": "https://news.ycombinator.com/item?id=48780056"
         }
       ]
@@ -329,8 +329,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 75,
-          "comments": 13,
+          "score": 85,
+          "comments": 15,
           "thread_url": "https://news.ycombinator.com/item?id=48780913"
         }
       ]
@@ -349,8 +349,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 70,
-          "comments": 16,
+          "score": 79,
+          "comments": 24,
           "thread_url": "https://news.ycombinator.com/item?id=48781688"
         }
       ]
@@ -369,8 +369,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 70,
-          "comments": 9,
+          "score": 78,
+          "comments": 10,
           "thread_url": "https://news.ycombinator.com/item?id=48781597"
         }
       ]
@@ -390,8 +390,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 60,
-          "comments": 20,
+          "score": 72,
+          "comments": 29,
           "thread_url": "https://news.ycombinator.com/item?id=48782671"
         },
         {
@@ -399,26 +399,6 @@
           "score": 3,
           "comments": 1,
           "thread_url": "https://lobste.rs/s/pigihe/agentic_coding_notes_from_galapogos"
-        }
-      ]
-    },
-    {
-      "id": "HN-48739682",
-      "title": "Gone but Not Forgotten: Recovering the Dead Web",
-      "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
-      "domain": "blog.archive.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-30T21:48:43Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 57,
-          "comments": 13,
-          "thread_url": "https://news.ycombinator.com/item?id=48739682"
         }
       ]
     },
@@ -437,15 +417,35 @@
       "sources": [
         {
           "name": "HN",
-          "score": 54,
-          "comments": 11,
+          "score": 71,
+          "comments": 13,
           "thread_url": "https://news.ycombinator.com/item?id=48782219"
         },
         {
           "name": "lobste.rs",
-          "score": 1,
+          "score": 2,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/yvwctq/synthesis_is_harder_than_analysis"
+        }
+      ]
+    },
+    {
+      "id": "HN-48739682",
+      "title": "Gone but Not Forgotten: Recovering the Dead Web",
+      "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
+      "domain": "blog.archive.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-30T21:48:43Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 63,
+          "comments": 16,
+          "thread_url": "https://news.ycombinator.com/item?id=48739682"
         }
       ]
     },
@@ -463,49 +463,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 45,
-          "comments": 10,
+          "score": 62,
+          "comments": 20,
           "thread_url": "https://news.ycombinator.com/item?id=48782918"
-        }
-      ]
-    },
-    {
-      "id": "HN-48783117",
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "domain": "blog.mikebowler.ca",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-04T06:32:28Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 37,
-          "comments": 7,
-          "thread_url": "https://news.ycombinator.com/item?id=48783117"
-        }
-      ]
-    },
-    {
-      "id": "HN-48739018",
-      "title": "Mir Books – Books from the Soviet Era",
-      "url": "https://mirtitles.org",
-      "domain": "mirtitles.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-06-30T20:50:58Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 35,
-          "comments": 13,
-          "thread_url": "https://news.ycombinator.com/item?id=48739018"
         }
       ]
     },
@@ -523,9 +483,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 34,
-          "comments": 18,
+          "score": 50,
+          "comments": 22,
           "thread_url": "https://news.ycombinator.com/item?id=48782435"
+        }
+      ]
+    },
+    {
+      "id": "HN-48739018",
+      "title": "Mir Books – Books from the Soviet Era",
+      "url": "https://mirtitles.org",
+      "domain": "mirtitles.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-30T20:50:58Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 49,
+          "comments": 22,
+          "thread_url": "https://news.ycombinator.com/item?id=48739018"
         }
       ]
     },
@@ -543,29 +523,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 29,
-          "comments": 10,
+          "score": 31,
+          "comments": 11,
           "thread_url": "https://news.ycombinator.com/item?id=48735097"
         }
       ]
     },
     {
-      "id": "HN-48782890",
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://www.hyperstitionai.com/unslop-results",
-      "domain": "hyperstitionai.com",
-      "category": "AI / ML",
+      "id": "HN-48735811",
+      "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+      "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
+      "domain": "davidslv.uk",
+      "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-07-04T05:37:25Z",
+      "published_at": "2026-06-30T17:10:26Z",
       "sources": [
         {
           "name": "HN",
-          "score": 14,
-          "comments": 6,
-          "thread_url": "https://news.ycombinator.com/item?id=48782890"
+          "score": 16,
+          "comments": 4,
+          "thread_url": "https://news.ycombinator.com/item?id=48735811"
         }
       ]
     },
@@ -610,22 +590,42 @@
       ]
     },
     {
-      "id": "HN-48735811",
-      "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
-      "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
-      "domain": "davidslv.uk",
+      "id": "HN-48749868",
+      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "url": "https://github.com/adam-s/car-diagnosis",
+      "domain": "github.com",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-01T16:57:20Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 12,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=48749868"
+        }
+      ]
+    },
+    {
+      "id": "HN-47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "domain": "news.ycombinator.com",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-06-30T17:10:26Z",
+      "published_at": "2026-04-02T12:36:10Z",
       "sources": [
         {
           "name": "HN",
-          "score": 10,
-          "comments": 3,
-          "thread_url": "https://news.ycombinator.com/item?id=48735811"
+          "score": 9,
+          "comments": 1,
+          "thread_url": "https://news.ycombinator.com/item?id=47613622"
         }
       ]
     },
@@ -643,8 +643,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 251,
-          "comments": 19,
+          "score": 260,
+          "comments": 21,
           "thread_url": "https://lobste.rs/s/zwz0wh/fourteener_lobsters"
         }
       ]
@@ -658,14 +658,15 @@
       "summary": "",
       "tags": [
         "distributed",
+        "vibecoding",
         "web"
       ],
       "published_at": "2026-07-03T08:37:09.000-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 42,
-          "comments": 14,
+          "score": 43,
+          "comments": 15,
           "thread_url": "https://lobste.rs/s/1g5bum/why_implementing_activitypub_is_hard_why"
         }
       ]
@@ -685,7 +686,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 22,
+          "score": 30,
           "comments": 1,
           "thread_url": "https://lobste.rs/s/wbpoiy/magit_4_6_released"
         }
@@ -705,8 +706,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 12,
-          "comments": 5,
+          "score": 13,
+          "comments": 6,
           "thread_url": "https://lobste.rs/s/fx5e0f/i_don_t_maintain_my_homelab"
         }
       ]
@@ -725,8 +726,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 15,
-          "comments": 4,
+          "score": 18,
+          "comments": 5,
           "thread_url": "https://lobste.rs/s/i7klfz/my_favorite_keyboards"
         }
       ]
@@ -765,7 +766,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 21,
+          "score": 24,
           "comments": 4,
           "thread_url": "https://lobste.rs/s/skwy7v/goodbye_forever_probably"
         }
@@ -794,7 +795,7 @@
       ]
     },
     {
-      "id": "5988429fc84a18cb",
+      "id": "lobste.rs-ryny2c",
       "title": "crustc: Entirety of rustc, translated to C",
       "url": "https://github.com/FractalFir/crustc",
       "domain": "github.com",
@@ -803,19 +804,13 @@
       "tags": [
         "rust"
       ],
-      "published_at": "2026-07-02T17:43:37+00:00",
+      "published_at": "2026-07-02T18:19:21.000-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 102,
+          "score": 103,
           "comments": 15,
           "thread_url": "https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1ulp4jf/entirety_of_rustc_converted_to_46_million_lines/"
         }
       ]
     },
@@ -834,8 +829,29 @@
         {
           "name": "lobste.rs",
           "score": 6,
-          "comments": 1,
+          "comments": 2,
           "thread_url": "https://lobste.rs/s/suucvi/suffix_bwt_vs_cyclic_shift_bwt_fast"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-qxorqp",
+      "title": "Very Average Prototypes",
+      "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+      "domain": "goodnameforablog.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "games",
+        "vibecoding"
+      ],
+      "published_at": "2026-07-03T22:40:25.000-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 6,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/qxorqp/very_average_prototypes"
         }
       ]
     },
@@ -856,27 +872,6 @@
           "score": 14,
           "comments": 12,
           "thread_url": "https://lobste.rs/s/munamr/non_hybrid_tls_mlkem_standard_by_any_other"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-qxorqp",
-      "title": "Very Average Prototypes",
-      "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
-      "domain": "goodnameforablog.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "games",
-        "vibecoding"
-      ],
-      "published_at": "2026-07-03T22:40:25.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 5,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/qxorqp/very_average_prototypes"
         }
       ]
     },
@@ -959,7 +954,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 7,
+          "score": 6,
           "comments": 3,
           "thread_url": "https://lobste.rs/s/e6k4z1/gossamer"
         }
@@ -1023,8 +1018,30 @@
         {
           "name": "lobste.rs",
           "score": 58,
-          "comments": 25,
+          "comments": 26,
           "thread_url": "https://lobste.rs/s/oe8pxn/no_llm_code_dependencies"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-p7z8ip",
+      "title": "Lemmy Development Update June 2026 and 1.0.0-beta.1",
+      "url": "https://lemmy.ml/post/49561214",
+      "domain": "lemmy.ml",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "distributed",
+        "release",
+        "web"
+      ],
+      "published_at": "2026-07-03T19:17:28.000-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 4,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/p7z8ip/lemmy_development_update_june_2026_1_0_0"
         }
       ]
     },
@@ -1067,26 +1084,6 @@
           "score": 9,
           "comments": 1,
           "thread_url": "https://lobste.rs/s/ktvazf/mask_compiles_nothing_how_hotspot_s_jit"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-xg4bbg",
-      "title": "‘guix substitute‘ and ‘guix pull‘ vulnerabilities",
-      "url": "https://guix.gnu.org/en/blog/2026/guix-substitute-pull-vulnerabilities/",
-      "domain": "guix.gnu.org",
-      "category": "Security",
-      "summary": "",
-      "tags": [
-        "nix"
-      ],
-      "published_at": "2026-07-03T01:45:52.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 16,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/xg4bbg/guix_substitute_guix_pull"
         }
       ]
     },
@@ -2520,246 +2517,6 @@
       ]
     },
     {
-      "id": "The Register-https://www.theregister.com/a/5266558",
-      "title": "NASA says it will isolate volunteers from the outside world for a year",
-      "url": "https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558",
-      "domain": "theregister.com",
-      "category": "Dev Tools",
-      "summary": "There might also be a downside",
-      "tags": [
-        "science"
-      ],
-      "published_at": "2026-07-04T06:21:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266624",
-      "title": "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
-      "url": "https://www.theregister.com/personal-tech/2026/07/03/david-potter-the-man-who-put-psion-in-the-palm-of-your-hand-logs-off-at-82/5266624",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "Physicist, philanthropist, and pioneer of pocket computers, SSDs, smartphones… and duvets",
-      "tags": [
-        "personal tech"
-      ],
-      "published_at": "2026-07-03T17:24:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/personal-tech/2026/07/03/david-potter-the-man-who-put-psion-in-the-palm-of-your-hand-logs-off-at-82/5266624"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266588",
-      "title": "Amazon Leo constellation nears 400 satellites as broadband launch looms",
-      "url": "https://www.theregister.com/networks/2026/07/03/amazon-leo-constellation-nears-400-satellites-as-broadband-launch-looms/5266588",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "Online emporium's Starlink rival says it will start service later this year as another 29 birds reach orbit",
-      "tags": [
-        "networks"
-      ],
-      "published_at": "2026-07-03T16:06:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/networks/2026/07/03/amazon-leo-constellation-nears-400-satellites-as-broadband-launch-looms/5266588"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266512",
-      "title": "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
-      "url": "https://www.theregister.com/security/2026/07/03/adapthealth-crooks-stole-our-passwords-patient-health-data/5266512",
-      "domain": "theregister.com",
-      "category": "Security",
-      "summary": "Third-party contractor compromise exposed health information and insurance billing passwords",
-      "tags": [
-        "security"
-      ],
-      "published_at": "2026-07-03T14:29:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/security/2026/07/03/adapthealth-crooks-stole-our-passwords-patient-health-data/5266512"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266480",
-      "title": "Startup targets datacenters with 3D-printed nuclear reactor module",
-      "url": "https://www.theregister.com/systems/2026/07/03/startup-targets-datacenters-with-3d-printed-nuclear-reactor-module/5266480",
-      "domain": "theregister.com",
-      "category": "Hardware",
-      "summary": "Fancy a thorium microreactor capable of delivering up to 30 MWe of juice for up to 30 years?",
-      "tags": [
-        "systems"
-      ],
-      "published_at": "2026-07-03T13:36:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/systems/2026/07/03/startup-targets-datacenters-with-3d-printed-nuclear-reactor-module/5266480"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266414",
-      "title": "NetNut cracked as Google and FBI target 2 million-device botnet",
-      "url": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
-      "domain": "theregister.com",
-      "category": "Security",
-      "summary": "Other residential proxy brands may rely on the same network",
-      "tags": [
-        "security"
-      ],
-      "published_at": "2026-07-03T12:03:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266383",
-      "title": "AI bills are baffling the C-suite after shift to usage-based pricing",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
-      "domain": "theregister.com",
-      "category": "AI / ML",
-      "summary": "KPMG finds nearly a third of execs struggle to understand costs as companies rethink deployments",
-      "tags": [
-        "ai and ml"
-      ],
-      "published_at": "2026-07-03T10:35:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5265814",
-      "title": "EU appears to find datacenter emissions easier to offset than lobbyists",
-      "url": "https://www.theregister.com/on-prem/2026/07/03/eu-appears-to-find-datacenter-emissions-easier-to-offset-than-lobbyists/5265814",
-      "domain": "theregister.com",
-      "category": "Hardware",
-      "summary": "Report says proposed rewrite gives operators more freedom to shop around for a greener grade",
-      "tags": [
-        "on-prem"
-      ],
-      "published_at": "2026-07-03T09:15:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/on-prem/2026/07/03/eu-appears-to-find-datacenter-emissions-easier-to-offset-than-lobbyists/5265814"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5265733",
-      "title": "Databricks unifies OLTP and OLAP, depending on what counts as a copy",
-      "url": "https://www.theregister.com/databases/2026/07/03/databricks-unifies-oltp-and-olap-depending-on-what-counts-as-a-copy/5265733",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "LTAP architecture does some clever engineering beneath a debatable marketing pitch",
-      "tags": [
-        "databases"
-      ],
-      "published_at": "2026-07-03T08:30:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/databases/2026/07/03/databricks-unifies-oltp-and-olap-depending-on-what-counts-as-a-copy/5265733"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5265548",
-      "title": "User swore hacker called General Failure had invaded his PC",
-      "url": "https://www.theregister.com/personal-tech/2026/07/03/user-swore-hacker-called-general-failure-had-invaded-his-pc/5265548",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "Maybe they were looking for Private Data",
-      "tags": [
-        "personal tech"
-      ],
-      "published_at": "2026-07-03T06:30:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/personal-tech/2026/07/03/user-swore-hacker-called-general-failure-had-invaded-his-pc/5265548"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266297",
-      "title": "Failed blockchain project ends with big fine for fibs about it being on track",
-      "url": "https://www.theregister.com/software/2026/07/03/failed-blockchain-project-ends-with-big-fine-for-fibs-about-it-being-on-track/5266297",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "A final humiliation for Australia’s Securities Exchange and its attempts to run a bourse on distributed ledgers",
-      "tags": [
-        "software"
-      ],
-      "published_at": "2026-07-03T04:35:52+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/software/2026/07/03/failed-blockchain-project-ends-with-big-fine-for-fibs-about-it-being-on-track/5266297"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5266274",
-      "title": "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
-      "url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
-      "domain": "theregister.com",
-      "category": "AI / ML",
-      "summary": "Workers who use OG crowdsourcing platform say AWS is closing accounts",
-      "tags": [
-        "off-prem"
-      ],
-      "published_at": "2026-07-03T02:22:36+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274"
-        }
-      ]
-    },
-    {
       "id": "ZDNet-28caa0f8-2b87-4447-ad5b-7456cec70fbf",
       "title": "This GoPro Hero13 Black Action bundle is $100 off (and it's perfect for documenting summer adventures)",
       "url": "https://www.zdnet.com/article/gopro-hero13-black-action-bundle-july4-deal/",
@@ -2976,6 +2733,47 @@
       ]
     },
     {
+      "id": "TechRadar-NXqaVzuuZ6Rdc9XNsKSqwB",
+      "title": "‘You fix it by making the secure option just as fast and frictionless as the risky one’: Practical advice on addressing shadow AI",
+      "url": "https://www.techradar.com/pro/you-fix-it-by-making-the-secure-option-just-as-fast-and-frictionless-as-the-risky-one-practical-advice-on-addressing-shadow-ai",
+      "domain": "techradar.com",
+      "category": "AI / ML",
+      "summary": "Workers clearly have an appetite for AI but personal accounts are still being used – approved tools need to be easy to reach and use.",
+      "tags": [
+        "Pro"
+      ],
+      "published_at": "2026-07-04T08:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/pro/you-fix-it-by-making-the-secure-option-just-as-fast-and-frictionless-as-the-risky-one-practical-advice-on-addressing-shadow-ai"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-eFkxaZxe52oFkzsS6nDPJF",
+      "title": "American soccer fans turn to VPNs to dodge the World Cup's hydration break ads",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/american-soccer-fans-turn-to-vpns-to-dodge-the-world-cups-hydration-break-ads",
+      "domain": "techradar.com",
+      "category": "Security",
+      "summary": "Americans hate hydration break ads and are massively turning to VPNs to avoid them, says Planet VPN.",
+      "tags": [
+        "VPN",
+        "VPN Privacy &amp; Security"
+      ],
+      "published_at": "2026-07-04T08:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/vpn/vpn-privacy-security/american-soccer-fans-turn-to-vpns-to-dodge-the-world-cups-hydration-break-ads"
+        }
+      ]
+    },
+    {
       "id": "TechRadar-Bw2ezcMo56q46LYGekkBjb",
       "title": "How to watch Australia vs Ireland: FREE streams, TV channels for Nations Championship 2026 game",
       "url": "https://www.techradar.com/how-to-watch/rugby/australia-vs-ireland-free-streams-nations-championship-2026",
@@ -3164,48 +2962,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techradar.com/home/robot-vacuums/for-a-brand-that-made-robot-vacuums-accessible-my-faith-in-ecovacs-is-shaken-after-using-the-deebot-t90-pro-omni"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-ZwCinKfvKhHvMQ8Hdj28Rg",
-      "title": "Quordle hints and answers for Saturday, July 4 (game #1622)",
-      "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-4-july-2026",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-      "tags": [
-        "Computing",
-        "Internet",
-        "Websites &amp; Apps"
-      ],
-      "published_at": "2026-07-03T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-4-july-2026"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-96e3f4SyPjRnmNtyJTgZSm",
-      "title": "NYT Connections hints and answers for Saturday, July 4 (game #1119)",
-      "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-4-july-2026",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
-      "tags": [
-        "Gaming"
-      ],
-      "published_at": "2026-07-03T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-4-july-2026"
         }
       ]
     },
@@ -6896,6 +6652,34 @@
       ]
     },
     {
+      "id": "InfoQ-https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Cycle Introduces EU Control Plane as Sovereignty Debate Continues",
+      "url": "https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "domain": "infoq.com",
+      "category": "Dev Tools",
+      "summary": "Cycle recently introduced a separate EU-based control plane, allowing European customers to keep platform management data and telemetry within Europe. The new offering is designed to improve compliance, operational isolation, and…",
+      "tags": [
+        "Architecture & Design",
+        "Cloud",
+        "Data Governance",
+        "DevOps",
+        "Governance",
+        "Infrastructure",
+        "Platform Engineering",
+        "Sovereignty",
+        "news"
+      ],
+      "published_at": "2026-07-04T08:15:00+00:00",
+      "sources": [
+        {
+          "name": "InfoQ",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+      ]
+    },
+    {
       "id": "InfoQ-https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "title": "Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries",
       "url": "https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -7195,36 +6979,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
-        }
-      ]
-    },
-    {
-      "id": "InfoQ-https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "title": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform",
-      "url": "https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "domain": "infoq.com",
-      "category": "Systems",
-      "summary": "Instacart redesigned its personalized marketing system using a configuration-driven multi-tenant architecture on Storefront Pro. The system replaces retailer-specific implementations with a shared execution engine, enabling scalable…",
-      "tags": [
-        "Architecture & Design",
-        "Configuration Management Tools",
-        "Development",
-        "Distributed Systems",
-        "Event Driven Architecture",
-        "Marketing",
-        "Multi-Tenant Data",
-        "Multi-tenancy",
-        "Observability",
-        "SMS",
-        "news"
-      ],
-      "published_at": "2026-07-01T14:05:00+00:00",
-      "sources": [
-        {
-          "name": "InfoQ",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
         }
       ]
     },
@@ -9348,6 +9102,262 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=395894",
+      "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
+      "url": "https://css-tricks.com/whats-important-14/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !important #14: Gap…",
+      "tags": [
+        "Articles",
+        "news"
+      ],
+      "published_at": "2026-06-30T13:54:14+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/whats-important-14/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=395223",
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "url": "https://css-tricks.com/css-states-and-javascript-events/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for. The…",
+      "tags": [
+        "Articles",
+        "pseudo elements",
+        "state"
+      ],
+      "published_at": "2026-06-29T13:03:32+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/css-states-and-javascript-events/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?page_id=394786",
+      "title": "translateZ()",
+      "url": "https://css-tricks.com/almanac/functions/t/translatez/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "tags": [
+        "3d",
+        "transform"
+      ],
+      "published_at": "2026-06-25T13:18:56+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/almanac/functions/t/translatez/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?page_id=393249",
+      "title": "translateY()",
+      "url": "https://css-tricks.com/almanac/functions/t/translatey/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "tags": [
+        "transform"
+      ],
+      "published_at": "2026-06-25T13:17:56+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/almanac/functions/t/translatey/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?page_id=393255",
+      "title": "translateX()",
+      "url": "https://css-tricks.com/almanac/functions/t/translatex/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "tags": [
+        "transform"
+      ],
+      "published_at": "2026-06-25T13:16:01+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/almanac/functions/t/translatex/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?page_id=393233",
+      "title": "translate()",
+      "url": "https://css-tricks.com/almanac/functions/t/translate/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane translate() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "tags": [
+        "transform"
+      ],
+      "published_at": "2026-06-25T13:15:05+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/almanac/functions/t/translate/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=394890",
+      "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+      "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page. CodePen Embed Fallback Note: This ……",
+      "tags": [
+        "Articles",
+        "Scroll Driven Animation",
+        "animations"
+      ],
+      "published_at": "2026-06-22T12:39:13+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=394364",
+      "title": "A First Look at Scroll-Triggered Animations",
+      "url": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "Let's poke at the differences between scroll- driven and scroll- triggered animations. A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "tags": [
+        "Articles",
+        "Scroll-Triggered Animation",
+        "animation",
+        "scrolling"
+      ],
+      "published_at": "2026-06-19T13:03:17+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/css-scroll-triggered-animations-first-look/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=395567",
+      "title": "The Siren Song of ariaNotify()",
+      "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader. The Siren Song of ariaNotify() originally handwritten and published…",
+      "tags": [
+        "Articles",
+        "JavaScript",
+        "accessibility"
+      ],
+      "published_at": "2026-06-17T15:32:30+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/the-siren-song-of-arianotify/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=395776",
+      "title": "Prop For That",
+      "url": "https://css-tricks.com/prop-for-that/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity. Prop For That originally handwritten and published with…",
+      "tags": [
+        "Links",
+        "custom properties",
+        "framework"
+      ],
+      "published_at": "2026-06-16T18:36:25+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/prop-for-that/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=395752",
+      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+      "url": "https://css-tricks.com/whats-important-13/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now. What’s !important #13: @function, alpha(), CSS Wordle, and More originally…",
+      "tags": [
+        "Articles",
+        "news"
+      ],
+      "published_at": "2026-06-15T13:15:33+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/whats-important-13/"
+        }
+      ]
+    },
+    {
+      "id": "CSS-Tricks-https://css-tricks.com/?p=395594",
+      "title": "Why Isn’t My 3D View Transition Working?",
+      "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+      "domain": "css-tricks.com",
+      "category": "Web",
+      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it. Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks . You should really get the…",
+      "tags": [
+        "Articles",
+        "perspective",
+        "view transitions"
+      ],
+      "published_at": "2026-06-12T15:09:00+00:00",
+      "sources": [
+        {
+          "name": "CSS-Tricks",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/"
         }
       ]
     },
@@ -13109,7 +13119,7 @@
       "category": "Systems",
       "summary": "Many times, the hardest part of troubleshooting isn’t fixing the actual problem. It’s figuring out where to start. As engineers, it’s easy to lose count of how many times we’ve opened logs, then 10 metrics tabs, and another 10 tabs with…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13127,7 +13137,7 @@
       "category": "Systems",
       "summary": "Earlier this year, Grafana 13 laid the groundwork for making it easier and faster than ever to turn your data into actionable insights. With our latest minor release, Grafana 13.1, we're building on that foundation, expanding observability…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13145,7 +13155,7 @@
       "category": "Systems",
       "summary": "On May 27, we completed our internal investigation of the recent TanStack supply chain ransom incident and confirmed our initial findings: The incident was strictly limited to Grafana Labs' GitHub environment. There was no unauthorized…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13163,7 +13173,7 @@
       "category": "Systems",
       "summary": "ObservabilityCON 2026 is heading to San Francisco, and even as the fog rolls in over the Golden Gate Bridge, the future of observability will never be clearer. Join us at our flagship observability event at Pier 27 from October 19–21…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13181,7 +13191,7 @@
       "category": "Systems",
       "summary": "You can use Grafana Assistant Investigations to automatically discover incidents and help find root causes—and this AI-powered Grafana Cloud feature recently got a major upgrade to give you even more confidence in its findings. You can…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13199,7 +13209,7 @@
       "category": "Systems",
       "summary": "For many development teams, a load test starts with a set of assumptions. You pick 100 virtual users because it sounds reasonable. You ramp for 30 seconds because that's what the tutorial showed. You set a 500ms threshold because it feels…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13217,7 +13227,7 @@
       "category": "Systems",
       "summary": "Tempo started with a simple goal: make distributed tracing easier to run at scale. As tracing adoption has grown, however, so have the challenges, including higher data volumes, more complex architectures, and increasing demand for…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13235,7 +13245,7 @@
       "category": "Systems",
       "summary": "The ability to schedule regular tasks, such as cron jobs, has been around for decades. So why are we still running the same AI prompts by hand every day? As you use Grafana Assistant , our AI-powered observability agent, to stay on top of…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13253,7 +13263,7 @@
       "category": "Systems",
       "summary": "Kubernetes Monitoring in Grafana Cloud comes out of the box with preconfigured alert rules that notify you about issues like CPU throttling, crash-looping pods, and nodes going offline. These rules are installed automatically when you set…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13271,7 +13281,7 @@
       "category": "Systems",
       "summary": "If you missed GrafanaCON 2026—or want to revisit the sessions that mattered most to your team—every session from Barcelona is now available on demand. This year's lineup covered the breadth of how teams are building with Grafana right now…",
       "tags": [],
-      "published_at": "2026-07-04T07:20:47+00:00",
+      "published_at": "2026-07-04T08:34:57+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -14721,6 +14731,29 @@
       ]
     },
     {
+      "id": "Hackaday-https://hackaday.com/?p=1119978",
+      "title": "Warp Point: a Web Ring for Gaming Sites Built for 2026",
+      "url": "https://hackaday.com/2026/07/04/warp-point-a-web-ring-for-gaming-sites-built-for-2026/",
+      "domain": "hackaday.com",
+      "category": "Hardware",
+      "summary": "At one point in time web rings were one of the best ways to find content on the World Wide Web — involving not just a directory of participating sites, …read more",
+      "tags": [
+        "Games",
+        "internet hacks",
+        "web directory",
+        "webring"
+      ],
+      "published_at": "2026-07-04T08:00:40+00:00",
+      "sources": [
+        {
+          "name": "Hackaday",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://hackaday.com/2026/07/04/warp-point-a-web-ring-for-gaming-sites-built-for-2026/"
+        }
+      ]
+    },
+    {
       "id": "Hackaday-https://hackaday.com/?p=1120429",
       "title": "Building A Wireless Fingerprint Authorization Device",
       "url": "https://hackaday.com/2026/07/03/building-a-wireless-fingerprint-authorization-device/",
@@ -14868,31 +14901,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://hackaday.com/2026/07/03/hackaday-podcast-episode-376-modern-retro-projects-retro-modern-projects-and-the-teen-years-for-3d-printing/"
-        }
-      ]
-    },
-    {
-      "id": "Hackaday-https://hackaday.com/?p=1120359",
-      "title": "The Organ That Forgot To Use Transistors",
-      "url": "https://hackaday.com/2026/07/03/the-organ-that-forgot-to-use-transistors/",
-      "domain": "hackaday.com",
-      "category": "Hardware",
-      "summary": "When we think of 1960s synthesizers it’s usual to imagine instruments with vast arrays of controls and patch cables for configuring their many filters, oscillators, and other parameters. They created …read more",
-      "tags": [
-        "Musical Hacks",
-        "classic hacks",
-        "electric organ",
-        "neon divider",
-        "philicordia",
-        "philips"
-      ],
-      "published_at": "2026-07-03T15:30:09+00:00",
-      "sources": [
-        {
-          "name": "Hackaday",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://hackaday.com/2026/07/03/the-organ-that-forgot-to-use-transistors/"
         }
       ]
     },
@@ -17814,6 +17822,120 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://portswigger.net/research/document-my-pentest"
+        }
+      ]
+    },
+    {
+      "id": "The Record-https://therecord.media/pegasus-spyware-european-parliament-pega-committee-member",
+      "title": "Spyware found on phone of European Parliament member probing it",
+      "url": "https://therecord.media/pegasus-spyware-european-parliament-pega-committee-member",
+      "domain": "therecord.media",
+      "category": "Security",
+      "summary": "Stelios Kouloglou, formerly a member of the European Parliament's committee investigating abuses of commercial spyware, was twice infected with Pegasus while serving, researchers said.",
+      "tags": [
+        "News",
+        "People",
+        "Privacy",
+        "Technology"
+      ],
+      "published_at": "2026-07-03T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Record",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://therecord.media/pegasus-spyware-european-parliament-pega-committee-member"
+        }
+      ]
+    },
+    {
+      "id": "The Record-https://therecord.media/launch-of-uk-national-cyber-action-plan-delayed",
+      "title": "Launch of UK's National Cyber Action Plan delayed amid Labour leadership crisis",
+      "url": "https://therecord.media/launch-of-uk-national-cyber-action-plan-delayed",
+      "domain": "therecord.media",
+      "category": "Security",
+      "summary": "The plan had been due for publication on Monday, the sources said. It has been postponed amid the uncertainty over the governing Labour Party’s leadership contest, which opens July 9.",
+      "tags": [
+        "Cybercrime",
+        "Government",
+        "News"
+      ],
+      "published_at": "2026-07-02T20:32:00+00:00",
+      "sources": [
+        {
+          "name": "The Record",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://therecord.media/launch-of-uk-national-cyber-action-plan-delayed"
+        }
+      ]
+    },
+    {
+      "id": "The Record-https://therecord.media/supreme-court-decision-threatens-eu-us-data-sharing",
+      "title": "Supreme Court decision threatens EU-US data transfer agreement",
+      "url": "https://therecord.media/supreme-court-decision-threatens-eu-us-data-sharing",
+      "domain": "therecord.media",
+      "category": "Security",
+      "summary": "In a Tuesday letter, Max Schrems, the founder of the Vienna-based privacy advocacy organization noyb, told European officials he plans to sue to invalidate the EU-U.S. Data Privacy Framework (DPF) that allows for the transfer of personal…",
+      "tags": [
+        "Government",
+        "Leadership",
+        "News",
+        "Privacy"
+      ],
+      "published_at": "2026-07-02T16:50:00+00:00",
+      "sources": [
+        {
+          "name": "The Record",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://therecord.media/supreme-court-decision-threatens-eu-us-data-sharing"
+        }
+      ]
+    },
+    {
+      "id": "The Record-https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+      "title": "Teen suspect in Scattered Spider hacks is extradited to US",
+      "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+      "domain": "therecord.media",
+      "category": "Security",
+      "summary": "A complaint unsealed this week accuses a 19-year-old of participating in incidents including a breach of a \"luxury-jewelry retailer\" in 2025.",
+      "tags": [
+        "Cybercrime",
+        "Government",
+        "News"
+      ],
+      "published_at": "2026-07-01T20:13:00+00:00",
+      "sources": [
+        {
+          "name": "The Record",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us"
+        }
+      ]
+    },
+    {
+      "id": "The Record-https://therecord.media/us-lifts-export-controls-anthropic-cyber-models",
+      "title": "US lifts export controls on Anthropic’s frontier cybersecurity AI models",
+      "url": "https://therecord.media/us-lifts-export-controls-anthropic-cyber-models",
+      "domain": "therecord.media",
+      "category": "Security",
+      "summary": "Anthropic said export controls on certain models had been lifted after the company came to a series of agreements with the government.",
+      "tags": [
+        "Cybercrime",
+        "Government",
+        "Industry",
+        "News",
+        "Technology"
+      ],
+      "published_at": "2026-07-01T13:16:00+00:00",
+      "sources": [
+        {
+          "name": "The Record",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://therecord.media/us-lifts-export-controls-anthropic-cyber-models"
         }
       ]
     },
@@ -21974,6 +22096,302 @@
       ]
     },
     {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80831",
+      "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
+      "url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "NVIDIA's ASPIRE writes and refines robot control programs, then distills validated repairs into a reusable skill library. It gains up to 77 points on LIBERO-Pro and transfers zero-shot to unseen long-horizon tasks. The post NVIDIA AI…",
+      "tags": [
+        "Agentic AI",
+        "Editors Pick",
+        "New Releases",
+        "Physical AI",
+        "Robotics",
+        "Software Engineering",
+        "Staff",
+        "Uncategorized"
+      ],
+      "published_at": "2026-07-04T06:32:47+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80827",
+      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
+      "url": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Mistral AI released Leanstral 1.5, a free Apache-2.0 code agent model for Lean 4. It saturates miniF2F and solves 587 of 672 PutnamBench problems. The 119B mixture-of-experts activates 6.5B parameters per token. We break down its…",
+      "tags": [
+        "AI Agents",
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "published_at": "2026-07-03T22:20:26+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80824",
+      "title": "Designing a Schema-Guided Invoice Intelligence Pipeline with lift-pdf for Accounts-Payable Extraction, Validation, and Ledger Generation",
+      "url": "https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "In this tutorial, we build an end-to-end accounts-payable extraction pipeline with lift-pdf, using synthetic invoice PDFs as controlled test documents and a structured JSON schema as the target output format. Instead of treating invoice…",
+      "tags": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "OCR",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "published_at": "2026-07-03T21:25:33+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80818",
+      "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "WebBrain is a free, MIT-licensed AI browser agent for Chrome and Firefox. It reads pages, extracts data, and automates multi-step tasks through Ask and Act modes. Run it on local models like llama.cpp or Ollama for privacy, or connect any…",
+      "tags": [
+        "AI Agents",
+        "AI Shorts",
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Promote",
+        "Software Engineering",
+        "Sponsored",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "published_at": "2026-07-03T05:55:47+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80815",
+      "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma’s Parallel Denoising Decoder",
+      "url": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Interfaze open-sourced diffusion-gemma-asr-small, a multilingual ASR model that transcribes via diffusion, not autoregression. It adds audio to Google's frozen DiffusionGemma using a ~42M-parameter adapter. One adapter covers six…",
+      "tags": [
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Open Source",
+        "TTS",
+        "Technology",
+        "Voice AI"
+      ],
+      "published_at": "2026-07-03T03:24:23+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80812",
+      "title": "RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab",
+      "url": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "In this tutorial, we build a RAG-Anything workflow to explore how multimodal retrieval works across text, tables, equations, and images. We prepare a Colab environment, enter our OpenAI API key at runtime, and generate a synthetic report…",
+      "tags": [
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "RAG",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "published_at": "2026-07-02T21:38:34+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80809",
+      "title": "Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Alibaba's Page Agent runs as client-side JavaScript inside the webpage. It reads the live DOM as text, then clicks and types from natural-language commands. No screenshots, no multimodal model, and no backend rewrite are required. The post…",
+      "tags": [
+        "AI Agents",
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News"
+      ],
+      "published_at": "2026-07-02T20:51:39+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80806",
+      "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "The Google Health API now has an open-source CLI. ghealth is a single Go binary that exposes 40 data types as agent-ready JSON. It is a community project, not an official Google release. Here's how it works, and what to check before…",
+      "tags": [
+        "AI Shorts",
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "published_at": "2026-07-02T08:46:56+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80799",
+      "title": "Using Lift to Turn Research PDFs into Structured JSON with Controlled, Schema-Guided Field-Level Evaluation",
+      "url": "https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "In this tutorial, we build a full PDF-to-structured-data workflow around Lift, built for controlled evaluation rather than a one-off demo. We prepare a Colab GPU environment, load Lift in 4-bit NF4, and generate synthetic research reports…",
+      "tags": [
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "OCR",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "published_at": "2026-07-01T21:09:53+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=80795",
+      "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
+      "url": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Anthropic is redeploying Claude Fable 5 on July 1 after US export controls were lifted. A new safety classifier blocks the technique in the Amazon report over 99% of the time, routing flagged requests to Opus 4.8. The company also proposed…",
+      "tags": [
+        "AI Shorts",
+        "Agentic AI",
+        "Applications",
+        "Artificial General Intelligence",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Generative AI",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "published_at": "2026-07-01T20:41:56+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/"
+        }
+      ]
+    },
+    {
       "id": "The Gradient-69879dd077c3d76051ac158f",
       "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
@@ -23606,6 +24024,86 @@
       ]
     },
     {
+      "id": "Phys.org-news702355927",
+      "title": "One for the history books: What we know about the European heat wave",
+      "url": "https://phys.org/news/2026-07-history-european.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Europe is still taking stock of a powerful heat wave in late June, but experts are already confident it ranks among the worst ever recorded—even rivaling a freak 2003 episode.",
+      "tags": [
+        "Environment"
+      ],
+      "published_at": "2026-07-04T08:10:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-07-history-european.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news699677993",
+      "title": "Scientists find yeast in ancient Iceman's guts—and make bread",
+      "url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Yeast has been growing in the guts of a frozen mummy called Oetzi the Iceman for thousands of years, scientists have discovered, telling AFP they used it to make a tasty sourdough bread.",
+      "tags": [
+        "Molecular & Computational biology"
+      ],
+      "published_at": "2026-07-04T08:00:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news702355799",
+      "title": "New species of ghost shark may have been found in Costa Rica",
+      "url": "https://phys.org/news/2026-07-species-ghost-shark-costa-rica.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Costa Rican scientists may have discovered a new species of ghost shark in Pacific waters near Cabo Blanco and Cano Island.",
+      "tags": [
+        "Plants & Animals"
+      ],
+      "published_at": "2026-07-04T07:50:20+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-07-species-ghost-shark-costa-rica.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news702355767",
+      "title": "Dangerous heat wave roasts America's big birthday party",
+      "url": "https://phys.org/news/2026-07-dangerous-roasts-america-big-birthday.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "A punishing heat wave threatened America's July Fourth celebrations, World Cup matches and power grids as near-record temperatures scorched the eastern United States on Friday.",
+      "tags": [
+        "Environment"
+      ],
+      "published_at": "2026-07-04T07:49:49+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-07-dangerous-roasts-america-big-birthday.html"
+        }
+      ]
+    },
+    {
       "id": "Phys.org-news702287924",
       "title": "AI must be built with Indigenous Knowledges, not against them",
       "url": "https://phys.org/news/2026-07-ai-built-indigenous-knowledges.html",
@@ -23762,86 +24260,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://phys.org/news/2026-07-gentle-nudges-animal-welfare.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702136906",
-      "title": "Free-text answers and LLMs reveal hidden reasons behind human choices",
-      "url": "https://phys.org/news/2026-07-free-text-llms-reveal-hidden.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Why do people make the choices they do? Researchers from the Center Synergy of Systems (SynoSys) at TUD Dresden University of Technology, the Max Planck Institute for Human Development, and the University of Basel present their new…",
-      "tags": [
-        "Mathematics"
-      ],
-      "published_at": "2026-07-03T19:00:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-free-text-llms-reveal-hidden.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702286264",
-      "title": "Giant wheat starch granules—a leap forward in biological engineering with potential benefits for diet, manufacturing",
-      "url": "https://phys.org/news/2026-07-giant-wheat-starch-granules-biological.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Scientists have grown wheat containing supersized starch granules—a leap forward in biological engineering with potential benefits for our daily diets and a raft of industrial applications.",
-      "tags": [
-        "Biotechnology"
-      ],
-      "published_at": "2026-07-03T18:00:10+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-giant-wheat-starch-granules-biological.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702200941",
-      "title": "Newfound family ties link Scythian elite burials across the Eurasian steppe",
-      "url": "https://phys.org/news/2026-07-newfound-family-link-scythian-elite.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "A new ancient DNA study published in Science Advances provides evidence that political power among Scythian elites may have been inherited through family lineages that extended across multiple burial sites. By combining archaeology…",
-      "tags": [
-        "Archaeology"
-      ],
-      "published_at": "2026-07-03T18:00:09+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-newfound-family-link-scythian-elite.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702203566",
-      "title": "Mammals use the same underlying system—preserved through evolution—to process smells",
-      "url": "https://phys.org/news/2026-07-mammals-underlying-evolution.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Picture a mouse taking rapid, staccato sniffs of a crumb it's found while foraging for food. Now compare that with a human leaning in for a single, deep inhale to gauge whether a cantaloupe is ripe. New research from Northwestern…",
-      "tags": [
-        "Plants & Animals"
-      ],
-      "published_at": "2026-07-03T18:00:06+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-mammals-underlying-evolution.html"
         }
       ]
     },
@@ -24062,6 +24480,27 @@
       ]
     },
     {
+      "id": "ScienceAlert-https://www.sciencealert.com/?p=207683",
+      "title": "The Mysterious Civilization That Pre-Dated The Incas by 500 Years",
+      "url": "https://www.sciencealert.com/the-mysterious-civilization-that-pre-dated-the-incas-by-500-years",
+      "domain": "sciencealert.com",
+      "category": "Science",
+      "summary": "Who were they? ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "tags": [
+        "Humans",
+        "MSFT Content"
+      ],
+      "published_at": "2026-07-04T08:00:00+00:00",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencealert.com/the-mysterious-civilization-that-pre-dated-the-incas-by-500-years"
+        }
+      ]
+    },
+    {
       "id": "ScienceAlert-https://www.sciencealert.com/?p=207722",
       "title": "Physicists Simulated a Black Hole in a Lab. Then It Started to 'Evaporate'.",
       "url": "https://www.sciencealert.com/physicists-simulated-a-black-hole-in-a-lab-then-it-started-to-evaporate",
@@ -24247,27 +24686,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.sciencealert.com/first-of-its-kind-lupus-treatment-significantly-reduces-symptoms-in-mice"
-        }
-      ]
-    },
-    {
-      "id": "ScienceAlert-https://www.sciencealert.com/?p=205785",
-      "title": "Comet From Outside Our Solar System Has Chemistry Unlike Anything We've Ever Seen Before",
-      "url": "https://www.sciencealert.com/the-chemistry-of-interstellar-comet-3i-atlas-is-unlike-anything-weve-ever-seen",
-      "domain": "sciencealert.com",
-      "category": "Science",
-      "summary": "What are we looking at here? ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-      "tags": [
-        "MSFT Content",
-        "Space"
-      ],
-      "published_at": "2026-07-03T00:14:00+00:00",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencealert.com/the-chemistry-of-interstellar-comet-3i-atlas-is-unlike-anything-weve-ever-seen"
         }
       ]
     },
@@ -25201,142 +25619,42 @@
       ]
     },
     {
-      "id": "r/dev-t3_1un23fw",
-      "title": "Rust DNS server with policy controls, Prometheus metrics, and an MCP endpoint",
-      "url": "https://github.com/titaniumguardlabs/dns",
-      "domain": "github.com",
-      "category": "Dev Tools",
+      "id": "r/ai-t3_1umgdhx",
+      "title": "Mistral released Leanstral-1.5-119B-A6B",
+      "url": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+      "domain": "huggingface.co",
+      "category": "AI / ML",
       "summary": "",
       "tags": [
-        "rust"
+        "LocalLLaMA"
       ],
-      "published_at": "2026-07-04T06:55:46+00:00",
+      "published_at": "2026-07-03T14:44:12+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/ai",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1un23fw/rust_dns_server_with_policy_controls_prometheus/"
+          "thread_url": "https://www.reddit.com/r/LocalLLaMA/comments/1umgdhx/mistral_released_leanstral15119ba6b/"
         }
       ]
     },
     {
-      "id": "r/dev-t3_1umk39t",
-      "title": "Keynote: Linus Torvalds in Conversation with Dirk Hohndel",
-      "url": "https://youtu.be/YKkEe-PxW10",
-      "domain": "youtu.be",
-      "category": "Systems",
+      "id": "r/ai-t3_1um52w9",
+      "title": "Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: \"Wasn’t It?\"",
+      "url": "https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/",
+      "domain": "variety.com",
+      "category": "AI / ML",
       "summary": "",
       "tags": [
-        "programming"
+        "artificial"
       ],
-      "published_at": "2026-07-03T17:06:32+00:00",
+      "published_at": "2026-07-03T05:06:29+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/ai",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1umk39t/keynote_linus_torvalds_in_conversation_with_dirk/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1umiyvb",
-      "title": "Rustup update: our plans for the 1.30 release cycle",
-      "url": "https://blog.rust-lang.org/inside-rust/2026/07/03/rustup-update-1.30/",
-      "domain": "blog.rust-lang.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "rust"
-      ],
-      "published_at": "2026-07-03T16:23:56+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1umiyvb/rustup_update_our_plans_for_the_130_release_cycle/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1umctas",
-      "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233/month With Zero Downtime",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "domain": "isayeter.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "webdev"
-      ],
-      "published_at": "2026-07-03T12:13:00+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/webdev/comments/1umctas/migrating_from_digitalocean_to_hetzner_from_1432/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1umbhuk",
-      "title": "Bevy Tutorial: Build Your First 3D Editor - Create a 3D Space on an Infinite Grid",
-      "url": "https://aibodh.com/posts/bevy-tutorial-build-your-first-3d-editor-in-rust/",
-      "domain": "aibodh.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "rust"
-      ],
-      "published_at": "2026-07-03T11:07:33+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1umbhuk/bevy_tutorial_build_your_first_3d_editor_create_a/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1um4hyx",
-      "title": "Understanding Traceroute",
-      "url": "https://tech.stonecharioteer.com/posts/2026/traceroute/",
-      "domain": "tech.stonecharioteer.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "programming"
-      ],
-      "published_at": "2026-07-03T04:36:25+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1um4hyx/understanding_traceroute/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1um497y",
-      "title": "Linux has officially won",
-      "url": "https://github.com/apple/container",
-      "domain": "github.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "programming"
-      ],
-      "published_at": "2026-07-03T04:23:58+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1um497y/linux_has_officially_won/"
+          "thread_url": "https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T00:05:34+00:00",
+  "generated_at": "2026-07-07T01:06:35+00:00",
   "items": [
     {
       "id": "HN-48804993",
@@ -15,8 +15,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 445,
-          "comments": 406,
+          "score": 469,
+          "comments": 437,
           "thread_url": "https://news.ycombinator.com/item?id=48804993"
         }
       ]
@@ -35,29 +35,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 389,
-          "comments": 158,
+          "score": 418,
+          "comments": 166,
           "thread_url": "https://news.ycombinator.com/item?id=48808482"
-        }
-      ]
-    },
-    {
-      "id": "HN-48802535",
-      "title": "Real-time map of Great Britain's rail network",
-      "url": "https://www.map.signalbox.io",
-      "domain": "map.signalbox.io",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-06T09:38:36Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 379,
-          "comments": 141,
-          "thread_url": "https://news.ycombinator.com/item?id=48802535"
         }
       ]
     },
@@ -70,29 +50,22 @@
       "summary": "",
       "tags": [
         "elm",
-        "programming",
         "release",
         "story"
       ],
-      "published_at": "2026-07-06T11:28:54+00:00",
+      "published_at": "2026-07-06T06:31:42.000-05:00",
       "sources": [
         {
           "name": "HN",
-          "score": 295,
-          "comments": 147,
+          "score": 299,
+          "comments": 149,
           "thread_url": "https://news.ycombinator.com/item?id=48803364"
         },
         {
           "name": "lobste.rs",
-          "score": 72,
+          "score": 73,
           "comments": 12,
           "thread_url": "https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1uoumse/faster_builds_with_elm_0192/"
         }
       ]
     },
@@ -110,8 +83,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 271,
-          "comments": 58,
+          "score": 296,
+          "comments": 60,
           "thread_url": "https://news.ycombinator.com/item?id=48808928"
         }
       ]
@@ -130,29 +103,36 @@
       "sources": [
         {
           "name": "HN",
-          "score": 264,
-          "comments": 194,
+          "score": 270,
+          "comments": 196,
           "thread_url": "https://news.ycombinator.com/item?id=48805624"
         }
       ]
     },
     {
-      "id": "HN-48808002",
-      "title": "A global workspace in language models",
+      "id": "ba5fd716d1a5cc3f",
+      "title": "A global workspace in language models: New interpretability findings by Anthropic",
       "url": "https://www.anthropic.com/research/global-workspace",
       "domain": "anthropic.com",
       "category": "AI / ML",
       "summary": "",
       "tags": [
+        "singularity",
         "story"
       ],
       "published_at": "2026-07-06T17:44:08Z",
       "sources": [
         {
           "name": "HN",
-          "score": 241,
-          "comments": 79,
+          "score": 258,
+          "comments": 91,
           "thread_url": "https://news.ycombinator.com/item?id=48808002"
+        },
+        {
+          "name": "r/ai",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/singularity/comments/1up68u3/a_global_workspace_in_language_models_new/"
         }
       ]
     },
@@ -170,96 +150,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 227,
+          "score": 231,
           "comments": 101,
           "thread_url": "https://news.ycombinator.com/item?id=48804297"
-        }
-      ]
-    },
-    {
-      "id": "3719e89d61dc63f1",
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "domain": "arxiv.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "rust",
-        "story"
-      ],
-      "published_at": "2026-07-06T15:53:24Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 121,
-          "comments": 7,
-          "thread_url": "https://news.ycombinator.com/item?id=48806410"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1up546z/kani_a_model_checker_for_rust/"
-        }
-      ]
-    },
-    {
-      "id": "HN-48807225",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "domain": "github.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-06T16:47:44Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 110,
-          "comments": 33,
-          "thread_url": "https://news.ycombinator.com/item?id=48807225"
-        }
-      ]
-    },
-    {
-      "id": "HN-48809496",
-      "title": "Python 3.14 compiled to metal – no interpreter",
-      "url": "https://github.com/can1357/pon",
-      "domain": "github.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-06T19:40:22Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 109,
-          "comments": 81,
-          "thread_url": "https://news.ycombinator.com/item?id=48809496"
-        }
-      ]
-    },
-    {
-      "id": "HN-48808663",
-      "title": "Linux on the Atari Jaguar",
-      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "domain": "cakehonolulu.github.io",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-06T18:35:54Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 94,
-          "comments": 16,
-          "thread_url": "https://news.ycombinator.com/item?id=48808663"
         }
       ]
     },
@@ -278,15 +171,115 @@
       "sources": [
         {
           "name": "HN",
-          "score": 89,
-          "comments": 54,
+          "score": 135,
+          "comments": 87,
           "thread_url": "https://news.ycombinator.com/item?id=48809877"
         },
         {
           "name": "lobste.rs",
-          "score": 9,
-          "comments": 8,
+          "score": 11,
+          "comments": 11,
           "thread_url": "https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse"
+        }
+      ]
+    },
+    {
+      "id": "HN-48806410",
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "domain": "arxiv.org",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-06T15:53:24Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 126,
+          "comments": 7,
+          "thread_url": "https://news.ycombinator.com/item?id=48806410"
+        }
+      ]
+    },
+    {
+      "id": "HN-48807225",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "domain": "github.com",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-06T16:47:44Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 122,
+          "comments": 34,
+          "thread_url": "https://news.ycombinator.com/item?id=48807225"
+        }
+      ]
+    },
+    {
+      "id": "HN-48811591",
+      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "domain": "github.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-06T23:00:24Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 101,
+          "comments": 49,
+          "thread_url": "https://news.ycombinator.com/item?id=48811591"
+        }
+      ]
+    },
+    {
+      "id": "HN-48808663",
+      "title": "Linux on the Atari Jaguar",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "domain": "cakehonolulu.github.io",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-06T18:35:54Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 101,
+          "comments": 18,
+          "thread_url": "https://news.ycombinator.com/item?id=48808663"
+        }
+      ]
+    },
+    {
+      "id": "HN-48747889",
+      "title": "Rotman Lens",
+      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+      "domain": "en.wikipedia.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-01T14:56:17Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 73,
+          "comments": 18,
+          "thread_url": "https://news.ycombinator.com/item?id=48747889"
         }
       ]
     },
@@ -306,95 +299,15 @@
       "sources": [
         {
           "name": "HN",
-          "score": 68,
-          "comments": 21,
+          "score": 72,
+          "comments": 25,
           "thread_url": "https://news.ycombinator.com/item?id=48807908"
         },
         {
           "name": "lobste.rs",
-          "score": 7,
+          "score": 8,
           "comments": 1,
           "thread_url": "https://lobste.rs/s/jea4xl/januscape_guest_host_escape_kvm_x86"
-        }
-      ]
-    },
-    {
-      "id": "HN-48747889",
-      "title": "Rotman Lens",
-      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
-      "domain": "en.wikipedia.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-01T14:56:17Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 66,
-          "comments": 17,
-          "thread_url": "https://news.ycombinator.com/item?id=48747889"
-        }
-      ]
-    },
-    {
-      "id": "HN-48811591",
-      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "domain": "github.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-06T23:00:24Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 38,
-          "comments": 11,
-          "thread_url": "https://news.ycombinator.com/item?id=48811591"
-        }
-      ]
-    },
-    {
-      "id": "HN-48769854",
-      "title": "Using precision editing to study human embryo development shows master gene",
-      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
-      "domain": "cam.ac.uk",
-      "category": "Science",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-03T02:03:45Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 37,
-          "comments": 16,
-          "thread_url": "https://news.ycombinator.com/item?id=48769854"
-        }
-      ]
-    },
-    {
-      "id": "HN-48809354",
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "domain": "kapa.ai",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-06T19:28:24Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 37,
-          "comments": 2,
-          "thread_url": "https://news.ycombinator.com/item?id=48809354"
         }
       ]
     },
@@ -412,8 +325,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 33,
-          "comments": 16,
+          "score": 51,
+          "comments": 33,
           "thread_url": "https://news.ycombinator.com/item?id=48810533"
         }
       ]
@@ -432,9 +345,49 @@
       "sources": [
         {
           "name": "HN",
-          "score": 30,
-          "comments": 4,
+          "score": 51,
+          "comments": 17,
           "thread_url": "https://news.ycombinator.com/item?id=48811644"
+        }
+      ]
+    },
+    {
+      "id": "HN-48809354",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "domain": "kapa.ai",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-06T19:28:24Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 49,
+          "comments": 5,
+          "thread_url": "https://news.ycombinator.com/item?id=48809354"
+        }
+      ]
+    },
+    {
+      "id": "HN-48769854",
+      "title": "Using precision editing to study human embryo development shows master gene",
+      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
+      "domain": "cam.ac.uk",
+      "category": "Science",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-03T02:03:45Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 43,
+          "comments": 24,
+          "thread_url": "https://news.ycombinator.com/item?id=48769854"
         }
       ]
     },
@@ -452,8 +405,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 28,
-          "comments": 4,
+          "score": 38,
+          "comments": 5,
           "thread_url": "https://news.ycombinator.com/item?id=48783175"
         }
       ]
@@ -472,8 +425,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 27,
-          "comments": 2,
+          "score": 34,
+          "comments": 3,
           "thread_url": "https://news.ycombinator.com/item?id=48809810"
         }
       ]
@@ -492,9 +445,69 @@
       "sources": [
         {
           "name": "HN",
-          "score": 25,
-          "comments": 9,
+          "score": 32,
+          "comments": 15,
           "thread_url": "https://news.ycombinator.com/item?id=48811081"
+        }
+      ]
+    },
+    {
+      "id": "HN-48812156",
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "domain": "bradleywoolf.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-07T00:14:21Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 21,
+          "comments": 2,
+          "thread_url": "https://news.ycombinator.com/item?id=48812156"
+        }
+      ]
+    },
+    {
+      "id": "HN-48811373",
+      "title": "OpenSSH 10.4/10.4p1 Released",
+      "url": "https://www.openssh.org/txt/release-10.4",
+      "domain": "openssh.org",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-06T22:32:58Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 19,
+          "comments": 4,
+          "thread_url": "https://news.ycombinator.com/item?id=48811373"
+        }
+      ]
+    },
+    {
+      "id": "HN-48782248",
+      "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+      "url": "https://arxiv.org/abs/2607.02112",
+      "domain": "arxiv.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-04T02:51:57Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 19,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=48782248"
         }
       ]
     },
@@ -512,9 +525,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 15,
-          "comments": 0,
+          "score": 17,
+          "comments": 1,
           "thread_url": "https://news.ycombinator.com/item?id=48757619"
+        }
+      ]
+    },
+    {
+      "id": "HN-48811317",
+      "title": "Poly/ML – A Standard ML Implementation",
+      "url": "https://github.com/polyml/polyml",
+      "domain": "github.com",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-06T22:28:06Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 14,
+          "comments": 2,
+          "thread_url": "https://news.ycombinator.com/item?id=48811317"
         }
       ]
     },
@@ -539,26 +572,6 @@
       ]
     },
     {
-      "id": "HN-48810501",
-      "title": "Taiganet.com, Home of the WS4000 Simulator",
-      "url": "https://www.taiganet.com/",
-      "domain": "taiganet.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-06T21:06:24Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 12,
-          "comments": 2,
-          "thread_url": "https://news.ycombinator.com/item?id=48810501"
-        }
-      ]
-    },
-    {
       "id": "HN-47439821",
       "title": "Conway's Game of Life, in real life",
       "url": "https://lcamtuf.coredump.cx/blog/conway/",
@@ -579,22 +592,22 @@
       ]
     },
     {
-      "id": "HN-48811494",
-      "title": "Vessel",
-      "url": "https://claude.ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e",
-      "domain": "claude.ai",
+      "id": "HN-48811339",
+      "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+      "url": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+      "domain": "devz.cl",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-07-06T22:48:02Z",
+      "published_at": "2026-07-06T22:30:33Z",
       "sources": [
         {
           "name": "HN",
           "score": 11,
           "comments": 1,
-          "thread_url": "https://news.ycombinator.com/item?id=48811494"
+          "thread_url": "https://news.ycombinator.com/item?id=48811339"
         }
       ]
     },
@@ -619,26 +632,6 @@
       ]
     },
     {
-      "id": "HN-47320921",
-      "title": "Making your JITted Code known: Let me count the ways",
-      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
-      "domain": "wakelift.de",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-03-10T09:31:19Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 9,
-          "comments": 1,
-          "thread_url": "https://news.ycombinator.com/item?id=47320921"
-        }
-      ]
-    },
-    {
       "id": "lobste.rs-vwni9c",
       "title": "sneakerweb",
       "url": "https://sneakerweb.org/",
@@ -653,7 +646,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 59,
+          "score": 61,
           "comments": 7,
           "thread_url": "https://lobste.rs/s/vwni9c/sneakerweb"
         }
@@ -680,6 +673,26 @@
       ]
     },
     {
+      "id": "lobste.rs-eyojtx",
+      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
+      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
+      "domain": "phoronix.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "windows"
+      ],
+      "published_at": "2026-07-06T14:47:11.000-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 17,
+          "comments": 3,
+          "thread_url": "https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now"
+        }
+      ]
+    },
+    {
       "id": "lobste.rs-r0xrm0",
       "title": "Jam Programming Language",
       "url": "https://rapha.land/jam-programming-language/",
@@ -696,28 +709,8 @@
         {
           "name": "lobste.rs",
           "score": 31,
-          "comments": 16,
+          "comments": 18,
           "thread_url": "https://lobste.rs/s/r0xrm0/jam_programming_language"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-eyojtx",
-      "title": "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
-      "url": "https://www.phoronix.com/news/Half-Life-2-ReactOS",
-      "domain": "phoronix.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "windows"
-      ],
-      "published_at": "2026-07-06T14:47:11.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 13,
-          "comments": 2,
-          "thread_url": "https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now"
         }
       ]
     },
@@ -736,7 +729,7 @@
         {
           "name": "lobste.rs",
           "score": 14,
-          "comments": 9,
+          "comments": 11,
           "thread_url": "https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj"
         }
       ]
@@ -756,8 +749,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 41,
-          "comments": 1,
+          "score": 42,
+          "comments": 2,
           "thread_url": "https://lobste.rs/s/j5ovrm/mr_baby_paint_accidentally_discovering"
         }
       ]
@@ -830,6 +823,27 @@
       ]
     },
     {
+      "id": "lobste.rs-qa7i6t",
+      "title": "Can you run every line of code in Super Mario Bros.?",
+      "url": "https://www.youtube.com/watch?v=o0gOALTvkcc",
+      "domain": "youtube.com",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "games",
+        "video"
+      ],
+      "published_at": "2026-07-06T07:36:51.000-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 21,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/qa7i6t/can_you_run_every_line_code_super_mario"
+        }
+      ]
+    },
+    {
       "id": "lobste.rs-b3elwj",
       "title": "Web Security docs on MDN",
       "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
@@ -851,23 +865,43 @@
       ]
     },
     {
-      "id": "lobste.rs-qa7i6t",
-      "title": "Can you run every line of code in Super Mario Bros.?",
-      "url": "https://www.youtube.com/watch?v=o0gOALTvkcc",
-      "domain": "youtube.com",
+      "id": "lobste.rs-rk0bl2",
+      "title": "Postgres Is Enough",
+      "url": "https://postgresisenough.dev",
+      "domain": "postgresisenough.dev",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "databases"
+      ],
+      "published_at": "2026-07-06T10:30:30.000-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 9,
+          "comments": 2,
+          "thread_url": "https://lobste.rs/s/rk0bl2/postgres_is_enough"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-nwptul",
+      "title": "fin: a Jellyfin & Subsonic client for the terminal",
+      "url": "https://tangled.org/tsiry-sandratraina.com/fin",
+      "domain": "tangled.org",
       "category": "Dev Tools",
       "summary": "",
       "tags": [
-        "games",
-        "video"
+        "rust",
+        "show"
       ],
-      "published_at": "2026-07-06T07:36:51.000-05:00",
+      "published_at": "2026-07-06T05:06:13.000-05:00",
       "sources": [
         {
           "name": "lobste.rs",
           "score": 19,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/qa7i6t/can_you_run_every_line_code_super_mario"
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/nwptul/fin_jellyfin_subsonic_client_for"
         }
       ]
     },
@@ -893,47 +927,6 @@
       ]
     },
     {
-      "id": "lobste.rs-rk0bl2",
-      "title": "Postgres Is Enough",
-      "url": "https://postgresisenough.dev",
-      "domain": "postgresisenough.dev",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "databases"
-      ],
-      "published_at": "2026-07-06T10:30:30.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 8,
-          "comments": 2,
-          "thread_url": "https://lobste.rs/s/rk0bl2/postgres_is_enough"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-nwptul",
-      "title": "fin: a Jellyfin & Subsonic client for the terminal",
-      "url": "https://tangled.org/tsiry-sandratraina.com/fin",
-      "domain": "tangled.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "rust",
-        "show"
-      ],
-      "published_at": "2026-07-06T05:06:13.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 18,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/nwptul/fin_jellyfin_subsonic_client_for"
-        }
-      ]
-    },
-    {
       "id": "lobste.rs-7p1a5u",
       "title": "What are you doing this week?",
       "url": "https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week",
@@ -951,6 +944,27 @@
           "score": 12,
           "comments": 16,
           "thread_url": "https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-xvzbwu",
+      "title": "Hacking the Kyocera KY-42C",
+      "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
+      "domain": "shomy.is-a.dev",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [
+        "hardware",
+        "reversing"
+      ],
+      "published_at": "2026-07-06T14:17:08.000-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 5,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/xvzbwu/hacking_kyocera_ky_42c"
         }
       ]
     },
@@ -1011,30 +1025,31 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 33,
+          "score": 34,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/ssvgqs/embedding_information_disorder"
         }
       ]
     },
     {
-      "id": "lobste.rs-xvzbwu",
-      "title": "Hacking the Kyocera KY-42C",
-      "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
-      "domain": "shomy.is-a.dev",
-      "category": "Hardware",
+      "id": "lobste.rs-fw8e40",
+      "title": "AT&T's very rare Security-Plus Telephone",
+      "url": "https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html",
+      "domain": "electrospaces.net",
+      "category": "Security",
       "summary": "",
       "tags": [
-        "hardware",
-        "reversing"
+        "cryptography",
+        "historical",
+        "security"
       ],
-      "published_at": "2026-07-06T14:17:08.000-05:00",
+      "published_at": "2026-07-06T19:43:11.000-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 4,
+          "score": 2,
           "comments": 0,
-          "thread_url": "https://lobste.rs/s/xvzbwu/hacking_kyocera_ky_42c"
+          "thread_url": "https://lobste.rs/s/fw8e40/at_t_s_very_rare_security_plus_telephone"
         }
       ]
     },
@@ -1052,7 +1067,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 16,
+          "score": 17,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/kzsdhf/how_skiing_accident_put_our_development"
         }
@@ -1075,26 +1090,6 @@
           "score": 95,
           "comments": 38,
           "thread_url": "https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-ssdcnh",
-      "title": "Securing agentic identity",
-      "url": "https://codon.org.uk/~mjg59/blog/p/securing-agentic-identity/",
-      "domain": "codon.org.uk",
-      "category": "Security",
-      "summary": "",
-      "tags": [
-        "security"
-      ],
-      "published_at": "2026-07-06T17:58:20.000-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 2,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/ssdcnh/securing_agentic_identity"
         }
       ]
     },
@@ -1670,6 +1665,29 @@
       ]
     },
     {
+      "id": "TechCrunch-https://techcrunch.com/?p=3139394",
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "domain": "techcrunch.com",
+      "category": "Systems",
+      "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+      "tags": [
+        "Media & Entertainment",
+        "Netflix",
+        "streaming",
+        "tv"
+      ],
+      "published_at": "2026-07-07T00:47:33+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/"
+        }
+      ]
+    },
+    {
       "id": "TechCrunch-https://techcrunch.com/?p=3139436",
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
       "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
@@ -1925,30 +1943,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/"
-        }
-      ]
-    },
-    {
-      "id": "TechCrunch-https://techcrunch.com/?p=3139052",
-      "title": "How to reserve and change your WhatsApp username",
-      "url": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
-      "domain": "techcrunch.com",
-      "category": "Hardware",
-      "summary": "WhatsApp now lets users reserve usernames ahead of the feature’s full rollout, making it possible to connect without sharing a phone number once usernames go live.",
-      "tags": [
-        "Apps",
-        "Meta",
-        "Social",
-        "WhatsApp",
-        "username"
-      ],
-      "published_at": "2026-07-06T14:15:30+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/"
         }
       ]
     },
@@ -2535,6 +2529,246 @@
       ]
     },
     {
+      "id": "The Register-https://www.theregister.com/a/5267199",
+      "title": "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
+      "url": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "Department of Energy, Cleveland Clinic, and IBM simulate a soup of molten salts and techno babble in pursuit of tritium",
+      "tags": [
+        "science"
+      ],
+      "published_at": "2026-07-06T20:20:39+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5267213",
+      "title": "Software engineers can still rake in big bucks by working for fast-growing companies",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "AI's impact on tech business is complicated",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-06T19:57:45+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5267175",
+      "title": "Madlad builds homebrew GPU using 8,192 RISC-V chips",
+      "url": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
+      "domain": "theregister.com",
+      "category": "Hardware",
+      "summary": "The next version will have 32,000 MCUs",
+      "tags": [
+        "systems"
+      ],
+      "published_at": "2026-07-06T19:39:04+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5267113",
+      "title": "GitHub cuts short offer to burn repos on CD after mockery ensues",
+      "url": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113",
+      "domain": "theregister.com",
+      "category": "Dev Tools",
+      "summary": "A purported jab of Sony’s physical media phase-out blows up on GitHub itself.",
+      "tags": [
+        "devops"
+      ],
+      "published_at": "2026-07-06T18:46:45+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5267054",
+      "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
+      "url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
+      "domain": "theregister.com",
+      "category": "Security",
+      "summary": "Campaigners demand investigation and long-delayed action on PEGA Committee recommendations",
+      "tags": [
+        "security"
+      ],
+      "published_at": "2026-07-06T17:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5266981",
+      "title": "Samsung floats 2028 launch for seaborne datacenter",
+      "url": "https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981",
+      "domain": "theregister.com",
+      "category": "Hardware",
+      "summary": "Korean megacorp sets itself a target date to commercialize watery server farm concept",
+      "tags": [
+        "on-prem"
+      ],
+      "published_at": "2026-07-06T16:34:00+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/on-prem/2026/07/06/samsung-floats-2028-launch-for-seaborne-datacenter/5266981"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5267032",
+      "title": "Microsoft says the world is changing faster than it can keep up as it guts commercial, Xbox teams",
+      "url": "https://www.theregister.com/software/2026/07/06/microsoft-says-the-world-is-changing-faster-than-it-can-keep-up-as-it-guts-commercial-xbox-teams/5267032",
+      "domain": "theregister.com",
+      "category": "Systems",
+      "summary": "Xbox chief says company can't afford to mistake longevity for inevitability",
+      "tags": [
+        "software"
+      ],
+      "published_at": "2026-07-06T15:58:24+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/software/2026/07/06/microsoft-says-the-world-is-changing-faster-than-it-can-keep-up-as-it-guts-commercial-xbox-teams/5267032"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5266711",
+      "title": "AMD’s Ryzen AI Halo makes local AI look easy, but at $4K, easy doesn't come cheap",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "128 GB of memory! In this economy?",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-06T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5266899",
+      "title": "Europe's new import rules are coming for your bargains",
+      "url": "https://www.theregister.com/personal-tech/2026/07/06/europes-new-import-rules-are-coming-for-your-bargains/5266899",
+      "domain": "theregister.com",
+      "category": "Systems",
+      "summary": "Good news if you're an OEM printer maker, EU retail biz, or a customs official... but hobbyists and others less pleased",
+      "tags": [
+        "personal tech"
+      ],
+      "published_at": "2026-07-06T13:49:32+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/personal-tech/2026/07/06/europes-new-import-rules-are-coming-for-your-bargains/5266899"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5266123",
+      "title": "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "Oracle's down more than 40% this month, the BIS thinks AI could destroy the economy, and we've got the Kettle on for a chat about the whole mess",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-06T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5266935",
+      "title": "Brit supermarket giant triples down on facial recog to nab shoplifters",
+      "url": "https://www.theregister.com/security/2026/07/06/brit-supermarket-giant-triples-down-on-facial-recog-to-nab-shoplifters/5266935",
+      "domain": "theregister.com",
+      "category": "Security",
+      "summary": "Up to 150 more stores to get the 'Orwellian' tech by year's end",
+      "tags": [
+        "security"
+      ],
+      "published_at": "2026-07-06T12:35:35+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/security/2026/07/06/brit-supermarket-giant-triples-down-on-facial-recog-to-nab-shoplifters/5266935"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5266827",
+      "title": "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
+      "url": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827",
+      "domain": "theregister.com",
+      "category": "Security",
+      "summary": "ShinyHunters leaks names, addresses, DOBs, and more after Christian college discloses cyberattack",
+      "tags": [
+        "security"
+      ],
+      "published_at": "2026-07-06T10:47:09+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827"
+        }
+      ]
+    },
+    {
       "id": "ZDNet-32e6ad04-656e-4f6b-abb7-c6406a09aad6",
       "title": "How I deleted hundreds of old photos on my Android in seconds with the Sponge app - for free",
       "url": "https://www.zdnet.com/article/free-android-app-makes-deleting-photos-easy/",
@@ -2751,6 +2985,26 @@
       ]
     },
     {
+      "id": "TechRadar-FJxCzfjBqWUMhur6dUo7ae",
+      "title": "50 Prime Day deals under AU$50 — because you don't need to spend a lot of money on good tech",
+      "url": "https://www.techradar.com/collection/seasonal-sales/50-prime-day-deals-under-au-usd50-because-you-dont-need-to-spend-a-lot-of-money-on-good-tech",
+      "domain": "techradar.com",
+      "category": "Systems",
+      "summary": "Amazon's Prime Day sales have officially kicked off, and we've found plenty of wallet-friendly tech that won't break the bank.",
+      "tags": [
+        "Seasonal Sales"
+      ],
+      "published_at": "2026-07-07T00:08:22+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/collection/seasonal-sales/50-prime-day-deals-under-au-usd50-because-you-dont-need-to-spend-a-lot-of-money-on-good-tech"
+        }
+      ]
+    },
+    {
       "id": "TechRadar-BL7MUHCtKujHVSNc4qxBiW",
       "title": "The Ninja DoubleStack at a record-low price of AU$189.95 is my pick of the best Prime Day air fryer deal — but there's more where that came from",
       "url": "https://www.techradar.com/home/air-fryers/the-ninja-doublestack-at-a-record-low-price-of-aud189-95-is-my-pick-of-the-best-prime-day-air-fryer-deal-but-theres-more-where-that-came-from",
@@ -2839,7 +3093,7 @@
     },
     {
       "id": "TechRadar-fAojMNySRHSWMbCUr58eDS",
-      "title": "Smash those PBs for less — these 11+ Prime Day Garmin deals take up to 57% off Fenix, Forerunner, Venu and more",
+      "title": "Smash those PBs for less — these 18+ Prime Day Garmin deals take up to 57% off Fenix, Forerunner, Venu and more",
       "url": "https://www.techradar.com/seasonal-sales/best-prime-day-garmin-deals-au",
       "domain": "techradar.com",
       "category": "Hardware",
@@ -2982,26 +3236,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techradar.com/seasonal-sales/best-prime-day-vacuum-cleaner-deals-australia"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-5F4DU7vqhNnBqzv5DxDAXf",
-      "title": "Geekom GeekBook X16 Pro review: A business laptop offering older but still potent Intel hardware to those working to a budget",
-      "url": "https://www.techradar.com/pro/geekom-geekbook-x16-pro-business-laptop-review",
-      "domain": "techradar.com",
-      "category": "Hardware",
-      "summary": "The Geekom GeekBook X16 Pro is a large laptop that leverages an older 100-series Core Ultra processor and LPDDR5X memory.",
-      "tags": [
-        "Pro"
-      ],
-      "published_at": "2026-07-06T21:15:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/geekom-geekbook-x16-pro-business-laptop-review"
         }
       ]
     },
@@ -3576,7 +3810,7 @@
       ]
     },
     {
-      "id": "404 Media-6a43c32179d2b20001b5d6b8",
+      "id": "ef2bbbaea8d754c8",
       "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don’t Exist",
       "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
       "domain": "404media.co",
@@ -3584,7 +3818,8 @@
       "summary": "Ebay, Amazon, and Etsy are unable to stop the flood of AI-generated seed scams.",
       "tags": [
         "AI",
-        "News"
+        "News",
+        "artificial"
       ],
       "published_at": "2026-06-30T13:48:27+00:00",
       "sources": [
@@ -3593,6 +3828,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
+        },
+        {
+          "name": "r/ai",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/artificial/comments/1upfz1n/scammers_sell_seeds_for_exotic_aigenerated/"
         }
       ]
     },
@@ -4098,6 +4339,42 @@
       ]
     },
     {
+      "id": "Techmeme-https://www.techmeme.com/260706/p40#a260706p40",
+      "title": "WiseTech co-founder Richard White steps down as chair amid a police probe over claims he exploited a woman's immigration status for sex; WTC jumps 7%+ (Peter Vercoe/Bloomberg)",
+      "url": "https://www.techmeme.com/260706/p40#a260706p40",
+      "domain": "techmeme.com",
+      "category": "Security",
+      "summary": "Peter Vercoe / Bloomberg : WiseTech co-founder Richard White steps down as chair amid a police probe over claims he exploited a woman's immigration status for sex; WTC jumps 7%+ — Billionaire Richard White has stepped down as chair of…",
+      "tags": [],
+      "published_at": "2026-07-07T01:00:47+00:00",
+      "sources": [
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260706/p40#a260706p40"
+        }
+      ]
+    },
+    {
+      "id": "Techmeme-https://www.techmeme.com/260706/p39#a260706p39",
+      "title": "A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats (Tiffany Hsu/New York Times)",
+      "url": "https://www.techmeme.com/260706/p39#a260706p39",
+      "domain": "techmeme.com",
+      "category": "AI / ML",
+      "summary": "Tiffany Hsu / New York Times : A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats — Wikipedia is in peril. — In a world where trust…",
+      "tags": [],
+      "published_at": "2026-07-07T00:40:01+00:00",
+      "sources": [
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260706/p39#a260706p39"
+        }
+      ]
+    },
+    {
       "id": "Techmeme-https://www.techmeme.com/260706/p38#a260706p38",
       "title": "Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31 (Pragyan Kalita/Reuters)",
       "url": "https://www.techmeme.com/260706/p38#a260706p38",
@@ -4274,42 +4551,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techmeme.com/260706/p29#a260706p29"
-        }
-      ]
-    },
-    {
-      "id": "Techmeme-https://www.techmeme.com/260706/p28#a260706p28",
-      "title": "Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft (Sam Smith/GamesBeat)",
-      "url": "https://www.techmeme.com/260706/p28#a260706p28",
-      "domain": "techmeme.com",
-      "category": "Dev Tools",
-      "summary": "Sam Smith / GamesBeat : Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft — Xbox has confirmed that Helen Chiang has been promoted to…",
-      "tags": [],
-      "published_at": "2026-07-06T18:10:01+00:00",
-      "sources": [
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260706/p28#a260706p28"
-        }
-      ]
-    },
-    {
-      "id": "Techmeme-https://www.techmeme.com/260706/p27#a260706p27",
-      "title": "Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year (Ben Fritz/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260706/p27#a260706p27",
-      "domain": "techmeme.com",
-      "category": "Systems",
-      "summary": "Ben Fritz / Wall Street Journal : Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year — The videogame unit's revenue has fallen and its…",
-      "tags": [],
-      "published_at": "2026-07-06T17:40:01+00:00",
-      "sources": [
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260706/p27#a260706p27"
         }
       ]
     },
@@ -5714,6 +5955,24 @@
       ]
     },
     {
+      "id": "Phoronix-https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT",
+      "title": "Microsoft Lands Initial AV1 Encoding Using DirectX 12 + HMFT Within Mesa 26.2",
+      "url": "https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT",
+      "domain": "phoronix.com",
+      "category": "Systems",
+      "summary": "The newest, unexpected addition to the Mesa codebase by Microsoft engineers is contributed accelerated AV1 video encoding on the GPU using a combination of DirectX 12 and the Hardware Media Foundation Transform (HMFT) support that is part…",
+      "tags": [],
+      "published_at": "2026-07-07T00:34:05+00:00",
+      "sources": [
+        {
+          "name": "Phoronix",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT"
+        }
+      ]
+    },
+    {
       "id": "Phoronix-https://www.phoronix.com/news/Intel-ANV-Gen125-H265-Encode",
       "title": "Vulkan Video H.264/H.265 Encode Now Working For Intel Alchemist GPUs On Linux",
       "url": "https://www.phoronix.com/news/Intel-ANV-Gen125-H265-Encode",
@@ -5908,24 +6167,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.phoronix.com/news/Linux-7.2-rc2-Released"
-        }
-      ]
-    },
-    {
-      "id": "Phoronix-https://www.phoronix.com/news/DXVK-3.0.1-Released",
-      "title": "DXVK 3.0.1 Released With More Game Fixes, Other Improvements",
-      "url": "https://www.phoronix.com/news/DXVK-3.0.1-Released",
-      "domain": "phoronix.com",
-      "category": "Systems",
-      "summary": "Following the release of DXVK 3.0 from late June that brought several big changes, DXVK 3.0.1 is out today with shipping various game fixes and other improvements to this important piece of Valve's Steam Play (Proton) for Direct3D Windows…",
-      "tags": [],
-      "published_at": "2026-07-05T23:08:24+00:00",
-      "sources": [
-        {
-          "name": "Phoronix",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.phoronix.com/news/DXVK-3.0.1-Released"
         }
       ]
     },
@@ -13164,7 +13405,7 @@
       "category": "Systems",
       "summary": "Many times, the hardest part of troubleshooting isn’t fixing the actual problem. It’s figuring out where to start. As engineers, it’s easy to lose count of how many times we’ve opened logs, then 10 metrics tabs, and another 10 tabs with…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13182,7 +13423,7 @@
       "category": "Systems",
       "summary": "Earlier this year, Grafana 13 laid the groundwork for making it easier and faster than ever to turn your data into actionable insights. With our latest minor release, Grafana 13.1, we're building on that foundation, expanding observability…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13200,7 +13441,7 @@
       "category": "Systems",
       "summary": "On May 27, we completed our internal investigation of the recent TanStack supply chain ransom incident and confirmed our initial findings: The incident was strictly limited to Grafana Labs' GitHub environment. There was no unauthorized…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13218,7 +13459,7 @@
       "category": "Systems",
       "summary": "ObservabilityCON 2026 is heading to San Francisco, and even as the fog rolls in over the Golden Gate Bridge, the future of observability will never be clearer. Join us at our flagship observability event at Pier 27 from October 19–21…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13236,7 +13477,7 @@
       "category": "Systems",
       "summary": "You can use Grafana Assistant Investigations to automatically discover incidents and help find root causes—and this AI-powered Grafana Cloud feature recently got a major upgrade to give you even more confidence in its findings. You can…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13254,7 +13495,7 @@
       "category": "Systems",
       "summary": "For many development teams, a load test starts with a set of assumptions. You pick 100 virtual users because it sounds reasonable. You ramp for 30 seconds because that's what the tutorial showed. You set a 500ms threshold because it feels…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13272,7 +13513,7 @@
       "category": "Systems",
       "summary": "Tempo started with a simple goal: make distributed tracing easier to run at scale. As tracing adoption has grown, however, so have the challenges, including higher data volumes, more complex architectures, and increasing demand for…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13290,7 +13531,7 @@
       "category": "Systems",
       "summary": "The ability to schedule regular tasks, such as cron jobs, has been around for decades. So why are we still running the same AI prompts by hand every day? As you use Grafana Assistant , our AI-powered observability agent, to stay on top of…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13308,7 +13549,7 @@
       "category": "Systems",
       "summary": "Kubernetes Monitoring in Grafana Cloud comes out of the box with preconfigured alert rules that notify you about issues like CPU throttling, crash-looping pods, and nodes going offline. These rules are installed automatically when you set…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -13326,7 +13567,7 @@
       "category": "Systems",
       "summary": "If you missed GrafanaCON 2026—or want to revisit the sessions that mattered most to your team—every session from Barcelona is now available on demand. This year's lineup covered the breadth of how teams are building with Grafana right now…",
       "tags": [],
-      "published_at": "2026-07-07T00:05:18+00:00",
+      "published_at": "2026-07-07T01:06:17+00:00",
       "sources": [
         {
           "name": "Grafana",
@@ -14557,6 +14798,204 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.servethehome.com/this-is-a-thing-kyy-x90g-quad-portable-monitor-review/"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5267007",
+      "title": "As Goes AI Compute, So Goes Ethernet Networking",
+      "url": "https://www.nextplatform.com/connect/2026/07/06/as-goes-ai-compute-so-goes-ethernet-networking/5267007",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-06T15:04:26+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/connect/2026/07/06/as-goes-ai-compute-so-goes-ethernet-networking/5267007"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5265392",
+      "title": "Of Course Meta Platforms Is Going To Be A Cloud",
+      "url": "https://www.nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-01T20:44:16+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5264552",
+      "title": "Three HPC Gurus Ask: Do We Still Need GPUs?",
+      "url": "https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-30T16:13:31+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/compute/2026/06/30/three-hpc-gurus-ask-do-we-still-need-gpus/5264552"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5264399",
+      "title": "Optical Scale Up Fabrics Are Limited By Manufacturing, Not Architecture",
+      "url": "https://www.nextplatform.com/connect/2026/06/30/optical-scale-up-fabrics-are-limited-by-manufacturing-not-architecture/5264399",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-30T13:07:21+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/connect/2026/06/30/optical-scale-up-fabrics-are-limited-by-manufacturing-not-architecture/5264399"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5263848",
+      "title": "AMD Stretches Server DRAM With Flash Extended Memory",
+      "url": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-29T15:20:32+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5263287",
+      "title": "The End Of Boom/Bust Cycles For The Memory Market",
+      "url": "https://www.nextplatform.com/store/2026/06/26/the-end-of-boom/bust-cycles-for-the-memory-market/5263287",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-26T19:02:02+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/store/2026/06/26/the-end-of-boom/bust-cycles-for-the-memory-market/5263287"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5262439",
+      "title": "A Deep Dive On China’s “LineShine” All-CPU, Exaflops-Class Supercomputer",
+      "url": "https://www.nextplatform.com/hpc/2026/06/25/a-deep-dive-on-chinas-lineshine-all-cpu-exaflops-class-supercomputer/5262439",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-25T15:48:02+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/hpc/2026/06/25/a-deep-dive-on-chinas-lineshine-all-cpu-exaflops-class-supercomputer/5262439"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5261332",
+      "title": "HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-Tenancy",
+      "url": "https://www.nextplatform.com/hpc/2026/06/24/hpe-delivers-upgraded-hpc-hardware-software-for-security-sovereignty-and-multi-tenancy/5261332",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-24T11:30:05+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/hpc/2026/06/24/hpe-delivers-upgraded-hpc-hardware-software-for-security-sovereignty-and-multi-tenancy/5261332"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5260202",
+      "title": "AMD And Nvidia Are Neck And Neck In HPC Supercomputing",
+      "url": "https://www.nextplatform.com/hpc/2026/06/23/amd-and-nvidia-are-neck-and-neck-in-hpc-supercomputing/5260202",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-23T12:25:15+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/hpc/2026/06/23/amd-and-nvidia-are-neck-and-neck-in-hpc-supercomputing/5260202"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5259579",
+      "title": "HPE Rides The Agentic AI Wave Back Into The Datacenter",
+      "url": "https://www.nextplatform.com/enterprise/2026/06/22/hpe-rides-the-agentic-ai-wave-back-into-the-datacenter/5259579",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-22T14:05:46+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/enterprise/2026/06/22/hpe-rides-the-agentic-ai-wave-back-into-the-datacenter/5259579"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5258997",
+      "title": "Everpure’s AI Strategy Is Almost Purely Based On Nvidia",
+      "url": "https://www.nextplatform.com/store/2026/06/19/everpures-ai-strategy-is-almost-purely-based-on-nvidia/5258997",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-06-19T12:58:58+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/store/2026/06/19/everpures-ai-strategy-is-almost-purely-based-on-nvidia/5258997"
         }
       ]
     },
@@ -21599,6 +22038,31 @@
       ]
     },
     {
+      "id": "Simon Willison-https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "title": "tencent/Hy3",
+      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "domain": "simonwillison.net",
+      "category": "AI / ML",
+      "summary": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview…",
+      "tags": [
+        "ai",
+        "ai-in-china",
+        "generative-ai",
+        "llm-release",
+        "llms",
+        "pelican-riding-a-bicycle"
+      ],
+      "published_at": "2026-07-06T23:57:35+00:00",
+      "sources": [
+        {
+          "name": "Simon Willison",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
+        }
+      ]
+    },
+    {
       "id": "Simon Willison-https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
       "title": "sqlite-utils 4.0rc3",
       "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
@@ -21871,31 +22335,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything"
-        }
-      ]
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-      "title": "Understand to participate",
-      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-      "domain": "simonwillison.net",
-      "category": "AI / ML",
-      "summary": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding agents as they construct increasingly large…",
-      "tags": [
-        "ai",
-        "coding-agents",
-        "cognitive-debt",
-        "generative-ai",
-        "geoffrey-litt",
-        "llms"
-      ],
-      "published_at": "2026-07-02T17:07:14+00:00",
-      "sources": [
-        {
-          "name": "Simon Willison",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything"
         }
       ]
     },
@@ -24044,6 +24483,86 @@
       ]
     },
     {
+      "id": "Phys.org-news702543772",
+      "title": "Soil thickness controls landslide occurrence, study finds",
+      "url": "https://phys.org/news/2026-07-soil-thickness-landslide-occurrence.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Researchers at University of Tsukuba analyzed high-resolution topographic data from airborne LiDAR to examine the relationships among landslide area, depth, and slope gradient.",
+      "tags": [
+        "Earth Sciences"
+      ],
+      "published_at": "2026-07-07T01:00:03+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-07-soil-thickness-landslide-occurrence.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news702563427",
+      "title": "Why customers stick with troubled brands: Emotional attachment may override perceived risk",
+      "url": "https://phys.org/news/2026-07-customers-brands-emotional-override.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Strong emotional attachment to a brand may help explain why some consumers remain loyal even in the wake of negative publicity, according to research published in the International Journal of Business and Emerging Markets.",
+      "tags": [
+        "Economics & Business"
+      ],
+      "published_at": "2026-07-07T01:00:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-07-customers-brands-emotional-override.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news702563399",
+      "title": "Wasted pumpkin peel can keep your food fresh",
+      "url": "https://phys.org/news/2026-07-pumpkin-food-fresh.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Researchers at Kyushu University have developed a new food preservation solution. Using pumpkin peel as a raw material, they synthesized a nanomaterial for food packaging that slows the deterioration of fruit and other produce while…",
+      "tags": [
+        "Biochemistry"
+      ],
+      "published_at": "2026-07-07T00:40:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-07-pumpkin-food-fresh.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news702562728",
+      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms",
+      "url": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be…",
+      "tags": [
+        "Optics & Photonics"
+      ],
+      "published_at": "2026-07-07T00:20:02+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html"
+        }
+      ]
+    },
+    {
       "id": "Phys.org-news702552396",
       "title": "Cultural power distance limits classroom voices across three communication pathways, review finds",
       "url": "https://phys.org/news/2026-07-cultural-power-distance-limits-classroom.html",
@@ -24200,86 +24719,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://phys.org/news/2026-07-outed-algorithm-social-media-revealing.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702561122",
-      "title": "Africa's wildlife laws follow a colonial model that separates people and animals: Why it's not working",
-      "url": "https://phys.org/news/2026-07-africa-wildlife-laws-colonial-people.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Africa is home to many iconic national parks and marine reserves, such as Virunga in the Democratic Republic of the Congo, Niokolo-Koba in Senegal, Kruger National Park in South Africa and Serengeti National Park in Tanzania. Many of them…",
-      "tags": [
-        "Ecology"
-      ],
-      "published_at": "2026-07-06T21:40:06+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-africa-wildlife-laws-colonial-people.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702571236",
-      "title": "Storms impact the architecture of webs and the survival of spiders",
-      "url": "https://phys.org/news/2026-07-storms-impact-architecture-webs-survival.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "In the dense forests of the Ecuadorian Andes, the survival of a spider relies not only on its ability to prey on insects but also on its capacity to resist a threat coming from the skies. A new study revealed that the heavy rainfall that…",
-      "tags": [
-        "Plants & Animals"
-      ],
-      "published_at": "2026-07-06T21:40:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-storms-impact-architecture-webs-survival.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702563735",
-      "title": "Sea stars offer rare view of how embryonic tubes become complex organs",
-      "url": "https://phys.org/news/2026-07-sea-stars-rare-view-embryonic.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Biologists have long puzzled over how organs develop into their final shapes, and the nearly transparent bodies of young sea stars may offer a unique window into the organ development process.",
-      "tags": [
-        "Evolution"
-      ],
-      "published_at": "2026-07-06T21:20:08+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-sea-stars-rare-view-embryonic.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news702552957",
-      "title": "Bringing rice back to Hawaiʻi: Japanese cultivars yield high-quality grains in just three months",
-      "url": "https://phys.org/news/2026-07-rice-hawaii-japanese-cultivars-yield.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "In a major step toward enhancing food security and exploring the potential to bring rice farming back to Hawaiʻi, an international research team has successfully cultivated premium Japanese rice varieties on Kauaʻi using a water-saving…",
-      "tags": [
-        "Agriculture"
-      ],
-      "published_at": "2026-07-06T21:20:04+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-07-rice-hawaii-japanese-cultivars-yield.html"
         }
       ]
     },
@@ -24500,8 +24939,29 @@
       ]
     },
     {
+      "id": "ScienceAlert-https://www.sciencealert.com/?p=201998",
+      "title": "Young Women Are 7 Times More Likely Than Men to Be Sent Home During a Heart Attack",
+      "url": "https://www.sciencealert.com/one-word-could-be-putting-women-at-risk-during-heart-attacks-doctors-say",
+      "domain": "sciencealert.com",
+      "category": "Science",
+      "summary": "A single word may be putting them at risk. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "tags": [
+        "Health",
+        "MSFT Content"
+      ],
+      "published_at": "2026-07-06T22:00:24+00:00",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencealert.com/one-word-could-be-putting-women-at-risk-during-heart-attacks-doctors-say"
+        }
+      ]
+    },
+    {
       "id": "ScienceAlert-https://www.sciencealert.com/?p=207459",
-      "title": "10% of Space Dust on Earth Traced Back to An Asteroid Nobody Has Ever Seen",
+      "title": "Scientists Looked Inside Tiny Molten Globs of Meteorite And Found a 'Missing' Asteroid",
       "url": "https://www.sciencealert.com/scientists-trace-tiny-molten-globs-of-meteorite-to-a-missing-asteroid",
       "domain": "sciencealert.com",
       "category": "Science",
@@ -24685,27 +25145,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.sciencealert.com/listen-to-the-horrifying-scream-of-saturn-before-cassini-plunged-to-its-death"
-        }
-      ]
-    },
-    {
-      "id": "ScienceAlert-https://www.sciencealert.com/?p=207590",
-      "title": "Non-Surgical Procedure Halves Knee Pain Over 12-Month Trial",
-      "url": "https://www.sciencealert.com/a-new-non-surgical-procedure-provides-lasting-relief-for-knee-pain",
-      "domain": "sciencealert.com",
-      "category": "Science",
-      "summary": "Safe, simple, effective. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-      "tags": [
-        "Health",
-        "MSFT Content"
-      ],
-      "published_at": "2026-07-05T13:00:00+00:00",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencealert.com/a-new-non-surgical-procedure-provides-lasting-relief-for-knee-pain"
         }
       ]
     },
@@ -25647,149 +26086,82 @@
       ]
     },
     {
-      "id": "r/dev-t3_1up9t18",
-      "title": "RedisVL is now available for Golang. Build AI apps for Redis with a native library",
-      "url": "https://github.com/redis-developer/redis-vl-golang",
-      "domain": "github.com",
-      "category": "Dev Tools",
+      "id": "r/ai-t3_1up8rdi",
+      "title": "Gov. Pritzker puts signature on Senate Bill 315, one of toughest AI laws in country",
+      "url": "https://www.wcia.com/news/illinois-news/gov-pritzker-puts-signature-on-senate-bill-315-one-of-toughest-ai-laws-in-country/amp/",
+      "domain": "wcia.com",
+      "category": "AI / ML",
       "summary": "",
       "tags": [
-        "golang"
+        "singularity"
       ],
-      "published_at": "2026-07-06T20:50:55+00:00",
+      "published_at": "2026-07-06T20:12:07+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/ai",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/golang/comments/1up9t18/redisvl_is_now_available_for_golang_build_ai_apps/"
+          "thread_url": "https://www.reddit.com/r/singularity/comments/1up8rdi/gov_pritzker_puts_signature_on_senate_bill_315/"
         }
       ]
     },
     {
-      "id": "r/dev-t3_1up7vjo",
-      "title": "DemandMap - memory map anything on S3 and \"Download\" a 600mb polars DataFrame in 100ms. [Demo]",
-      "url": "https://github.com/sonthonaxrk/demandmap",
-      "domain": "github.com",
-      "category": "Dev Tools",
+      "id": "r/ai-t3_1up59ul",
+      "title": "What’s at the center of Claude’s mind?",
+      "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "domain": "youtube.com",
+      "category": "AI / ML",
       "summary": "",
       "tags": [
-        "rust"
+        "singularity"
       ],
-      "published_at": "2026-07-06T19:40:15+00:00",
+      "published_at": "2026-07-06T18:09:24+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/ai",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1up7vjo/demandmap_memory_map_anything_on_s3_and_download/"
+          "thread_url": "https://www.reddit.com/r/singularity/comments/1up59ul/whats_at_the_center_of_claudes_mind/"
         }
       ]
     },
     {
-      "id": "r/dev-t3_1up4d1s",
-      "title": "rust-analyzer changelog #335",
-      "url": "https://rust-analyzer.github.io/thisweek/2026/07/06/changelog-335.html",
-      "domain": "rust-analyzer.github.io",
-      "category": "Dev Tools",
+      "id": "r/ai-t3_1up3mui",
+      "title": "ThinkingCap-Qwen3.6-27B: same accuracy as base Qwen3.6 with ~50% fewer thinking",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "domain": "huggingface.co",
+      "category": "AI / ML",
       "summary": "",
       "tags": [
-        "rust"
+        "LocalLLaMA"
       ],
-      "published_at": "2026-07-06T17:38:27+00:00",
+      "published_at": "2026-07-06T17:13:16+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/ai",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1up4d1s/rustanalyzer_changelog_335/"
+          "thread_url": "https://www.reddit.com/r/LocalLLaMA/comments/1up3mui/thinkingcapqwen3627b_same_accuracy_as_base_qwen36/"
         }
       ]
     },
     {
-      "id": "r/dev-t3_1up3rjj",
-      "title": "eBPF Looks Illegal: running your code inside the Linux kernel",
-      "url": "https://youtu.be/i9fMJnKakiw",
-      "domain": "youtu.be",
-      "category": "Systems",
+      "id": "r/ai-t3_1up0sin",
+      "title": "Japan is aiming to develop its own AI model and deploy 10 million robots by 2040 through a consortium called Noetra, which includes SoftBank, Sony, Honda, NEC, and other companies",
+      "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/",
+      "domain": "japantimes.co.jp",
+      "category": "AI / ML",
       "summary": "",
       "tags": [
-        "programming"
+        "singularity"
       ],
-      "published_at": "2026-07-06T17:17:54+00:00",
+      "published_at": "2026-07-06T15:34:49+00:00",
       "sources": [
         {
-          "name": "r/dev",
+          "name": "r/ai",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1up3rjj/ebpf_looks_illegal_running_your_code_inside_the/"
-        }
-      ]
-    },
-    {
-      "id": "231abeae8938dcb1",
-      "title": "Girls Just Wanna Have Fast Wait-free MPMC Queues · Nahla",
-      "url": "https://nahla.dev/blog/waitfree_queue/",
-      "domain": "nahla.dev",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "programming",
-        "rust"
-      ],
-      "published_at": "2026-07-06T15:36:48+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1up1c4a/girls_just_wanna_have_fast_waitfree_mpmc_queues/"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1up0uhg/girls_just_wanna_have_fast_waitfree_mpmc_queues/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1uo1w91",
-      "title": "What ORMs have taught me: just learn SQL",
-      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-      "domain": "wozniak.ca",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "programming"
-      ],
-      "published_at": "2026-07-05T13:12:34+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1uo1w91/what_orms_have_taught_me_just_learn_sql/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1un94or",
-      "title": "The cost of constants",
-      "url": "https://futhark-lang.org/blog/2026-07-04-the-cost-of-constants.html",
-      "domain": "futhark-lang.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "ProgrammingLanguages"
-      ],
-      "published_at": "2026-07-04T13:29:28+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1un94or/the_cost_of_constants/"
+          "thread_url": "https://www.reddit.com/r/singularity/comments/1up0sin/japan_is_aiming_to_develop_its_own_ai_model_and/"
         }
       ]
     }

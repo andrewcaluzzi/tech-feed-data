@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:18:51+00:00",
+  "generated_at": "2026-07-25T08:24:35+00:00",
   "items": [
     {
       "id": "HN-49038433",
@@ -15,8 +15,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 1512,
-          "comments": 844,
+          "score": 1513,
+          "comments": 849,
           "thread_url": "https://news.ycombinator.com/item?id=49038433"
         }
       ]
@@ -43,7 +43,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 590,
+          "score": 592,
           "comments": 169,
           "thread_url": "https://news.ycombinator.com/item?id=48973835"
         },
@@ -116,6 +116,33 @@
       ]
     },
     {
+      "id": "ccbf4e7ecd624b11",
+      "title": "Postgres LISTEN/NOTIFY Actually Scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "domain": "dbos.dev",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "databases",
+        "story"
+      ],
+      "published_at": "2026-07-24T19:05:53Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 296,
+          "comments": 54,
+          "thread_url": "https://news.ycombinator.com/item?id=49040296"
+        },
+        {
+          "name": "lobste.rs",
+          "score": 10,
+          "comments": 2,
+          "thread_url": "https://lobste.rs/s/ighdht/postgres_listen_notify_actually_scales"
+        }
+      ]
+    },
+    {
       "id": "HN-49034868",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
@@ -136,33 +163,6 @@
       ]
     },
     {
-      "id": "ccbf4e7ecd624b11",
-      "title": "Postgres LISTEN/NOTIFY Actually Scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "domain": "dbos.dev",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "databases",
-        "story"
-      ],
-      "published_at": "2026-07-24T19:05:53Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 295,
-          "comments": 54,
-          "thread_url": "https://news.ycombinator.com/item?id=49040296"
-        },
-        {
-          "name": "lobste.rs",
-          "score": 10,
-          "comments": 2,
-          "thread_url": "https://lobste.rs/s/ighdht/postgres_listen_notify_actually_scales"
-        }
-      ]
-    },
-    {
       "id": "HN-49033240",
       "title": "IRGC claims it destroyed Amazon's Bahrain data center",
       "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
@@ -176,7 +176,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 285,
+          "score": 286,
           "comments": 348,
           "thread_url": "https://news.ycombinator.com/item?id=49033240"
         }
@@ -196,7 +196,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 270,
+          "score": 271,
           "comments": 174,
           "thread_url": "https://news.ycombinator.com/item?id=49033099"
         }
@@ -216,7 +216,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 268,
+          "score": 269,
           "comments": 150,
           "thread_url": "https://news.ycombinator.com/item?id=49040741"
         }
@@ -236,7 +236,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 210,
+          "score": 211,
           "comments": 57,
           "thread_url": "https://news.ycombinator.com/item?id=49024938"
         }
@@ -257,7 +257,7 @@
         {
           "name": "HN",
           "score": 202,
-          "comments": 81,
+          "comments": 83,
           "thread_url": "https://news.ycombinator.com/item?id=49044074"
         }
       ]
@@ -296,8 +296,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 177,
-          "comments": 161,
+          "score": 178,
+          "comments": 162,
           "thread_url": "https://news.ycombinator.com/item?id=49033110"
         }
       ]
@@ -344,7 +344,7 @@
         },
         {
           "name": "lobste.rs",
-          "score": 106,
+          "score": 107,
           "comments": 39,
           "thread_url": "https://lobste.rs/s/td8rne/don_t_take_black_pill"
         }
@@ -364,7 +364,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 167,
+          "score": 168,
           "comments": 80,
           "thread_url": "https://news.ycombinator.com/item?id=49020545"
         }
@@ -384,8 +384,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 133,
-          "comments": 24,
+          "score": 136,
+          "comments": 27,
           "thread_url": "https://news.ycombinator.com/item?id=49043724"
         }
       ]
@@ -395,12 +395,11 @@
       "title": "Fil-C: Garbage In, Memory Safety Out",
       "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
       "domain": "youtube.com",
-      "category": "Dev Tools",
+      "category": "Systems",
       "summary": "",
       "tags": [
         "c",
         "c++",
-        "rust",
         "story",
         "video"
       ],
@@ -417,12 +416,6 @@
           "score": 52,
           "comments": 9,
           "thread_url": "https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1v5yejq/filc_garbage_in_memory_safety_out_filip_pizlo_ssw/"
         }
       ]
     },
@@ -440,8 +433,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 102,
-          "comments": 28,
+          "score": 104,
+          "comments": 29,
           "thread_url": "https://news.ycombinator.com/item?id=49004464"
         }
       ]
@@ -480,8 +473,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 72,
-          "comments": 0,
+          "score": 75,
+          "comments": 1,
           "thread_url": "https://news.ycombinator.com/item?id=48981665"
         }
       ]
@@ -500,8 +493,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 62,
-          "comments": 28,
+          "score": 68,
+          "comments": 33,
           "thread_url": "https://news.ycombinator.com/item?id=49045159"
         }
       ]
@@ -521,7 +514,7 @@
         {
           "name": "HN",
           "score": 50,
-          "comments": 36,
+          "comments": 38,
           "thread_url": "https://news.ycombinator.com/item?id=49045040"
         }
       ]
@@ -540,7 +533,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 48,
+          "score": 49,
           "comments": 14,
           "thread_url": "https://news.ycombinator.com/item?id=49044492"
         }
@@ -560,7 +553,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 24,
+          "score": 25,
           "comments": 2,
           "thread_url": "https://news.ycombinator.com/item?id=48992539"
         }
@@ -580,7 +573,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 14,
+          "score": 15,
           "comments": 4,
           "thread_url": "https://news.ycombinator.com/item?id=49012604"
         }
@@ -847,7 +840,7 @@
         {
           "name": "lobste.rs",
           "score": 12,
-          "comments": 33,
+          "comments": 34,
           "thread_url": "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend"
         }
       ]
@@ -867,7 +860,7 @@
         {
           "name": "lobste.rs",
           "score": 14,
-          "comments": 7,
+          "comments": 8,
           "thread_url": "https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership"
         }
       ]
@@ -2508,6 +2501,246 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.engadget.com/2222493/phone-ip68-rating-misleading-heres-why/"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278087",
+      "title": "BOFH: This printer engineer knows every trick in the book",
+      "url": "https://www.theregister.com/bofh/2026/07/25/bofh-this-printer-engineer-knows-every-trick-in-the-book/5278087",
+      "domain": "theregister.com",
+      "category": "Systems",
+      "summary": "But so does this customer",
+      "tags": [
+        "bofh"
+      ],
+      "published_at": "2026-07-25T07:16:00+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/bofh/2026/07/25/bofh-this-printer-engineer-knows-every-trick-in-the-book/5278087"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278630",
+      "title": "Anthropic debuts Opus 5 at half the price of its Fable sibling",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "And as a bonus, it doesn't require data retention",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-24T23:03:06+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278603",
+      "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
+      "url": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603",
+      "domain": "theregister.com",
+      "category": "Security",
+      "summary": "(Security) hole-ier than thou",
+      "tags": [
+        "security"
+      ],
+      "published_at": "2026-07-24T22:19:16+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278580",
+      "title": "AMD vibe codes its way past the CUDA moat with ROCm.AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "Hey Claude, optimize this model for me",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-24T21:55:38+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278556",
+      "title": "Europol flags 4,340 'horrific' URLs linked to The Com",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556",
+      "domain": "theregister.com",
+      "category": "Security",
+      "summary": "Stop the spread (of online recruiting and propaganda)",
+      "tags": [
+        "cyber-crime"
+      ],
+      "published_at": "2026-07-24T20:20:57+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278533",
+      "title": "Tech leaders issue letter to train Uncle Sam about value of open weight AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/tech-leaders-issue-letter-to-train-uncle-sam-about-value-of-open-weight-ai/5278533",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "Can you guess who didn't sign on to the group letter?",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-24T19:45:27+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/24/tech-leaders-issue-letter-to-train-uncle-sam-about-value-of-open-weight-ai/5278533"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278458",
+      "title": "Dev accidentally commits Copilot binary to FreeBSD ports repo",
+      "url": "https://www.theregister.com/os-platforms/2026/07/24/dev-accidentally-commits-copilot-binary-to-freebsd-ports-repo/5278458",
+      "domain": "theregister.com",
+      "category": "Systems",
+      "summary": "Git is aptly named: it isn’t easy – but there are alternatives",
+      "tags": [
+        "os platforms"
+      ],
+      "published_at": "2026-07-24T17:03:35+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/os-platforms/2026/07/24/dev-accidentally-commits-copilot-binary-to-freebsd-ports-repo/5278458"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278430",
+      "title": "ChatGPT wants access to your health records so it can be a better not-doctor",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/chatgpt-wants-access-to-your-health-records-so-it-can-be-a-better-not-doctor/5278430",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "Feature launches a day after lawsuit alleges chatbot advice contributed to near-fatal embolism",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-24T16:21:57+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/24/chatgpt-wants-access-to-your-health-records-so-it-can-be-a-better-not-doctor/5278430"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278416",
+      "title": "Cambodian Prime Minister Hun Manet met with ZTE to deepen cooperation in digital infrastructure and artificial intelligence (AI)",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "PARTNER CONTENT: Focusing on 5G deployment, AI integration, and ICT talent development to drive the nation's digital transformation",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-24T15:01:47+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278357",
+      "title": "Flock cameras go up in flames as cops hunt suspected firebugs",
+      "url": "https://www.theregister.com/offbeat/2026/07/24/flock-cameras-go-up-in-flames-as-cops-hunt-suspected-firebugs/5278357",
+      "domain": "theregister.com",
+      "category": "Systems",
+      "summary": "Two license plate readers torched in Georgia amid backlash against the surveillance network",
+      "tags": [
+        "offbeat"
+      ],
+      "published_at": "2026-07-24T14:48:37+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/offbeat/2026/07/24/flock-cameras-go-up-in-flames-as-cops-hunt-suspected-firebugs/5278357"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278302",
+      "title": "Veterans Affairs signs $1.6B deal for an army of Salesforce AI agents",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/veterans-affairs-signs-16b-deal-for-an-army-of-salesforce-ai-agents/5278302",
+      "domain": "theregister.com",
+      "category": "AI / ML",
+      "summary": "Makes agreement under nose of Oracle, which gets its own $7 billion defense deal",
+      "tags": [
+        "ai and ml"
+      ],
+      "published_at": "2026-07-24T13:58:06+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/07/24/veterans-affairs-signs-16b-deal-for-an-army-of-salesforce-ai-agents/5278302"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5278239",
+      "title": "SpaceX to try its luck again with Starship Flight 13 after engines and weather say no",
+      "url": "https://www.theregister.com/science/2026/07/24/spacex-to-try-its-luck-again-with-starship-flight-13-after-engines-and-weather-say-no/5278239",
+      "domain": "theregister.com",
+      "category": "Science",
+      "summary": "Replacement Raptors head for liftoff without a static fire test",
+      "tags": [
+        "science"
+      ],
+      "published_at": "2026-07-24T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/science/2026/07/24/spacex-to-try-its-luck-again-with-starship-flight-13-after-engines-and-weather-say-no/5278239"
         }
       ]
     },
@@ -14874,117 +15107,6 @@
       ]
     },
     {
-      "id": "The Record-https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
-      "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
-      "url": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
-      "domain": "therecord.media",
-      "category": "Security",
-      "summary": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.",
-      "tags": [
-        "Government",
-        "Leadership",
-        "News",
-        "People"
-      ],
-      "published_at": "2026-07-24T17:14:00+00:00",
-      "sources": [
-        {
-          "name": "The Record",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk"
-        }
-      ]
-    },
-    {
-      "id": "The Record-https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "domain": "therecord.media",
-      "category": "Security",
-      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
-      "tags": [
-        "Cybercrime",
-        "News"
-      ],
-      "published_at": "2026-07-24T15:55:00+00:00",
-      "sources": [
-        {
-          "name": "The Record",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders"
-        }
-      ]
-    },
-    {
-      "id": "The Record-https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
-      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
-      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
-      "domain": "therecord.media",
-      "category": "Security",
-      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
-      "tags": [
-        "Nation-state",
-        "News"
-      ],
-      "published_at": "2026-07-23T16:58:00+00:00",
-      "sources": [
-        {
-          "name": "The Record",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear"
-        }
-      ]
-    },
-    {
-      "id": "The Record-https://therecord.media/visa-restrictions-cyber-scammers",
-      "title": "State Department imposes visa restrictions on foreign cyber scammers",
-      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
-      "domain": "therecord.media",
-      "category": "Security",
-      "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
-      "tags": [
-        "Cybercrime",
-        "Government",
-        "News",
-        "News Briefs"
-      ],
-      "published_at": "2026-07-23T16:29:00+00:00",
-      "sources": [
-        {
-          "name": "The Record",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://therecord.media/visa-restrictions-cyber-scammers"
-        }
-      ]
-    },
-    {
-      "id": "The Record-https://therecord.media/australia-origin-energy-data-breach",
-      "title": "Major Australian energy supplier confirms customer data compromised",
-      "url": "https://therecord.media/australia-origin-energy-data-breach",
-      "domain": "therecord.media",
-      "category": "Security",
-      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
-      "tags": [
-        "Cybercrime",
-        "Industry",
-        "News",
-        "News Briefs"
-      ],
-      "published_at": "2026-07-23T13:20:00+00:00",
-      "sources": [
-        {
-          "name": "The Record",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://therecord.media/australia-origin-energy-data-breach"
-        }
-      ]
-    },
-    {
       "id": "Graham Cluley-https://grahamcluley.com/?p=17351830",
       "title": "OpenAI’s AI “goes rogue” and hacks Hugging Face: what you need to know",
       "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/openais-hacks-hugging-face",
@@ -18554,6 +18676,296 @@
       ]
     },
     {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81320",
+      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+      "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent…",
+      "tags": [
+        "AI Agents",
+        "Agentic AI",
+        "Editors Pick",
+        "Staff",
+        "Tutorials"
+      ],
+      "published_at": "2026-07-25T07:54:21+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81304",
+      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+      "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it…",
+      "tags": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "OCR",
+        "Open Source",
+        "Promote",
+        "Software Engineering",
+        "Sponsored",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Vision Language Model"
+      ],
+      "published_at": "2026-07-25T04:42:47+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81300",
+      "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+      "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the…",
+      "tags": [
+        "AI Shorts",
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "published_at": "2026-07-24T21:50:46+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81296",
+      "title": "How to Build an End-to-End OCR Pipeline with Baidu’s Unlimited-OCR for High-Resolution Images and Multi-Page PDF Parsing",
+      "url": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "In this tutorial, we build a complete workflow for running Baidu’s Unlimited-OCR model on document images and multi-page PDFs. From configuring the GPU environment to comparing high-detail tiled Gundam inference and faster Base modes…",
+      "tags": [
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "OCR",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "published_at": "2026-07-24T05:16:28+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81291",
+      "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+      "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully…",
+      "tags": [
+        "AI Agents",
+        "AI Shorts",
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Generative AI",
+        "Open Source",
+        "Tech News",
+        "Technology"
+      ],
+      "published_at": "2026-07-23T19:31:59+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81287",
+      "title": "You Didn’t Get the AI Model You Paid For",
+      "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified…",
+      "tags": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Guest Post",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Tech News",
+        "Technology"
+      ],
+      "published_at": "2026-07-23T18:07:55+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81284",
+      "title": "Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared",
+      "url": "https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging Face Open ASR Leaderboard — which means…",
+      "tags": [
+        "Applications",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Voice AI"
+      ],
+      "published_at": "2026-07-23T09:26:40+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81279",
+      "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+      "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines…",
+      "tags": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "published_at": "2026-07-23T08:01:22+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81275",
+      "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
+      "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files…",
+      "tags": [
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Security",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "published_at": "2026-07-23T06:12:05+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/"
+        }
+      ]
+    },
+    {
+      "id": "MarkTechPost-https://www.marktechpost.com/?p=81271",
+      "title": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
+      "url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+      "domain": "marktechpost.com",
+      "category": "AI / ML",
+      "summary": "Cursor has made Cursor Router generally available for Teams and Enterprise plans. The system classifies each request on query, context, task complexity and domain, then routes it to the most suitable model. Cursor reports frontier-quality…",
+      "tags": [
+        "Agentic AI",
+        "Editors Pick",
+        "Software Engineering",
+        "Staff",
+        "Tech News"
+      ],
+      "published_at": "2026-07-22T22:37:44+00:00",
+      "sources": [
+        {
+          "name": "MarkTechPost",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/"
+        }
+      ]
+    },
+    {
       "id": "Lil'Log-https://lilianweng.github.io/posts/2026-07-04-harness/",
       "title": "Harness Engineering for Self-Improvement",
       "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
@@ -21006,42 +21418,22 @@
       ]
     },
     {
-      "id": "r/dev-t3_1v5on2l",
-      "title": "White House offers its science blueprint: More AI, less life sciences. ‘Science: A New Golden Age’ report calls for shifting billions from universities to tech companies",
-      "url": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/",
-      "domain": "statnews.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "artificial"
-      ],
-      "published_at": "2026-07-24T21:27:44+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/artificial/comments/1v5on2l/white_house_offers_its_science_blueprint_more_ai/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1v5oal0",
-      "title": "PostgreSQL Extension Catalog",
-      "url": "https://pgext.cloud/",
-      "domain": "pgext.cloud",
+      "id": "r/dev-t3_1v5m0rq",
+      "title": "What syscall-layer tooling cannot see in P2P infrastructure",
+      "url": "https://nullrabbit.ai/research/why-syscall-tooling-cannot-see-p2p-infrastructure",
+      "domain": "nullrabbit.ai",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "programming"
+        "netsec"
       ],
-      "published_at": "2026-07-24T21:14:41+00:00",
+      "published_at": "2026-07-24T19:51:51+00:00",
       "sources": [
         {
           "name": "r/dev",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1v5oal0/postgresql_extension_catalog/"
+          "thread_url": "https://www.reddit.com/r/netsec/comments/1v5m0rq/what_syscalllayer_tooling_cannot_see_in_p2p/"
         }
       ]
     },
@@ -21066,22 +21458,22 @@
       ]
     },
     {
-      "id": "r/dev-t3_1v58vb1",
-      "title": "Golang Maps: How Swiss Tables Replaced the Old Bucket Design",
-      "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
-      "domain": "blog.gaborkoos.com",
-      "category": "Dev Tools",
+      "id": "r/dev-t3_1v52lix",
+      "title": "Escaping Claude Cowork’s local VM sandbox via CVE-2026-46331",
+      "url": "https://www.accomplish.ai/blog/sharedroot-escaping-claude-cowork-sandbox/",
+      "domain": "accomplish.ai",
+      "category": "AI / ML",
       "summary": "",
       "tags": [
-        "golang"
+        "netsec"
       ],
-      "published_at": "2026-07-24T11:37:22+00:00",
+      "published_at": "2026-07-24T05:53:48+00:00",
       "sources": [
         {
           "name": "r/dev",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/golang/comments/1v58vb1/golang_maps_how_swiss_tables_replaced_the_old/"
+          "thread_url": "https://www.reddit.com/r/netsec/comments/1v52lix/escaping_claude_coworks_local_vm_sandbox_via/"
         }
       ]
     }

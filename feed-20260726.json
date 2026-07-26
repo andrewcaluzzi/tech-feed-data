@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:46:51+00:00",
+  "generated_at": "2026-07-26T20:26:27+00:00",
   "items": [
     {
       "id": "c02fbe1ae475f9ff",
@@ -16,8 +16,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 592,
-          "comments": 286,
+          "score": 633,
+          "comments": 303,
           "thread_url": "https://news.ycombinator.com/item?id=49057175"
         },
         {
@@ -43,44 +43,15 @@
       "sources": [
         {
           "name": "HN",
-          "score": 358,
-          "comments": 153,
+          "score": 360,
+          "comments": 154,
           "thread_url": "https://news.ycombinator.com/item?id=49047453"
         },
         {
           "name": "lobste.rs",
-          "score": 94,
-          "comments": 36,
+          "score": 95,
+          "comments": 38,
           "thread_url": "https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"
-        }
-      ]
-    },
-    {
-      "id": "52638f94b7fbf295",
-      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "domain": "astral.sh",
-      "category": "Dev Tools",
-      "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\"…",
-      "tags": [
-        "astral",
-        "python",
-        "ruff",
-        "story"
-      ],
-      "published_at": "2026-07-25T22:44:05+00:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 323,
-          "comments": 203,
-          "thread_url": "https://news.ycombinator.com/item?id=49056112"
-        },
-        {
-          "name": "Simon Willison",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything"
         }
       ]
     },
@@ -98,8 +69,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 317,
-          "comments": 195,
+          "score": 327,
+          "comments": 201,
           "thread_url": "https://news.ycombinator.com/item?id=49055169"
         }
       ]
@@ -118,29 +89,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 264,
-          "comments": 206,
+          "score": 278,
+          "comments": 218,
           "thread_url": "https://news.ycombinator.com/item?id=49057574"
-        }
-      ]
-    },
-    {
-      "id": "HN-49054107",
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "domain": "blog.ktz.me",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-26T02:35:43Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 249,
-          "comments": 54,
-          "thread_url": "https://news.ycombinator.com/item?id=49054107"
         }
       ]
     },
@@ -158,8 +109,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 226,
-          "comments": 172,
+          "score": 242,
+          "comments": 196,
           "thread_url": "https://news.ycombinator.com/item?id=49058669"
         }
       ]
@@ -178,8 +129,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 205,
-          "comments": 68,
+          "score": 224,
+          "comments": 75,
           "thread_url": "https://news.ycombinator.com/item?id=49057241"
         }
       ]
@@ -198,7 +149,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 147,
+          "score": 152,
           "comments": 24,
           "thread_url": "https://news.ycombinator.com/item?id=49057398"
         }
@@ -218,9 +169,61 @@
       "sources": [
         {
           "name": "HN",
-          "score": 130,
-          "comments": 26,
+          "score": 138,
+          "comments": 31,
           "thread_url": "https://news.ycombinator.com/item?id=49022355"
+        }
+      ]
+    },
+    {
+      "id": "HN-49060978",
+      "title": "The Strongest El Niño Ever",
+      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+      "domain": "theclimatebrink.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-26T18:35:36Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 130,
+          "comments": 64,
+          "thread_url": "https://news.ycombinator.com/item?id=49060978"
+        }
+      ]
+    },
+    {
+      "id": "69e1c93d7f6da164",
+      "title": "Rethinking legal education in the AI era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "domain": "law.uchicago.edu",
+      "category": "AI / ML",
+      "summary": "Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI. He shares how autonomous data products act like containers for data, encapsulating pipelines, schemas, and metadata…",
+      "tags": [
+        "AI, ML & Data Engineering",
+        "Data",
+        "Infrastructure",
+        "QCon AI 2025",
+        "Transcripts",
+        "presentation",
+        "story"
+      ],
+      "published_at": "2026-07-23T17:12:48Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 123,
+          "comments": 85,
+          "thread_url": "https://news.ycombinator.com/item?id=49024980"
+        },
+        {
+          "name": "InfoQ",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
         }
       ]
     },
@@ -238,8 +241,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 112,
-          "comments": 19,
+          "score": 122,
+          "comments": 21,
           "thread_url": "https://news.ycombinator.com/item?id=49006049"
         }
       ]
@@ -258,35 +261,15 @@
       "sources": [
         {
           "name": "HN",
-          "score": 105,
-          "comments": 48,
+          "score": 118,
+          "comments": 60,
           "thread_url": "https://news.ycombinator.com/item?id=49059367"
         }
       ]
     },
     {
-      "id": "HN-49060978",
-      "title": "The Strongest El Niño Ever",
-      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "domain": "theclimatebrink.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-26T18:35:36Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 97,
-          "comments": 37,
-          "thread_url": "https://news.ycombinator.com/item?id=49060978"
-        }
-      ]
-    },
-    {
       "id": "7990a713f6f09ce2",
-      "title": "An Inside Look at the Token Reseller Market",
+      "title": "The relay market powering token resellers and fraud",
       "url": "https://vectoral.com/blog/token-relay-market",
       "domain": "vectoral.com",
       "category": "AI / ML",
@@ -304,8 +287,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 93,
-          "comments": 50,
+          "score": 104,
+          "comments": 54,
           "thread_url": "https://news.ycombinator.com/item?id=49058993"
         },
         {
@@ -313,6 +296,32 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
+        }
+      ]
+    },
+    {
+      "id": "affe5eba324aa245",
+      "title": "Some more things about Django I've been enjoying",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "domain": "jvns.ca",
+      "category": "Dev Tools",
+      "summary": "Hello! I’m on a funny journey right now where I’m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It’s kind of an interesting journey because it doesn’t…",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 94,
+          "comments": 49,
+          "thread_url": "https://news.ycombinator.com/item?id=48997828"
+        },
+        {
+          "name": "Julia Evans",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
         }
       ]
     },
@@ -330,8 +339,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 80,
-          "comments": 26,
+          "score": 83,
+          "comments": 30,
           "thread_url": "https://news.ycombinator.com/item?id=49057666"
         }
       ]
@@ -350,8 +359,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 71,
-          "comments": 25,
+          "score": 81,
+          "comments": 29,
           "thread_url": "https://news.ycombinator.com/item?id=49057877"
         }
       ]
@@ -370,9 +379,49 @@
       "sources": [
         {
           "name": "HN",
-          "score": 69,
-          "comments": 32,
+          "score": 77,
+          "comments": 40,
           "thread_url": "https://news.ycombinator.com/item?id=49056620"
+        }
+      ]
+    },
+    {
+      "id": "HN-49060856",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "domain": "beyondloom.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-26T18:23:06Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 71,
+          "comments": 12,
+          "thread_url": "https://news.ycombinator.com/item?id=49060856"
+        }
+      ]
+    },
+    {
+      "id": "HN-49060495",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "domain": "france24.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-26T17:49:44Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 70,
+          "comments": 33,
+          "thread_url": "https://news.ycombinator.com/item?id=49060495"
         }
       ]
     },
@@ -390,8 +439,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 62,
-          "comments": 22,
+          "score": 70,
+          "comments": 29,
           "thread_url": "https://news.ycombinator.com/item?id=48997008"
         }
       ]
@@ -410,69 +459,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 50,
-          "comments": 12,
+          "score": 60,
+          "comments": 13,
           "thread_url": "https://news.ycombinator.com/item?id=49059398"
-        }
-      ]
-    },
-    {
-      "id": "HN-49060495",
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "domain": "france24.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-26T17:49:44Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 48,
-          "comments": 20,
-          "thread_url": "https://news.ycombinator.com/item?id=49060495"
-        }
-      ]
-    },
-    {
-      "id": "HN-49060856",
-      "title": "Decker",
-      "url": "https://beyondloom.com/decker/",
-      "domain": "beyondloom.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-26T18:23:06Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 33,
-          "comments": 6,
-          "thread_url": "https://news.ycombinator.com/item?id=49060856"
-        }
-      ]
-    },
-    {
-      "id": "HN-49060295",
-      "title": "How to Write English Prose",
-      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-      "domain": "thelampmagazine.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-26T17:29:35Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 26,
-          "comments": 6,
-          "thread_url": "https://news.ycombinator.com/item?id=49060295"
         }
       ]
     },
@@ -490,69 +479,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 24,
-          "comments": 8,
+          "score": 41,
+          "comments": 11,
           "thread_url": "https://news.ycombinator.com/item?id=49059977"
-        }
-      ]
-    },
-    {
-      "id": "HN-49016917",
-      "title": "Using sed to make indexes for books (long)",
-      "url": "https://www.pement.org/sed/make_indexes.txt",
-      "domain": "pement.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-23T04:25:24Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 22,
-          "comments": 3,
-          "thread_url": "https://news.ycombinator.com/item?id=49016917"
-        }
-      ]
-    },
-    {
-      "id": "HN-49060724",
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "domain": "gamedevs.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-26T18:11:16Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 17,
-          "comments": 4,
-          "thread_url": "https://news.ycombinator.com/item?id=49060724"
-        }
-      ]
-    },
-    {
-      "id": "HN-49060998",
-      "title": "Show HN: The Occult Gatsby",
-      "url": "https://occultgatsby.work",
-      "domain": "occultgatsby.work",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-26T18:38:11Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 15,
-          "comments": 3,
-          "thread_url": "https://news.ycombinator.com/item?id=49060998"
         }
       ]
     },
@@ -570,9 +499,109 @@
       "sources": [
         {
           "name": "HN",
-          "score": 13,
-          "comments": 9,
+          "score": 31,
+          "comments": 17,
           "thread_url": "https://news.ycombinator.com/item?id=49060945"
+        }
+      ]
+    },
+    {
+      "id": "HN-49060295",
+      "title": "How to Write English Prose",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "domain": "thelampmagazine.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-26T17:29:35Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 28,
+          "comments": 10,
+          "thread_url": "https://news.ycombinator.com/item?id=49060295"
+        }
+      ]
+    },
+    {
+      "id": "HN-49060724",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "domain": "gamedevs.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-26T18:11:16Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 27,
+          "comments": 7,
+          "thread_url": "https://news.ycombinator.com/item?id=49060724"
+        }
+      ]
+    },
+    {
+      "id": "HN-49016917",
+      "title": "Using sed to make indexes for books (long) (1997)",
+      "url": "https://www.pement.org/sed/make_indexes.txt",
+      "domain": "pement.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-23T04:25:24Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 24,
+          "comments": 5,
+          "thread_url": "https://news.ycombinator.com/item?id=49016917"
+        }
+      ]
+    },
+    {
+      "id": "HN-49020647",
+      "title": "Sum of Cubes via Difference Tables",
+      "url": "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/",
+      "domain": "leancrew.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-23T12:40:42Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 14,
+          "comments": 2,
+          "thread_url": "https://news.ycombinator.com/item?id=49020647"
+        }
+      ]
+    },
+    {
+      "id": "HN-49008834",
+      "title": "Building the Grace Cathedral Experience",
+      "url": "https://blog.playcanvas.com/building-the-grace-cathedral-experience/",
+      "domain": "blog.playcanvas.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-07-22T15:57:53Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 13,
+          "comments": 1,
+          "thread_url": "https://news.ycombinator.com/item?id=49008834"
         }
       ]
     },
@@ -597,26 +626,6 @@
       ]
     },
     {
-      "id": "HN-49020647",
-      "title": "Sum of Cubes via Difference Tables",
-      "url": "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/",
-      "domain": "leancrew.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-07-23T12:40:42Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 10,
-          "comments": 2,
-          "thread_url": "https://news.ycombinator.com/item?id=49020647"
-        }
-      ]
-    },
-    {
       "id": "lobste.rs-krsvrp",
       "title": "Maybe we should revisit microkernels",
       "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
@@ -630,8 +639,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 36,
-          "comments": 17,
+          "score": 43,
+          "comments": 18,
           "thread_url": "https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"
         }
       ]
@@ -659,6 +668,27 @@
       ]
     },
     {
+      "id": "lobste.rs-n3dz7x",
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "domain": "gracefulliberty.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "concatenative",
+        "education"
+      ],
+      "published_at": "2026-07-26T14:26:09.756-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 4,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/n3dz7x/teaching_kids_forth"
+        }
+      ]
+    },
+    {
       "id": "lobste.rs-sd5em2",
       "title": "Himalaya v2.0.0: CLI to manage emails",
       "url": "https://fosstodon.org/@pimalaya/116983467890532240",
@@ -675,7 +705,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 14,
+          "score": 15,
           "comments": 4,
           "thread_url": "https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails"
         }
@@ -695,7 +725,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 27,
+          "score": 28,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff"
         }
@@ -723,6 +753,28 @@
       ]
     },
     {
+      "id": "lobste.rs-oviysl",
+      "title": "Xavier Leroy on programming, languages and formal verification",
+      "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+      "domain": "youtube.com",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "formalmethods",
+        "ml",
+        "video"
+      ],
+      "published_at": "2026-07-26T09:59:29.185-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 6,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages"
+        }
+      ]
+    },
+    {
       "id": "lobste.rs-67043h",
       "title": "Dmitri Gaskin on jQuery",
       "url": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
@@ -745,49 +797,6 @@
       ]
     },
     {
-      "id": "lobste.rs-oviysl",
-      "title": "Xavier Leroy on programming, languages and formal verification",
-      "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
-      "domain": "youtube.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "formalmethods",
-        "ml",
-        "video"
-      ],
-      "published_at": "2026-07-26T09:59:29.185-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 5,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-n3dz7x",
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "domain": "gracefulliberty.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "concatenative",
-        "education"
-      ],
-      "published_at": "2026-07-26T14:26:09.756-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 1,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/n3dz7x/teaching_kids_forth"
-        }
-      ]
-    },
-    {
       "id": "lobste.rs-sh9bbn",
       "title": "How to self-host servers in your living room on static IPs",
       "url": "https://vimuser.org/l2tp.html",
@@ -801,7 +810,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 14,
+          "score": 15,
           "comments": 12,
           "thread_url": "https://lobste.rs/s/sh9bbn/how_self_host_servers_your_living_room_on"
         }
@@ -825,6 +834,28 @@
           "score": 2,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/exipox/forth_moving_lisp_moving_forth"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-9fqugm",
+      "title": "OpenLoco version 26.07  Release",
+      "url": "https://openloco.io/news/2026/07/openloco-v26.07.html",
+      "domain": "openloco.io",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "c++",
+        "games",
+        "release"
+      ],
+      "published_at": "2026-07-26T12:38:00.685-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 2,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/9fqugm/openloco_version_26_07_release"
         }
       ]
     },
@@ -871,6 +902,26 @@
       ]
     },
     {
+      "id": "lobste.rs-t5os1h",
+      "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "domain": "kitsumed.github.io",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "android"
+      ],
+      "published_at": "2026-07-25T05:01:03.758-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 45,
+          "comments": 7,
+          "thread_url": "https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb"
+        }
+      ]
+    },
+    {
       "id": "lobste.rs-usdhrd",
       "title": "Verse: A New Scripting Language",
       "url": "https://youtube.com/watch?v=ebqKYLKjL6U",
@@ -889,26 +940,6 @@
           "score": 15,
           "comments": 10,
           "thread_url": "https://lobste.rs/s/usdhrd/verse_new_scripting_language"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-t5os1h",
-      "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "domain": "kitsumed.github.io",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "android"
-      ],
-      "published_at": "2026-07-25T05:01:03.758-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 44,
-          "comments": 7,
-          "thread_url": "https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb"
         }
       ]
     },
@@ -934,28 +965,6 @@
       ]
     },
     {
-      "id": "lobste.rs-9fqugm",
-      "title": "OpenLoco version 26.07  Release",
-      "url": "https://openloco.io/news/2026/07/openloco-v26.07.html",
-      "domain": "openloco.io",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "c++",
-        "games",
-        "release"
-      ],
-      "published_at": "2026-07-26T12:38:00.685-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 1,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/9fqugm/openloco_version_26_07_release"
-        }
-      ]
-    },
-    {
       "id": "lobste.rs-c76s0r",
       "title": "Chrome registers a global shortcut for Gemini popup window",
       "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
@@ -972,7 +981,7 @@
         {
           "name": "lobste.rs",
           "score": 74,
-          "comments": 41,
+          "comments": 42,
           "thread_url": "https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for"
         }
       ]
@@ -996,6 +1005,27 @@
           "score": 1,
           "comments": 1,
           "thread_url": "https://lobste.rs/s/1o4ba2/fast_deflate_compression_lean"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-asgpfk",
+      "title": "Scanwheel: a drum style mechanical television you can build yourself",
+      "url": "https://github.com/AncientJames/Scanwheel/",
+      "domain": "github.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [
+        "hardware",
+        "video"
+      ],
+      "published_at": "2026-07-25T22:15:08.177-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 3,
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/asgpfk/scanwheel_drum_style_mechanical"
         }
       ]
     },
@@ -1086,27 +1116,6 @@
           "score": 19,
           "comments": 2,
           "thread_url": "https://lobste.rs/s/pqkfur/emacs_writing_machine"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-asgpfk",
-      "title": "Scanwheel: a drum style mechanical television you can build yourself",
-      "url": "https://github.com/AncientJames/Scanwheel/",
-      "domain": "github.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [
-        "hardware",
-        "video"
-      ],
-      "published_at": "2026-07-25T22:15:08.177-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 2,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/asgpfk/scanwheel_drum_style_mechanical"
         }
       ]
     },
@@ -1545,6 +1554,44 @@
       ]
     },
     {
+      "id": "54ef705210ade218",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "domain": "theverge.com",
+      "category": "Systems",
+      "summary": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy…",
+      "tags": [
+        "Apple",
+        "Apple Rumors",
+        "Gadgets",
+        "News",
+        "Privacy",
+        "Tech",
+        "Wearable"
+      ],
+      "published_at": "2026-07-26T15:05:00+00:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"
+        },
+        {
+          "name": "Engadget",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/"
+        },
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260726/p5#a260726p5"
+        }
+      ]
+    },
+    {
       "id": "The Verge-https://www.theverge.com/?p=971097",
       "title": "The US is charging an American citizen for wiping his phone at the border",
       "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
@@ -1775,26 +1822,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
-        }
-      ]
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/?p=970343",
-      "title": "Is this e-reader case a gun?",
-      "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
-      "domain": "theverge.com",
-      "category": "Systems",
-      "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically…",
-      "tags": [
-        "Tech"
-      ],
-      "published_at": "2026-07-25T13:00:00+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun"
         }
       ]
     },
@@ -2425,6 +2452,26 @@
       ]
     },
     {
+      "id": "Engadget-https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
+      "title": "Nanoleaf's monitor stand is an all-in-one setup that brightens up your desk space",
+      "url": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
+      "domain": "engadget.com",
+      "category": "Science",
+      "summary": "The Smart LED Monitor Stand is currently available for $169.99.",
+      "tags": [
+        "Accessories"
+      ],
+      "published_at": "2026-07-26T20:15:08+00:00",
+      "sources": [
+        {
+          "name": "Engadget",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/"
+        }
+      ]
+    },
+    {
       "id": "Engadget-https://www.engadget.com/2221561/how-to-get-youtube-music-best-audio-quality/",
       "title": "How to get YouTube Music's best audio quality",
       "url": "https://www.engadget.com/2221561/how-to-get-youtube-music-best-audio-quality/",
@@ -2473,32 +2520,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.livescience.com/space/space-exploration/humanitys-first-look-at-the-surface-of-mars-shared-on-50th-anniversary-of-historic-nasa-landing-space-photo-of-the-week"
-        }
-      ]
-    },
-    {
-      "id": "ff798e638c0ebf03",
-      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
-      "url": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
-      "domain": "engadget.com",
-      "category": "Systems",
-      "summary": "The Apple team behind the upcoming smart glasses is reportedly exploring several tweaks related to user privacy.",
-      "tags": [
-        "Apple"
-      ],
-      "published_at": "2026-07-26T15:05:00+00:00",
-      "sources": [
-        {
-          "name": "Engadget",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/"
-        },
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260726/p5#a260726p5"
         }
       ]
     },
@@ -2681,26 +2702,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.engadget.com/2223242/eu-says-tiktok-hasnt-done-enough-to-ensure-minors-safety/"
-        }
-      ]
-    },
-    {
-      "id": "Engadget-https://www.engadget.com/2219828/20-percent-rule-for-solar-panels-help-save-money/",
-      "title": "The 20 percent rule for solar panels can help you save money in the long run",
-      "url": "https://www.engadget.com/2219828/20-percent-rule-for-solar-panels-help-save-money/",
-      "domain": "engadget.com",
-      "category": "Systems",
-      "summary": "Building your solar panel system with some extra capacity makes managing it a bit easier.",
-      "tags": [
-        "Tomorrow"
-      ],
-      "published_at": "2026-07-25T17:30:00+00:00",
-      "sources": [
-        {
-          "name": "Engadget",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.engadget.com/2219828/20-percent-rule-for-solar-panels-help-save-money/"
         }
       ]
     },
@@ -6747,31 +6748,6 @@
       ]
     },
     {
-      "id": "InfoQ-https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
-      "url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "domain": "infoq.com",
-      "category": "AI / ML",
-      "summary": "Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI. He shares how autonomous data products act like containers for data, encapsulating pipelines, schemas, and metadata…",
-      "tags": [
-        "AI, ML & Data Engineering",
-        "Data",
-        "Infrastructure",
-        "QCon AI 2025",
-        "Transcripts",
-        "presentation"
-      ],
-      "published_at": "2026-07-24T13:30:00+00:00",
-      "sources": [
-        {
-          "name": "InfoQ",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
-        }
-      ]
-    },
-    {
       "id": "InfoQ-https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "title": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender",
       "url": "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -7744,24 +7720,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor"
-        }
-      ]
-    },
-    {
-      "id": "Julia Evans-https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-      "title": "Some more things about Django I've been enjoying",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-      "domain": "jvns.ca",
-      "category": "Dev Tools",
-      "summary": "Hello! I’m on a funny journey right now where I’m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It’s kind of an interesting journey because it doesn’t…",
-      "tags": [],
-      "published_at": "2026-07-21T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Julia Evans",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
         }
       ]
     },
@@ -9842,11 +9800,11 @@
       ]
     },
     {
-      "id": "0621adc1c813be08",
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "url": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/",
-      "domain": "cloud.google.com",
-      "category": "Systems",
+      "id": "9fb8890d92eafbcc",
+      "title": "DoE Fires The $5 Billion Starter Gun For Its AI-Targeted Genesis Mission",
+      "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
       "summary": "Scientists today face challenges of extraordinary scale and complexity. From shaping and simulating the intricate dynamics of fusion plasma, to exploring the vast search space of new materials, to making sense of the exabytes of data…",
       "tags": [
         "Public Sector"
@@ -9858,6 +9816,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/"
+        },
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061"
         },
         {
           "name": "DeepMind",
@@ -12558,6 +12522,186 @@
       ]
     },
     {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5278510",
+      "title": "The Money AMD Is Chasing With Its Rackscale AI System Roadmaps",
+      "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-24T18:22:11+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5272323",
+      "title": "How Google's Axion CPUs Benefit The Cloud",
+      "url": "https://www.nextplatform.com/cloud/2026/07/23/partner-content/5272323",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "PARTNER CONTENT: subhead subhead",
+      "tags": [],
+      "published_at": "2026-07-23T08:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/cloud/2026/07/23/partner-content/5272323"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5276643",
+      "title": "Salience Labs Wants To Scale Up AI With Silicon Photonics Optical Switch",
+      "url": "https://www.nextplatform.com/connect/2026/07/22/salience-labs-wants-to-scale-up-ai-with-silicon-photonics-optical-switch/5276643",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-22T20:28:10+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/connect/2026/07/22/salience-labs-wants-to-scale-up-ai-with-silicon-photonics-optical-switch/5276643"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5275842",
+      "title": "GenAI Hardware Investments Are Way Ahead Of Model And Platform Revenues",
+      "url": "https://www.nextplatform.com/ai/2026/07/21/genai-hardware-investments-are-way-ahead-of-model-and-platform-revenues/5275842",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-21T20:32:13+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/ai/2026/07/21/genai-hardware-investments-are-way-ahead-of-model-and-platform-revenues/5275842"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5275161",
+      "title": "Microsoft Taps AMD For At Scale AI CPU And GPU Clusters",
+      "url": "https://www.nextplatform.com/cloud/2026/07/20/microsoft-taps-amd-for-at-scale-ai-cpu-and-gpu-clusters/5275161",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-20T17:16:17+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/cloud/2026/07/20/microsoft-taps-amd-for-at-scale-ai-cpu-and-gpu-clusters/5275161"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5275023",
+      "title": "Google Uses AI Reinforcement Learning For Quantum Error Correction",
+      "url": "https://www.nextplatform.com/compute/2026/07/20/google-uses-ai-reinforcement-learning-for-quantum-error-correction/5275023",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-20T14:52:40+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/compute/2026/07/20/google-uses-ai-reinforcement-learning-for-quantum-error-correction/5275023"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5274615",
+      "title": "Marvell Brings Radix, Low Latency, And Bandwidth To Bear With Teralynx T100",
+      "url": "https://www.nextplatform.com/connect/2026/07/17/marvell-brings-radix-low-latency-and-bandwidth-to-bear-with-teralynx-t100/5274615",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-17T19:40:08+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/connect/2026/07/17/marvell-brings-radix-low-latency-and-bandwidth-to-bear-with-teralynx-t100/5274615"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5273929",
+      "title": "AI Chips Drive Around A Third Of TSMC Revenues",
+      "url": "https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-16T21:13:48+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5271533",
+      "title": "SREs To AI Agents: Prove Yourself Before You Touch Production",
+      "url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-15T02:15:35+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533"
+        }
+      ]
+    },
+    {
+      "id": "The Next Platform-https://www.nextplatform.com/a/5270664",
+      "title": "The Aspirations Of HPE And Dell In The Quantum-Classical HPC Datacenter",
+      "url": "https://www.nextplatform.com/compute/2026/07/13/the-aspirations-of-hpe-and-dell-in-the-quantum-classical-hpc-datacenter/5270664",
+      "domain": "nextplatform.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [],
+      "published_at": "2026-07-13T17:44:00+00:00",
+      "sources": [
+        {
+          "name": "The Next Platform",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.nextplatform.com/compute/2026/07/13/the-aspirations-of-hpe-and-dell-in-the-quantum-classical-hpc-datacenter/5270664"
+        }
+      ]
+    },
+    {
       "id": "Chips and Cheese-https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
       "title": "AMD’s Instinct MI455X: Aiming for the Sun",
       "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
@@ -12702,6 +12846,28 @@
       ]
     },
     {
+      "id": "Hackaday-https://hackaday.com/?p=1130513",
+      "title": "Filling High Pressure CO2 Tanks From Sugar Fermentation Gas",
+      "url": "https://hackaday.com/2026/07/26/filling-high-pressure-co2-tanks-from-sugar-fermentation-gas/",
+      "domain": "hackaday.com",
+      "category": "Hardware",
+      "summary": "After previously using the fermenting of sugar to obtain ethanol fuel, [Hyperspace Pirate] figured that it’d be a waste to just blast the other half of the yeast production in …read more",
+      "tags": [
+        "Science",
+        "co2",
+        "how-to"
+      ],
+      "published_at": "2026-07-26T20:00:00+00:00",
+      "sources": [
+        {
+          "name": "Hackaday",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://hackaday.com/2026/07/26/filling-high-pressure-co2-tanks-from-sugar-fermentation-gas/"
+        }
+      ]
+    },
+    {
       "id": "Hackaday-https://hackaday.com/?p=1130384",
       "title": "Ever Seen Claude Use Fusion 360?",
       "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360/",
@@ -12836,30 +13002,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://hackaday.com/2026/07/25/building-a-fencing-scoring-box/"
-        }
-      ]
-    },
-    {
-      "id": "Hackaday-https://hackaday.com/?p=1127454",
-      "title": "Taking Tri-Camera True-Color Infrared Videos",
-      "url": "https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/",
-      "domain": "hackaday.com",
-      "category": "Hardware",
-      "summary": "Silicon-based CMOS camera sensors are cheap and plentiful, but they’re rarely used to their full potential: they can detect a greater range of wavelengths in the infrared spectrum than they …read more",
-      "tags": [
-        "color vision",
-        "digital cameras hacks",
-        "infrared",
-        "infrared camera",
-        "infrared camera hack"
-      ],
-      "published_at": "2026-07-25T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "Hackaday",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/"
         }
       ]
     },
@@ -13386,6 +13528,34 @@
       ]
     },
     {
+      "id": "Wccftech-https://wccftech.com/?p=1736350",
+      "title": "Snapdragon 8 Elite Gen 6 Pro To Boost FPS With Upscaling & Frame Generation Improvements Thanks To Exclusive AI Frame Fusion, But Its Use Case Could Be Limited",
+      "url": "https://wccftech.com/snapdragon-8-elite-gen-6-pro-ai-frame-fusion-exclusive-feature/",
+      "domain": "wccftech.com",
+      "category": "Hardware",
+      "summary": "Each year, Qualcomm introduces a new upscaling technology that’s marketed as a game-changing feature, with the company now rumored to bring AI Frame Fusion exclusively to the Snapdragon 8 Elite Gen 6 Pro. While we should be excited for…",
+      "tags": [
+        "AI",
+        "Featured",
+        "Mobile",
+        "News",
+        "Qualcomm",
+        "Rumor",
+        "Snapdragon 8 Elite Gen 5",
+        "Snapdragon 8 Elite Gen 6",
+        "Snapdragon 8 Elite Gen 6 Pro"
+      ],
+      "published_at": "2026-07-26T19:54:29+00:00",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://wccftech.com/snapdragon-8-elite-gen-6-pro-ai-frame-fusion-exclusive-feature/"
+        }
+      ]
+    },
+    {
       "id": "Wccftech-https://wccftech.com/?p=1736275",
       "title": "Apple Is Facing A Shift It Never Encountered In Its Two-Decade History; Meeting Customers Wanting The Same LPDDR Memory, But At Higher Margins",
       "url": "https://wccftech.com/apple-lpddr-memory-margin-shift/",
@@ -13534,38 +13704,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://wccftech.com/nvidia-inked-a-500-billion-agreement-with-sk-hynix-and-then-jensen-huang-asked-for-one-more-beer/"
-        }
-      ]
-    },
-    {
-      "id": "Wccftech-https://wccftech.com/?p=1736169",
-      "title": "20 Years Since AMD’s $5.4 Billion ATI Acquisition: The Deal That Shaped Radeon, Consoles, And AMD’s AI Future",
-      "url": "https://wccftech.com/20-years-since-amds-5-4-billion-ati-acquisition/",
-      "domain": "wccftech.com",
-      "category": "Hardware",
-      "summary": "The company has come a long way since its acquisition of ATI Technologies in 2006. This transformed it from a CPU maker to a full-fledged computing giant. Twenty Years Later, the ATI Acquisition Remains AMD's Most Important Milestone…",
-      "tags": [
-        "AMD",
-        "APU",
-        "ATI Technologies",
-        "Featured",
-        "Hardware",
-        "Instinct",
-        "Intel",
-        "News",
-        "Nvidia",
-        "Radeon",
-        "Xbox",
-        "ZEN",
-        "playstation"
-      ],
-      "published_at": "2026-07-25T13:44:06+00:00",
-      "sources": [
-        {
-          "name": "Wccftech",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://wccftech.com/20-years-since-amds-5-4-billion-ati-acquisition/"
         }
       ]
     },
@@ -18269,6 +18407,28 @@
       ]
     },
     {
+      "id": "Simon Willison-https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "title": "Ruff v0.16.0",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "domain": "simonwillison.net",
+      "category": "Dev Tools",
+      "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\"…",
+      "tags": [
+        "astral",
+        "python",
+        "ruff"
+      ],
+      "published_at": "2026-07-25T22:44:05+00:00",
+      "sources": [
+        {
+          "name": "Simon Willison",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything"
+        }
+      ]
+    },
+    {
       "id": "Simon Willison-https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
       "title": "Quoting Boris Cherny",
       "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
@@ -20014,6 +20174,27 @@
       ]
     },
     {
+      "id": "ScienceAlert-https://www.sciencealert.com/?p=209960",
+      "title": "NASA's Psyche Mission Captured an Eerie Timelapse of Its Flyby of Mars",
+      "url": "https://www.sciencealert.com/nasa-reveals-psychedelic-visuals-of-mars-captured-by-psyche-mission",
+      "domain": "sciencealert.com",
+      "category": "Science",
+      "summary": "For the first time ever, we'll explore a world made of metal. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "tags": [
+        "MSFT Content",
+        "Space"
+      ],
+      "published_at": "2026-07-26T20:00:00+00:00",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencealert.com/nasa-reveals-psychedelic-visuals-of-mars-captured-by-psyche-mission"
+        }
+      ]
+    },
+    {
       "id": "ScienceAlert-https://www.sciencealert.com/?p=210742",
       "title": "Drug-Resistant Bacteria May Be Jumping Between Pets And Humans, Scientists Warn",
       "url": "https://www.sciencealert.com/drug-resistant-superbugs-may-be-jumping-between-pets-and-humans-scientists-warn",
@@ -20212,27 +20393,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.livescience.com/archaeology/1-200-year-old-infant-burial-found-near-famous-temple-of-artemis-in-turkey-contains-twins-one-with-an-unusual-extra-rib"
-        }
-      ]
-    },
-    {
-      "id": "ScienceAlert-https://www.sciencealert.com/?p=210003",
-      "title": "Antimatter Is Apparently Escaping The Milky Way – And It Deepens One of Astronomy's Oldest Mysteries",
-      "url": "https://www.sciencealert.com/strange-gamma-rays-beyond-the-milky-way-may-reveal-antimatter-annihilation",
-      "domain": "sciencealert.com",
-      "category": "Science",
-      "summary": "\"This would be the first detection.\" ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-      "tags": [
-        "MSFT Content",
-        "Space"
-      ],
-      "published_at": "2026-07-25T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencealert.com/strange-gamma-rays-beyond-the-milky-way-may-reveal-antimatter-annihilation"
         }
       ]
     },
@@ -21004,6 +21164,26 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.reddit.com/r/golang/comments/1v6vffa/webpgopure_a_webp_encoding_decoding_library/"
+        }
+      ]
+    },
+    {
+      "id": "r/dev-t3_1v6ijz9",
+      "title": "Introducing Triton: DirectX 11 driver for QEMU",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "domain": "blog.getutm.app",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "programming"
+      ],
+      "published_at": "2026-07-25T20:09:08+00:00",
+      "sources": [
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/programming/comments/1v6ijz9/introducing_triton_directx_11_driver_for_qemu/"
         }
       ]
     }

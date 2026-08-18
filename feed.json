@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:02:51+00:00",
+  "generated_at": "2026-08-18T19:45:06+00:00",
   "items": [
     {
       "id": "HN-49345263",
@@ -15,57 +15,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 563,
-          "comments": 397,
+          "score": 609,
+          "comments": 415,
           "thread_url": "https://news.ycombinator.com/item?id=49345263"
-        }
-      ]
-    },
-    {
-      "id": "a3085a00f5bd8f48",
-      "title": "Google buys crashed airline Spirit’s data at auction, because AI",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "domain": "theregister.com",
-      "category": "AI / ML",
-      "summary": "$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP",
-      "tags": [
-        "Artificial Intelligence",
-        "Tech Industry",
-        "ai and ml",
-        "google",
-        "story"
-      ],
-      "published_at": "2026-08-18T06:43:06+00:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 510,
-          "comments": 354,
-          "thread_url": "https://news.ycombinator.com/item?id=49343559"
-        },
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
-        },
-        {
-          "name": "Slashdot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-        },
-        {
-          "name": "Tom's Hardware",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-buys-spirit-airlines-data-for-ai-training-for-just-usd10-million-purchase-includes-hundreds-of-millions-of-emails-microsoft-teams-chats-billions-of-flight-pricing-records-and-anonymized-passenger-records"
-        },
-        {
-          "name": "TechSpot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techspot.com/news/113526-google-pays-10-million-100-million-spirit-airlines.html"
         }
       ]
     },
@@ -83,35 +35,42 @@
       "sources": [
         {
           "name": "HN",
-          "score": 509,
-          "comments": 604,
+          "score": 537,
+          "comments": 634,
           "thread_url": "https://news.ycombinator.com/item?id=49332981"
         }
       ]
     },
     {
-      "id": "c6748d37e0f92e32",
-      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "id": "193a878b45687693",
+      "title": "Linux Improves VRAM Management in 7.3 Kernel 🥳",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
       "domain": "pixelcluster.dev",
       "category": "Systems",
-      "summary": "As part of the VFS pull requests now merged to the Linux 7.3 development kernel was an improvement to the IOmap framework used by various file-systems for mapping logical file byte offsets in memory to their physical locations on storage…",
+      "summary": "Merged earlier this year for Linux 7.1 was extended attributes on sockets support as a feature sought after by the likes of GNOME and systemd for helping with Varlink IPC usage and other purposes. A limitation though of the functionality…",
       "tags": [
+        "LocalLLaMA",
         "story"
       ],
       "published_at": "2026-08-18T07:51:50Z",
       "sources": [
         {
           "name": "HN",
-          "score": 442,
-          "comments": 199,
+          "score": 452,
+          "comments": 206,
           "thread_url": "https://news.ycombinator.com/item?id=49342719"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel/"
         },
         {
           "name": "Phoronix",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.phoronix.com/news/IOmap-Linux-7.3-Faster"
+          "thread_url": "https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr"
         }
       ]
     },
@@ -130,15 +89,43 @@
       "sources": [
         {
           "name": "HN",
-          "score": 303,
+          "score": 317,
           "comments": 52,
           "thread_url": "https://news.ycombinator.com/item?id=49344825"
         },
         {
           "name": "lobste.rs",
-          "score": 27,
+          "score": 28,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"
+        }
+      ]
+    },
+    {
+      "id": "ca7b752709ca520b",
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "domain": "cursor.com",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "ask",
+        "programming",
+        "story"
+      ],
+      "published_at": "2026-08-17T09:03:05.555-05:00",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 300,
+          "comments": 238,
+          "thread_url": "https://news.ycombinator.com/item?id=49334209"
+        },
+        {
+          "name": "lobste.rs",
+          "score": 79,
+          "comments": 83,
+          "thread_url": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github"
         }
       ]
     },
@@ -161,8 +148,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 291,
-          "comments": 144,
+          "score": 300,
+          "comments": 152,
           "thread_url": "https://news.ycombinator.com/item?id=49344811"
         },
         {
@@ -170,34 +157,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/"
-        }
-      ]
-    },
-    {
-      "id": "ca7b752709ca520b",
-      "title": "Cursor launches Origin, GitHub alternative",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "domain": "cursor.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "ask",
-        "programming",
-        "story"
-      ],
-      "published_at": "2026-08-17T09:03:05.555-05:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 270,
-          "comments": 215,
-          "thread_url": "https://news.ycombinator.com/item?id=49334209"
-        },
-        {
-          "name": "lobste.rs",
-          "score": 79,
-          "comments": 82,
-          "thread_url": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github"
         }
       ]
     },
@@ -216,13 +175,13 @@
       "sources": [
         {
           "name": "HN",
-          "score": 251,
-          "comments": 163,
+          "score": 270,
+          "comments": 178,
           "thread_url": "https://news.ycombinator.com/item?id=49345220"
         },
         {
           "name": "lobste.rs",
-          "score": 12,
+          "score": 14,
           "comments": 2,
           "thread_url": "https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework"
         },
@@ -235,49 +194,29 @@
       ]
     },
     {
-      "id": "HN-49334960",
-      "title": "Memory prices climb 500% in 12 months",
+      "id": "6fa6d7e8db380084",
+      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices - 128GB of DDR5 now $3,399",
       "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
       "domain": "tomshardware.com",
       "category": "Hardware",
       "summary": "",
       "tags": [
+        "LocalLLaMA",
         "story"
       ],
       "published_at": "2026-08-17T17:52:37Z",
       "sources": [
         {
           "name": "HN",
-          "score": 241,
-          "comments": 178,
+          "score": 259,
+          "comments": 196,
           "thread_url": "https://news.ycombinator.com/item?id=49334960"
-        }
-      ]
-    },
-    {
-      "id": "589eda68cf40d105",
-      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-      "domain": "privacyguides.org",
-      "category": "Systems",
-      "summary": "Bruce66423 shares a report from The Guardian: Sainsbury's has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop. \"I was embarrassed, mortified even…",
-      "tags": [
-        "privacy",
-        "story"
-      ],
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 217,
-          "comments": 141,
-          "thread_url": "https://news.ycombinator.com/item?id=49344654"
         },
         {
-          "name": "Slashdot",
+          "name": "r/dev",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+          "thread_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwsfl/memory_prices_climb_500_in_12_months_up_to_10x/"
         }
       ]
     },
@@ -307,8 +246,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 214,
-          "comments": 158,
+          "score": 223,
+          "comments": 178,
           "thread_url": "https://news.ycombinator.com/item?id=49348751"
         },
         {
@@ -320,38 +259,35 @@
       ]
     },
     {
-      "id": "3ff998d50ab7d97c",
-      "title": "Rethinking Database Programming",
-      "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "domain": "acadia.engineering",
-      "category": "Systems",
-      "summary": "",
+      "id": "e97da9e575c1da85",
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "domain": "asmedigitalcollection.asme.org",
+      "category": "Hardware",
+      "summary": "Citizens of the Cherokee Nation are concerned about the impact of data centers on water, energy, noise, and cultural resource protection.",
       "tags": [
-        "databases",
-        "elm",
-        "plt",
-        "programming",
+        "Pro",
         "story"
       ],
-      "published_at": "2026-08-18T07:28:27Z",
+      "published_at": "2026-08-18T14:25:07+00:00",
       "sources": [
         {
           "name": "HN",
-          "score": 204,
-          "comments": 103,
-          "thread_url": "https://news.ycombinator.com/item?id=49342530"
+          "score": 192,
+          "comments": 216,
+          "thread_url": "https://news.ycombinator.com/item?id=49349147"
         },
         {
-          "name": "lobste.rs",
-          "score": 55,
-          "comments": 26,
-          "thread_url": "https://lobste.rs/s/ykq7ym/rethinking_database_programming"
-        },
-        {
-          "name": "r/dev",
+          "name": "TechRadar",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1vrk1b8/what_if_sql_was_like_elm/"
+          "thread_url": "https://www.techradar.com/pro/cherokee-nation-joins-list-of-tribes-banning-data-centers-on-tribal-lands-due-to-water-energy-noise-and-cultural-resource-protection-concerns-and-all-new-projects-require-early-consultation"
+        },
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260818/p19#a260818p19"
         }
       ]
     },
@@ -369,8 +305,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 183,
-          "comments": 50,
+          "score": 187,
+          "comments": 55,
           "thread_url": "https://news.ycombinator.com/item?id=49272631"
         }
       ]
@@ -391,8 +327,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 175,
-          "comments": 37,
+          "score": 187,
+          "comments": 39,
           "thread_url": "https://news.ycombinator.com/item?id=49345843"
         },
         {
@@ -400,59 +336,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.sciencealert.com/job-with-highest-risk-of-radiation-cancer-revealed-out-of-over-500-occupations"
-        }
-      ]
-    },
-    {
-      "id": "HN-49332495",
-      "title": "Ask HN: GitHub employees what's going on? Why?",
-      "url": "https://news.ycombinator.com/item?id=49332495",
-      "domain": "news.ycombinator.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-17T15:19:31Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 158,
-          "comments": 119,
-          "thread_url": "https://news.ycombinator.com/item?id=49332495"
-        }
-      ]
-    },
-    {
-      "id": "e97da9e575c1da85",
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "domain": "asmedigitalcollection.asme.org",
-      "category": "Hardware",
-      "summary": "Citizens of the Cherokee Nation are concerned about the impact of data centers on water, energy, noise, and cultural resource protection.",
-      "tags": [
-        "Pro",
-        "story"
-      ],
-      "published_at": "2026-08-18T14:25:07+00:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 144,
-          "comments": 153,
-          "thread_url": "https://news.ycombinator.com/item?id=49349147"
-        },
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/cherokee-nation-joins-list-of-tribes-banning-data-centers-on-tribal-lands-due-to-water-energy-noise-and-cultural-resource-protection-concerns-and-all-new-projects-require-early-consultation"
-        },
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260818/p19#a260818p19"
         }
       ]
     },
@@ -470,7 +353,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 112,
+          "score": 118,
           "comments": 17,
           "thread_url": "https://news.ycombinator.com/item?id=49345476"
         }
@@ -490,29 +373,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 89,
-          "comments": 114,
+          "score": 98,
+          "comments": 128,
           "thread_url": "https://news.ycombinator.com/item?id=49340710"
-        }
-      ]
-    },
-    {
-      "id": "HN-49310602",
-      "title": "Splitting a Git Commit",
-      "url": "https://blog.gnoack.org/post/git-history-split",
-      "domain": "blog.gnoack.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-15T13:56:31Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 83,
-          "comments": 38,
-          "thread_url": "https://news.ycombinator.com/item?id=49310602"
         }
       ]
     },
@@ -530,29 +393,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 48,
-          "comments": 20,
+          "score": 93,
+          "comments": 65,
           "thread_url": "https://news.ycombinator.com/item?id=49349984"
         }
       ]
     },
     {
-      "id": "HN-49348356",
-      "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-      "domain": "bloomberg.com",
-      "category": "Systems",
+      "id": "HN-49310602",
+      "title": "Splitting a Git Commit",
+      "url": "https://blog.gnoack.org/post/git-history-split",
+      "domain": "blog.gnoack.org",
+      "category": "Dev Tools",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-08-18T16:40:07Z",
+      "published_at": "2026-08-15T13:56:31Z",
       "sources": [
         {
           "name": "HN",
-          "score": 45,
-          "comments": 15,
-          "thread_url": "https://news.ycombinator.com/item?id=49348356"
+          "score": 87,
+          "comments": 44,
+          "thread_url": "https://news.ycombinator.com/item?id=49310602"
         }
       ]
     },
@@ -570,29 +433,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 40,
-          "comments": 6,
+          "score": 82,
+          "comments": 10,
           "thread_url": "https://news.ycombinator.com/item?id=49349898"
         }
       ]
     },
     {
-      "id": "HN-49346538",
-      "title": "Code-native generation of highly programmable 3D assets (2026)",
-      "url": "https://arxiv.org/abs/2607.22738",
-      "domain": "arxiv.org",
+      "id": "HN-49350955",
+      "title": "US announces new sanctions on top ICC figures",
+      "url": "https://www.bbc.com/news/articles/cnvnl0elz47o",
+      "domain": "bbc.com",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-08-18T14:54:44Z",
+      "published_at": "2026-08-18T19:06:16Z",
       "sources": [
         {
           "name": "HN",
-          "score": 36,
-          "comments": 34,
-          "thread_url": "https://news.ycombinator.com/item?id=49346538"
+          "score": 53,
+          "comments": 19,
+          "thread_url": "https://news.ycombinator.com/item?id=49350955"
         }
       ]
     },
@@ -617,8 +480,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 33,
-          "comments": 14,
+          "score": 38,
+          "comments": 19,
           "thread_url": "https://news.ycombinator.com/item?id=49297150"
         },
         {
@@ -643,29 +506,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 26,
-          "comments": 24,
+          "score": 31,
+          "comments": 29,
           "thread_url": "https://news.ycombinator.com/item?id=49348136"
-        }
-      ]
-    },
-    {
-      "id": "HN-49348152",
-      "title": "Superpowers, Not Superintelligence",
-      "url": "https://bond.now/news/superpowers-not-superintelligence",
-      "domain": "bond.now",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-18T16:27:41Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 24,
-          "comments": 26,
-          "thread_url": "https://news.ycombinator.com/item?id=49348152"
         }
       ]
     },
@@ -683,29 +526,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 24,
-          "comments": 9,
+          "score": 27,
+          "comments": 11,
           "thread_url": "https://news.ycombinator.com/item?id=49347178"
         }
       ]
     },
     {
-      "id": "HN-49348912",
-      "title": "And then the men with guns tell you to do it anyway",
-      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-      "domain": "shkspr.mobi",
+      "id": "HN-49348152",
+      "title": "Superpowers, Not Superintelligence",
+      "url": "https://bond.now/news/superpowers-not-superintelligence",
+      "domain": "bond.now",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-08-18T17:11:28Z",
+      "published_at": "2026-08-18T16:27:41Z",
       "sources": [
         {
           "name": "HN",
-          "score": 22,
-          "comments": 0,
-          "thread_url": "https://news.ycombinator.com/item?id=49348912"
+          "score": 26,
+          "comments": 37,
+          "thread_url": "https://news.ycombinator.com/item?id=49348152"
         }
       ]
     },
@@ -723,9 +566,69 @@
       "sources": [
         {
           "name": "HN",
-          "score": 14,
-          "comments": 5,
+          "score": 21,
+          "comments": 7,
           "thread_url": "https://news.ycombinator.com/item?id=49309248"
+        }
+      ]
+    },
+    {
+      "id": "HN-49351330",
+      "title": "Norway Should Buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "domain": "onethousandmeans.com",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-18T19:30:29Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 15,
+          "comments": 9,
+          "thread_url": "https://news.ycombinator.com/item?id=49351330"
+        }
+      ]
+    },
+    {
+      "id": "HN-49349159",
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "url": "https://github.com/biw/keychain-store",
+      "domain": "github.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-18T17:25:19Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 11,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=49349159"
+        }
+      ]
+    },
+    {
+      "id": "HN-48351958",
+      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "url": "https://github.com/lateos-ai/npm-scan",
+      "domain": "github.com",
+      "category": "Security",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-06-01T02:19:07Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 9,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=48351958"
         }
       ]
     },
@@ -744,9 +647,65 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 30,
-          "comments": 10,
+          "score": 34,
+          "comments": 11,
           "thread_url": "https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode"
+        }
+      ]
+    },
+    {
+      "id": "3ff998d50ab7d97c",
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "domain": "acadia.engineering",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "databases",
+        "elm",
+        "plt",
+        "programming"
+      ],
+      "published_at": "2026-08-18T03:34:54.508-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 56,
+          "comments": 27,
+          "thread_url": "https://lobste.rs/s/ykq7ym/rethinking_database_programming"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/programming/comments/1vrk1b8/what_if_sql_was_like_elm/"
+        }
+      ]
+    },
+    {
+      "id": "3ceae37b5ea15cb9",
+      "title": "Mojo is now open source",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "domain": "modular.com",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "ProgrammingLanguages",
+        "plt"
+      ],
+      "published_at": "2026-08-18T11:34:21.524-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 25,
+          "comments": 4,
+          "thread_url": "https://lobste.rs/s/01lxuf/mojo_is_now_open_source"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1vrvx8f/mojo_is_now_open_source/"
         }
       ]
     },
@@ -785,36 +744,9 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 16,
-          "comments": 40,
+          "score": 18,
+          "comments": 45,
           "thread_url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026"
-        }
-      ]
-    },
-    {
-      "id": "3ceae37b5ea15cb9",
-      "title": "Mojo is now open source",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "domain": "modular.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "ProgrammingLanguages",
-        "plt"
-      ],
-      "published_at": "2026-08-18T11:34:21.524-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 21,
-          "comments": 4,
-          "thread_url": "https://lobste.rs/s/01lxuf/mojo_is_now_open_source"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/ProgrammingLanguages/comments/1vrvx8f/mojo_is_now_open_source/"
         }
       ]
     },
@@ -832,7 +764,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 23,
+          "score": 27,
           "comments": 3,
           "thread_url": "https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox"
         },
@@ -859,7 +791,7 @@
         {
           "name": "lobste.rs",
           "score": 59,
-          "comments": 49,
+          "comments": 51,
           "thread_url": "https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"
         }
       ]
@@ -878,9 +810,29 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 18,
+          "score": 19,
           "comments": 5,
           "thread_url": "https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-3dqrwr",
+      "title": "Kakoune code editor",
+      "url": "https://kakoune.org/",
+      "domain": "kakoune.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "editors"
+      ],
+      "published_at": "2026-08-18T13:16:56.111-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 5,
+          "comments": 2,
+          "thread_url": "https://lobste.rs/s/3dqrwr/kakoune_code_editor"
         }
       ]
     },
@@ -920,14 +872,14 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 34,
+          "score": 35,
           "comments": 10,
           "thread_url": "https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read"
         }
       ]
     },
     {
-      "id": "a04103dc58a37489",
+      "id": "426d0cca59b5b140",
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
       "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
       "domain": "simonwillison.net",
@@ -937,7 +889,9 @@
         "404-media",
         "AI",
         "Amazon",
+        "Artificial Intelligence",
         "Books",
+        "Tech Industry",
         "ai",
         "ai-ethics",
         "amazon",
@@ -950,7 +904,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 42,
+          "score": 44,
           "comments": 26,
           "thread_url": "https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at"
         },
@@ -965,6 +919,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+        },
+        {
+          "name": "Tom's Hardware",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-buys-spirit-airlines-data-for-ai-training-for-just-usd10-million-purchase-includes-hundreds-of-millions-of-emails-microsoft-teams-chats-billions-of-flight-pricing-records-and-anonymized-passenger-records"
         }
       ]
     },
@@ -986,6 +946,27 @@
           "score": 19,
           "comments": 7,
           "thread_url": "https://lobste.rs/s/wlofzl/benchmarkpocalypse"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-hisxut",
+      "title": "Fairphone 6 + PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "domain": "catcrafts.net",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [
+        "hardware",
+        "mobile"
+      ],
+      "published_at": "2026-08-18T07:29:02.109-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 9,
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/hisxut/fairphone_6_postmarketos_working_main"
         }
       ]
     },
@@ -1024,30 +1005,9 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 14,
+          "score": 15,
           "comments": 8,
           "thread_url": "https://lobste.rs/s/tfjoxv/actual_budget"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-hisxut",
-      "title": "Fairphone 6 + PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "domain": "catcrafts.net",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [
-        "hardware",
-        "mobile"
-      ],
-      "published_at": "2026-08-18T07:29:02.109-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 8,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/hisxut/fairphone_6_postmarketos_working_main"
         }
       ]
     },
@@ -1065,9 +1025,53 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 59,
+          "score": 60,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/wya4zt/preview_duckdb_v2_0"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-loltt2",
+      "title": "Odin's New Inline Assembly Templates",
+      "url": "https://odin-lang.org/docs/inline-asm/",
+      "domain": "odin-lang.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "assembly",
+        "plt",
+        "programming"
+      ],
+      "published_at": "2026-08-18T14:20:45.217-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 1,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-agafnk",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/pdf/2608.13759",
+      "domain": "arxiv.org",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "compilers",
+        "pdf",
+        "rust"
+      ],
+      "published_at": "2026-08-18T07:16:41.027-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 4,
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/agafnk/gpu_offload_rust_portable_safe_fast"
         }
       ]
     },
@@ -1085,9 +1089,41 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 22,
+          "score": 23,
           "comments": 23,
           "thread_url": "https://lobste.rs/s/os20fa/vetted_ai_code_is_hard_justify"
+        }
+      ]
+    },
+    {
+      "id": "20f5d74930e61a69",
+      "title": "Experiment in reducing target directory size on nightly",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
+      "domain": "blog.rust-lang.org",
+      "category": "Dev Tools",
+      "summary": "Bloomberg : Sources: Anthropic's revolving credit facility is set to surpass its ~$10B target as banks compete for roles on the upcoming IPO; Anthropic could limit the size — Anthropic PBC's revolving credit facility is set to rise above…",
+      "tags": [
+        "rust"
+      ],
+      "published_at": "2026-08-18T14:27:17+00:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 2,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/omsqyf/experiment_reducing_target_directory"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/rust/comments/1vrqqyo/reducing_target_directory_size_on_nightly/"
+        },
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260818/p27#a260818p27"
         }
       ]
     },
@@ -1108,89 +1144,6 @@
           "score": 37,
           "comments": 11,
           "thread_url": "https://lobste.rs/s/gwc2me/when_down_arrow_is_not_upside_down_up_arrow"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-3dqrwr",
-      "title": "Kakoune code editor",
-      "url": "https://kakoune.org/",
-      "domain": "kakoune.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "editors"
-      ],
-      "published_at": "2026-08-18T13:16:56.111-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 2,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/3dqrwr/kakoune_code_editor"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-agafnk",
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/pdf/2608.13759",
-      "domain": "arxiv.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "compilers",
-        "pdf",
-        "rust"
-      ],
-      "published_at": "2026-08-18T07:16:41.027-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 3,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/agafnk/gpu_offload_rust_portable_safe_fast"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-jin8t5",
-      "title": "Selective Applicative Functors",
-      "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
-      "domain": "blog.veritates.love",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "haskell"
-      ],
-      "published_at": "2026-08-17T21:36:25.169-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 9,
-          "comments": 2,
-          "thread_url": "https://lobste.rs/s/jin8t5/selective_applicative_functors"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-khm6np",
-      "title": "Why I reimplemented LVM (with worse guarantees)",
-      "url": "https://depot.dev/blog/why-i-reimplemented-lvm",
-      "domain": "depot.dev",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "linux",
-        "performance"
-      ],
-      "published_at": "2026-08-18T09:08:36.322-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 3,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/khm6np/why_i_reimplemented_lvm_with_worse"
         }
       ]
     },
@@ -1219,11 +1172,11 @@
       ]
     },
     {
-      "id": "4bef9cd6da3ee31e",
-      "title": "Fairphone brings its $649 repairable Gen 6+ smartphone to the US",
-      "url": "https://www.techspot.com/news/113531-fairphone-brings-649-repairable-gen-6-smartphone-us.html",
-      "domain": "techspot.com",
-      "category": "Hardware",
+      "id": "fc155b4fb3d2f97c",
+      "title": "You Can Finally Buy a Fairphone In the US",
+      "url": "https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "domain": "mobile.slashdot.org",
+      "category": "Systems",
       "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
       "tags": [
         "Android",
@@ -1233,6 +1186,7 @@
         "New Phone, Who Dis?",
         "Tech",
         "android",
+        "cellphones",
         "fairphone",
         "phones",
         "repairability",
@@ -1256,10 +1210,10 @@
           "thread_url": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/"
         },
         {
-          "name": "TechSpot",
+          "name": "Slashdot",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.techspot.com/news/113531-fairphone-brings-649-repairable-gen-6-smartphone-us.html"
+          "thread_url": "https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed"
         }
       ]
     },
@@ -1523,6 +1477,48 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/"
+        }
+      ]
+    },
+    {
+      "id": "df4e7347dbb9bbec",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "domain": "techcrunch.com",
+      "category": "AI / ML",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques…",
+      "tags": [
+        "AI",
+        "News",
+        "OpenAI",
+        "Security",
+        "Tech"
+      ],
+      "published_at": "2026-08-17T19:22:56+00:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
+        },
+        {
+          "name": "TechCrunch",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+        },
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260818/p29#a260818p29"
+        },
+        {
+          "name": "Dark Reading",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b"
         }
       ]
     },
@@ -1815,63 +1811,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/"
-        }
-      ]
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/?p=981283",
-      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "domain": "theverge.com",
-      "category": "AI / ML",
-      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show…",
-      "tags": [
-        "AI",
-        "News",
-        "Tech",
-        "Web"
-      ],
-      "published_at": "2026-08-18T13:00:00+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
-        }
-      ]
-    },
-    {
-      "id": "0799112439e77f20",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "domain": "techcrunch.com",
-      "category": "AI / ML",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Security"
-      ],
-      "published_at": "2026-08-17T19:22:56+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-        },
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260818/p29#a260818p29"
-        },
-        {
-          "name": "Dark Reading",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b"
         }
       ]
     },
@@ -2411,7 +2350,47 @@
       ]
     },
     {
-      "id": "a2a0fca73b8a8fde",
+      "id": "Engadget-https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
+      "title": "Spotify's Running Mode is now available on Android",
+      "url": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
+      "domain": "engadget.com",
+      "category": "Systems",
+      "summary": "Spotify's Running Mode is now available on Android.",
+      "tags": [
+        "Streaming"
+      ],
+      "published_at": "2026-08-18T19:36:58+00:00",
+      "sources": [
+        {
+          "name": "Engadget",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/"
+        }
+      ]
+    },
+    {
+      "id": "Engadget-https://www.engadget.com/2239483/apple-has-new-in-app-transaction-commission-rates-for-eu-devs/",
+      "title": "Apple has new in-app transaction commission rates for EU devs",
+      "url": "https://www.engadget.com/2239483/apple-has-new-in-app-transaction-commission-rates-for-eu-devs/",
+      "domain": "engadget.com",
+      "category": "Systems",
+      "summary": "Apple has new in-app transaction commission rates for EU devs.",
+      "tags": [
+        "Apple"
+      ],
+      "published_at": "2026-08-18T19:33:35+00:00",
+      "sources": [
+        {
+          "name": "Engadget",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.engadget.com/2239483/apple-has-new-in-app-transaction-commission-rates-for-eu-devs/"
+        }
+      ]
+    },
+    {
+      "id": "6b9cbbc79b3c68cf",
       "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
       "url": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
       "domain": "404media.co",
@@ -2421,6 +2400,7 @@
         "Climate change",
         "News",
         "Planet Earth",
+        "Political science",
         "Social Media"
       ],
       "published_at": "2026-08-18T13:27:22+00:00",
@@ -2436,6 +2416,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/"
+        },
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-canadians-canada-electoral.html"
         },
         {
           "name": "Live Science",
@@ -2569,46 +2555,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.engadget.com/2238783/passkey-vs-password-differences-which-better/"
-        }
-      ]
-    },
-    {
-      "id": "Engadget-https://www.engadget.com/2235635/mirrorless-vs-dslr-camera-differences-explained/",
-      "title": "Mirrorless vs DSLR: Which camera type is better?",
-      "url": "https://www.engadget.com/2235635/mirrorless-vs-dslr-camera-differences-explained/",
-      "domain": "engadget.com",
-      "category": "Systems",
-      "summary": "The industry seems to be moving on from DSLR technology, but is it time to ditch your DSLR camera yet?",
-      "tags": [
-        "Photography"
-      ],
-      "published_at": "2026-08-18T15:30:00+00:00",
-      "sources": [
-        {
-          "name": "Engadget",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.engadget.com/2235635/mirrorless-vs-dslr-camera-differences-explained/"
-        }
-      ]
-    },
-    {
-      "id": "Engadget-https://www.engadget.com/2239070/vine-reboot-divine-is-now-open-to-everyone-no-invite-code-required/",
-      "title": "Vine reboot Divine is now open to everyone, no invite code required",
-      "url": "https://www.engadget.com/2239070/vine-reboot-divine-is-now-open-to-everyone-no-invite-code-required/",
-      "domain": "engadget.com",
-      "category": "Systems",
-      "summary": "Divine now has more than 2 million videos from Vine's original archive.",
-      "tags": [
-        "Social Media"
-      ],
-      "published_at": "2026-08-18T15:00:00+00:00",
-      "sources": [
-        {
-          "name": "Engadget",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.engadget.com/2239070/vine-reboot-divine-is-now-open-to-everyone-no-invite-code-required/"
         }
       ]
     },
@@ -2874,6 +2820,39 @@
       ]
     },
     {
+      "id": "1d64f14028efa2dd",
+      "title": "Google Buys All of Spirit Airlines' Data to Feed Its AI Models",
+      "url": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "domain": "tech.slashdot.org",
+      "category": "AI / ML",
+      "summary": "$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP",
+      "tags": [
+        "ai and ml",
+        "google"
+      ],
+      "published_at": "2026-08-18T06:43:06+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
+        },
+        {
+          "name": "Slashdot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+        },
+        {
+          "name": "TechSpot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techspot.com/news/113526-google-pays-10-million-100-million-spirit-airlines.html"
+        }
+      ]
+    },
+    {
       "id": "ZDNet-25f2fa90-e88f-485f-9141-7e6e905740d9",
       "title": "Add photos to your iMessages with one tap - how to skip that annoying iOS menu",
       "url": "https://www.zdnet.com/article/skip-the-annoying-menu-and-add-photos-to-your-imessages-with-one-tap/",
@@ -3069,6 +3048,48 @@
       ]
     },
     {
+      "id": "TechRadar-X4cFNuxxr7EhjsQ2QiqYeW",
+      "title": "North Face everyday backpacks are up to 33% off at Amazon — just in time for back to school season",
+      "url": "https://www.techradar.com/computing/peripherals-accessories/north-face-everyday-backpacks-are-up-to-33-percent-off-at-amazon-just-in-time-for-back-to-school-season",
+      "domain": "techradar.com",
+      "category": "Systems",
+      "summary": "With laptop sleeves, pockets for all your possessions, and a chiropractor stamp of approval, these might be the ultimate everyday backpacks.",
+      "tags": [
+        "Computing",
+        "Peripherals &amp; Accessories"
+      ],
+      "published_at": "2026-08-18T19:30:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/computing/peripherals-accessories/north-face-everyday-backpacks-are-up-to-33-percent-off-at-amazon-just-in-time-for-back-to-school-season"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-kvHT4cF7FrtXwgMrPbL5bj",
+      "title": "'This technology turns every router into a potential means for surveillance': Report claims Wi-Fi devices could 'quietly identify' people with nearly 100% accuracy",
+      "url": "https://www.techradar.com/pro/this-technology-turns-every-router-into-a-potential-means-for-surveillance-report-claims-wi-fi-devices-could-quietly-identify-people-with-nearly-100-accuracy",
+      "domain": "techradar.com",
+      "category": "Security",
+      "summary": "Researchers say ordinary Wi-Fi networks identified 197 people with nearly 100% accuracy, raising concerns about invisible surveillance and privacy.",
+      "tags": [
+        "Pro",
+        "Security"
+      ],
+      "published_at": "2026-08-18T19:15:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/pro/this-technology-turns-every-router-into-a-potential-means-for-surveillance-report-claims-wi-fi-devices-could-quietly-identify-people-with-nearly-100-accuracy"
+        }
+      ]
+    },
+    {
       "id": "TechRadar-NbNkREqfLcYkgozHnZE3LP",
       "title": "The iPad Air M4 hits its biggest discount yet since Apple's recent price hikes — save $100 at Amazon",
       "url": "https://www.techradar.com/tablets/ipad-air/the-ipad-air-m4-hits-its-biggest-discount-yet-since-apples-recent-price-hikes-save-usd100-at-amazon",
@@ -3213,61 +3234,6 @@
       ]
     },
     {
-      "id": "d74dddd6574e595f",
-      "title": "Building operational resilience with agentic AI in financial services",
-      "url": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
-      "domain": "cloud.google.com",
-      "category": "AI / ML",
-      "summary": "Hostinger launches new tool driven by a shift in how customers are using its platform.",
-      "tags": [
-        "AI & Machine Learning",
-        "Customers",
-        "Financial Services",
-        "Pro",
-        "Website Building",
-        "Website Hosting"
-      ],
-      "published_at": "2026-08-18T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/its-not-about-who-can-generate-a-homepage-in-30-seconds-hostinger-launches-a-new-agentic-ai-builder-helping-businesses-do-more-with-ai"
-        },
-        {
-          "name": "Google Cloud",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-AhLptuzu7RCo7xSnaxqfyg",
-      "title": "Geekom reveals multiple mini-PCs may be infected with malware hidden in a network driver — but it's now down to you to fix your PC",
-      "url": "https://www.techradar.com/pro/security/geekom-reveals-multiple-mini-pcs-may-be-infected-with-malware-hidden-in-a-network-driver-but-its-now-down-to-you-to-fix-your-pc",
-      "domain": "techradar.com",
-      "category": "Security",
-      "summary": "A malicious executable hidden within a LAN driver can track keystrokes, intercept data, and swipe passwords from Geekom mini-PCs.",
-      "tags": [
-        "Computing",
-        "Computing Security",
-        "Cyber Security",
-        "Pro",
-        "Security"
-      ],
-      "published_at": "2026-08-18T15:05:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/security/geekom-reveals-multiple-mini-pcs-may-be-infected-with-malware-hidden-in-a-network-driver-but-its-now-down-to-you-to-fix-your-pc"
-        }
-      ]
-    },
-    {
       "id": "Slashdot-https://tech.slashdot.org/story/26/08/18/0827253/microsoft-mvp-creates-site-to-remind-you-of-all-the-brands-redmond-replaced?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Microsoft MVP Creates Site to Remind You of All the Brands Redmond Replaced",
       "url": "https://tech.slashdot.org/story/26/08/18/0827253/microsoft-mvp-creates-site-to-remind-you-of-all-the-brands-redmond-replaced?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -3304,6 +3270,26 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://news.slashdot.org/story/26/08/18/0812245/india-paves-the-way-for-charging-merchants-a-fee-on-upi-transactions?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+        }
+      ]
+    },
+    {
+      "id": "Slashdot-https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Sainsbury's Store Pauses Facial Recognition After False Shoplifting Claim",
+      "url": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "domain": "yro.slashdot.org",
+      "category": "Systems",
+      "summary": "Bruce66423 shares a report from The Guardian: Sainsbury's has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop. \"I was embarrassed, mortified even…",
+      "tags": [
+        "privacy"
+      ],
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "sources": [
+        {
+          "name": "Slashdot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed"
         }
       ]
     },
@@ -3434,32 +3420,6 @@
       ]
     },
     {
-      "id": "d70d0947136be1f1",
-      "title": "US Grid Operator PJM Proposes Forcing Data Center Off Grid During Emergencies",
-      "url": "https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "domain": "hardware.slashdot.org",
-      "category": "Hardware",
-      "summary": "An anonymous reader quotes a report from Reuters: PJM Interconnection, the biggest U.S. grid operator, proposed on Thursday a new framework that would force data centers to use back-up generators when electricity supply on the grid…",
-      "tags": [
-        "power"
-      ],
-      "published_at": "2026-08-17T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "Slashdot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-        },
-        {
-          "name": "TechSpot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techspot.com/news/113517-ai-data-center-boom-pushes-caterpillar-ford-other.html"
-        }
-      ]
-    },
-    {
       "id": "VentureBeat-5mgycwoh1PrX2Pk5cUXtRx",
       "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
       "url": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
@@ -3540,16 +3500,17 @@
       ]
     },
     {
-      "id": "8498f5b41ba3fc79",
-      "title": "Deploy Cursor Origin repositories with Vercel in public beta",
-      "url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
-      "domain": "vercel.com",
-      "category": "Web",
+      "id": "707070a2eb11bc01",
+      "title": "Nothing like a Monday morning GitHub outage",
+      "url": "https://www.githubstatus.com/",
+      "domain": "githubstatus.com",
+      "category": "Dev Tools",
       "summary": "Cursor began rolling out Origin , its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty-two-minute global degradation — error…",
       "tags": [
-        "Infrastructure"
+        "Infrastructure",
+        "programming"
       ],
-      "published_at": "2026-08-17T00:00:00+00:00",
+      "published_at": "2026-08-17T14:53:18+00:00",
       "sources": [
         {
           "name": "VentureBeat",
@@ -3558,10 +3519,10 @@
           "thread_url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race"
         },
         {
-          "name": "Vercel",
+          "name": "r/dev",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta"
+          "thread_url": "https://www.reddit.com/r/programming/comments/1vqukkf/nothing_like_a_monday_morning_github_outage/"
         }
       ]
     },
@@ -4310,32 +4271,6 @@
       ]
     },
     {
-      "id": "36b12fbc2d38d3ef",
-      "title": "Reducing target directory size on nightly",
-      "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
-      "domain": "blog.rust-lang.org",
-      "category": "Dev Tools",
-      "summary": "Bloomberg : Sources: Anthropic's revolving credit facility is set to surpass its ~$10B target as banks compete for roles on the upcoming IPO; Anthropic could limit the size — Anthropic PBC's revolving credit facility is set to rise above…",
-      "tags": [
-        "rust"
-      ],
-      "published_at": "2026-08-18T14:27:17+00:00",
-      "sources": [
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260818/p27#a260818p27"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1vrqqyo/reducing_target_directory_size_on_nightly/"
-        }
-      ]
-    },
-    {
       "id": "Techmeme-https://www.techmeme.com/260818/p26#a260818p26",
       "title": "The EU says it \"welcomes Apple's changes\"; Apple will reduce its fees in the EU, charging 26% for apps with IAP, 20% for alt payments, and 15% for link-outs (Bloomberg)",
       "url": "https://www.techmeme.com/260818/p26#a260818p26",
@@ -4355,11 +4290,11 @@
     },
     {
       "id": "Techmeme-https://www.techmeme.com/260818/p24#a260818p24",
-      "title": "Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (Melia Robinson/Business Insider)",
+      "title": "Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using its own version of Kimi K3 (Melia Robinson/Business Insider)",
       "url": "https://www.techmeme.com/260818/p24#a260818p24",
       "domain": "techmeme.com",
       "category": "AI / ML",
-      "summary": "Melia Robinson / Business Insider : Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 — Harvey built an $11 billion legal-software…",
+      "summary": "Melia Robinson / Business Insider : Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using its own version of Kimi K3 — Harvey built an $11 billion legal-software…",
       "tags": [],
       "published_at": "2026-08-18T16:05:00+00:00",
       "sources": [
@@ -4391,11 +4326,11 @@
     },
     {
       "id": "Techmeme-https://www.techmeme.com/260818/p21#a260818p21",
-      "title": "Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in 2025 (Mike Wheatley/SiliconANGLE)",
+      "title": "Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in January 2025 (Mike Wheatley/SiliconANGLE)",
       "url": "https://www.techmeme.com/260818/p21#a260818p21",
       "domain": "techmeme.com",
       "category": "AI / ML",
-      "summary": "Mike Wheatley / SiliconANGLE : Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in 2025 — Artificial intelligence startup Palona AI, which is…",
+      "summary": "Mike Wheatley / SiliconANGLE : Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in January 2025 — Artificial intelligence startup Palona AI, which is…",
       "tags": [],
       "published_at": "2026-08-18T15:05:01+00:00",
       "sources": [
@@ -4594,6 +4529,31 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA"
+        }
+      ]
+    },
+    {
+      "id": "NiemanLab-https://www.niemanlab.org/?p=252566",
+      "title": "Facing a “deluge” from AI, this publication will only take pitches by phone",
+      "url": "https://www.niemanlab.org/2026/08/facing-a-deluge-from-ai-this-publication-will-only-take-pitches-by-phone/",
+      "domain": "niemanlab.org",
+      "category": "AI / ML",
+      "summary": "Whether you’re a reporter or an editor, your inbox has probably seen an influx of pitches, increasingly written with artificial intelligence. They’re likely bad, irrelevant, and annoyingly clogging up your email. But one publication is…",
+      "tags": [
+        "Featured Art",
+        "Link post",
+        "freelancer",
+        "pitch",
+        "pitching",
+        "the Food Section"
+      ],
+      "published_at": "2026-08-18T19:16:29+00:00",
+      "sources": [
+        {
+          "name": "NiemanLab",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.niemanlab.org/2026/08/facing-a-deluge-from-ai-this-publication-will-only-take-pitches-by-phone/"
         }
       ]
     },
@@ -4924,34 +4884,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/"
-        }
-      ]
-    },
-    {
-      "id": "NiemanLab-https://www.niemanlab.org/?p=252323",
-      "title": "Grokipedia, Elon Musk’s anti-woke AI Wikipedia, seems to have stopped updating in April",
-      "url": "https://www.niemanlab.org/2026/08/grokipedia-elon-musks-anti-woke-ai-wikipedia-seems-to-have-stopped-updating-in-april/",
-      "domain": "niemanlab.org",
-      "category": "AI / ML",
-      "summary": "Elon Musk launched Grokipedia last October as an anti-woke, AI-powered Wikipedia. It is, Renée DiResta wrote for The Atlantic at the time, part of “an escalating campaign to discredit Wikipedia and reshape what counts as a reliable source…",
-      "tags": [
-        "AI",
-        "C.J. Robinson",
-        "Elon Musk",
-        "Grokipedia",
-        "Link post",
-        "Renee DiResta",
-        "Ronald Robertson",
-        "Tow Center",
-        "Wikipedia"
-      ],
-      "published_at": "2026-08-06T16:01:24+00:00",
-      "sources": [
-        {
-          "name": "NiemanLab",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.niemanlab.org/2026/08/grokipedia-elon-musks-anti-woke-ai-wikipedia-seems-to-have-stopped-updating-in-april/"
         }
       ]
     },
@@ -5463,6 +5395,24 @@
       ]
     },
     {
+      "id": "Phoronix-https://www.phoronix.com/news/IOmap-Linux-7.3-Faster",
+      "title": "IOmap Improvement For Linux 7.3 Takes EXT4 & XFS Performance Further",
+      "url": "https://www.phoronix.com/news/IOmap-Linux-7.3-Faster",
+      "domain": "phoronix.com",
+      "category": "Systems",
+      "summary": "As part of the VFS pull requests now merged to the Linux 7.3 development kernel was an improvement to the IOmap framework used by various file-systems for mapping logical file byte offsets in memory to their physical locations on storage…",
+      "tags": [],
+      "published_at": "2026-08-18T17:25:00+00:00",
+      "sources": [
+        {
+          "name": "Phoronix",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.phoronix.com/news/IOmap-Linux-7.3-Faster"
+        }
+      ]
+    },
+    {
       "id": "Phoronix-https://www.phoronix.com/review/cachyos-hp-z4g6i",
       "title": "The CachyOS Performance vs. Other Linux Operating Systems On A $46k USD Workstation",
       "url": "https://www.phoronix.com/review/cachyos-hp-z4g6i",
@@ -5630,24 +5580,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.phoronix.com/news/Linux-7.3-Improving-vRAM-Mgmt"
-        }
-      ]
-    },
-    {
-      "id": "Phoronix-https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode",
-      "title": "FFmpeg Lands H.265 Vulkan Encode Performance Optimizations",
-      "url": "https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode",
-      "domain": "phoronix.com",
-      "category": "Systems",
-      "summary": "The FFmpeg multimedia library can now enjoy faster H.265/HEVC video encoding with the Vulkan-powered encode path. With the optimizations merged today, the H.265 encode performance should be roughly at parity to the H.264 encode speed...",
-      "tags": [],
-      "published_at": "2026-08-17T20:14:03+00:00",
-      "sources": [
-        {
-          "name": "Phoronix",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode"
         }
       ]
     },
@@ -6533,7 +6465,7 @@
     },
     {
       "id": "InfoQ-https://www.infoq.com/news/2026/08/dotnet-11-preview7-maui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "title": ".NET 11 Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI",
+      "title": ".NET 11 MAUI Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI",
       "url": "https://www.infoq.com/news/2026/08/dotnet-11-preview7-maui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "domain": "infoq.com",
       "category": "Dev Tools",
@@ -9378,14 +9310,17 @@
       ]
     },
     {
-      "id": "Google Cloud-https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
-      "title": "Governance on autopilot, minus the turbulence",
-      "url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "id": "Google Cloud-https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
+      "url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
       "domain": "cloud.google.com",
-      "category": "Systems",
-      "summary": "Every data team knows the moment. Someone opens a table, sees a column called cust_seg_flg , and has to go ask around to find out what it means, whether it's safe to use, and whether anyone has already answered that question in another…",
+      "category": "AI / ML",
+      "summary": "Enterprise content management is experiencing its biggest architectural shift since the cloud migration era. For years, enterprises have stored trillions of gigabytes of critical data in Box: financial models, clinical trial protocols, M&A…",
       "tags": [
-        "Data Analytics"
+        "AI & Machine Learning",
+        "Customers",
+        "Data Analytics",
+        "Partners"
       ],
       "published_at": "2026-08-18T16:00:00+00:00",
       "sources": [
@@ -9393,7 +9328,7 @@
           "name": "Google Cloud",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/"
+          "thread_url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/"
         }
       ]
     },
@@ -9420,17 +9355,14 @@
       ]
     },
     {
-      "id": "Google Cloud-https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
-      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
-      "url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "id": "Google Cloud-https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "title": "Governance on autopilot, minus the turbulence",
+      "url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
       "domain": "cloud.google.com",
-      "category": "AI / ML",
-      "summary": "Enterprise content management is experiencing its biggest architectural shift since the cloud migration era. For years, enterprises have stored trillions of gigabytes of critical data in Box: financial models, clinical trial protocols, M&A…",
+      "category": "Systems",
+      "summary": "Every data team knows the moment. Someone opens a table, sees a column called cust_seg_flg , and has to go ask around to find out what it means, whether it's safe to use, and whether anyone has already answered that question in another…",
       "tags": [
-        "AI & Machine Learning",
-        "Customers",
-        "Data Analytics",
-        "Partners"
+        "Data Analytics"
       ],
       "published_at": "2026-08-18T16:00:00+00:00",
       "sources": [
@@ -9438,7 +9370,29 @@
           "name": "Google Cloud",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/"
+          "thread_url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/"
+        }
+      ]
+    },
+    {
+      "id": "Google Cloud-https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
+      "title": "Building operational resilience with agentic AI in financial services",
+      "url": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
+      "domain": "cloud.google.com",
+      "category": "AI / ML",
+      "summary": "For financial institutions, operational resilience has long been embedded in regulatory and supervisory expectations — to say nothing of the high expectations of consumers. With the implementation of the European Union’s Digital…",
+      "tags": [
+        "AI & Machine Learning",
+        "Customers",
+        "Financial Services"
+      ],
+      "published_at": "2026-08-18T14:00:00+00:00",
+      "sources": [
+        {
+          "name": "Google Cloud",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/"
         }
       ]
     },
@@ -9527,26 +9481,6 @@
       ]
     },
     {
-      "id": "Google Cloud-https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "domain": "cloud.google.com",
-      "category": "Systems",
-      "summary": "Imagine this scenario: Your team decides to migrate a core application from an existing commercial database like Oracle or SQL Server to open source PostgreSQL or a fully managed service such as AlloyDB for PostgreSQL . The initial phase…",
-      "tags": [
-        "Databases"
-      ],
-      "published_at": "2026-08-11T16:00:00+00:00",
-      "sources": [
-        {
-          "name": "Google Cloud",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/"
-        }
-      ]
-    },
-    {
       "id": "Google Cloud-https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
       "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
       "url": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
@@ -9565,6 +9499,26 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/"
+        }
+      ]
+    },
+    {
+      "id": "Google Cloud-https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+      "domain": "cloud.google.com",
+      "category": "Systems",
+      "summary": "Imagine this scenario: Your team decides to migrate a core application from an existing commercial database like Oracle or SQL Server to open source PostgreSQL or a fully managed service such as AlloyDB for PostgreSQL . The initial phase…",
+      "tags": [
+        "Databases"
+      ],
+      "published_at": "2026-08-11T16:00:00+00:00",
+      "sources": [
+        {
+          "name": "Google Cloud",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/"
         }
       ]
     },
@@ -10303,6 +10257,24 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://vercel.com/changelog/chat-sdk-adds-instagram-adapter"
+        }
+      ]
+    },
+    {
+      "id": "Vercel-https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
+      "title": "Vercel for Platforms can now deploy from your users' GitHub repositories",
+      "url": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
+      "domain": "vercel.com",
+      "category": "Web",
+      "summary": "Teams building on Vercel for Platforms can now create deployments directly from their users' GitHub repositories, without requiring them to install the Vercel GitHub App. When creating a deployment , pass a gitAccessToken alongside…",
+      "tags": [],
+      "published_at": "2026-08-18T17:00:00+00:00",
+      "sources": [
+        {
+          "name": "Vercel",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories"
         }
       ]
     },
@@ -12987,6 +12959,24 @@
       ]
     },
     {
+      "id": "TechSpot-https://www.techspot.com/news/113517-ai-data-center-boom-pushes-caterpillar-ford-other.html",
+      "title": "AI data center boom pushes Caterpillar, Ford, and other US firms into new businesses",
+      "url": "https://www.techspot.com/news/113517-ai-data-center-boom-pushes-caterpillar-ford-other.html",
+      "domain": "techspot.com",
+      "category": "Hardware",
+      "summary": "Caterpillar is the world's largest construction equipment manufacturer, ahead of rivals Komatsu, Volvo CE, Hitachi, and JCB. However, its engine and turbine sales surpassed its construction equipment revenue for the first time last year…",
+      "tags": [],
+      "published_at": "2026-08-18T18:27:00+00:00",
+      "sources": [
+        {
+          "name": "TechSpot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techspot.com/news/113517-ai-data-center-boom-pushes-caterpillar-ford-other.html"
+        }
+      ]
+    },
+    {
       "id": "TechSpot-https://www.techspot.com/news/113516-european-central-bank-warns-ai-bubble-burst-could.html",
       "title": "European Central Bank warns AI bubble burst could trigger systemic fallout",
       "url": "https://www.techspot.com/news/113516-european-central-bank-warns-ai-bubble-burst-could.html",
@@ -13001,6 +12991,24 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techspot.com/news/113516-european-central-bank-warns-ai-bubble-burst-could.html"
+        }
+      ]
+    },
+    {
+      "id": "TechSpot-https://www.techspot.com/news/113531-fairphone-brings-649-repairable-gen-6-smartphone-us.html",
+      "title": "Fairphone brings its $649 repairable Gen 6+ smartphone to the US",
+      "url": "https://www.techspot.com/news/113531-fairphone-brings-649-repairable-gen-6-smartphone-us.html",
+      "domain": "techspot.com",
+      "category": "Hardware",
+      "summary": "The Fairphone (Gen. 6+) is billed as the company's first device to feature 12GB of RAM, and comes at a time when manufacturers are more conscious than ever about the amount of memory they are stuffing into their devices due to AI-driven…",
+      "tags": [],
+      "published_at": "2026-08-18T17:01:00+00:00",
+      "sources": [
+        {
+          "name": "TechSpot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techspot.com/news/113531-fairphone-brings-649-repairable-gen-6-smartphone-us.html"
         }
       ]
     },
@@ -19400,6 +19408,126 @@
       ]
     },
     {
+      "id": "Phys.org-news706272121",
+      "title": "Genome-folding complex reveals a mechanism that helps establish neuron identity",
+      "url": "https://phys.org/news/2026-08-genome-complex-reveals-mechanism-neuron.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "A functional nervous system depends on the cooperation of many kinds of cells. As developing organisms build their nervous systems, their neurons must take on different forms and functions to fulfill their designated roles. That carefully…",
+      "tags": [
+        "Cell & Microbiology"
+      ],
+      "published_at": "2026-08-18T19:40:06+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-genome-complex-reveals-mechanism-neuron.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706272182",
+      "title": "The global race to make a practical quantum computer just took a big leap forward",
+      "url": "https://phys.org/news/2026-08-global-quantum-big.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is radically different from other quantum computers.",
+      "tags": [
+        "Quantum Physics"
+      ],
+      "published_at": "2026-08-18T19:40:04+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-global-quantum-big.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706283281",
+      "title": "Experiment shows how AI discoveries can shape human cultural evolution",
+      "url": "https://phys.org/news/2026-08-ai-discoveries-human-cultural-evolution.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Artificial intelligence can develop solutions that humans would be unlikely to discover on their own. But what happens when machines do more than solve individual problems and actually discover entirely new solution strategies? And can…",
+      "tags": [
+        "Social Sciences"
+      ],
+      "published_at": "2026-08-18T19:30:03+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-ai-discoveries-human-cultural-evolution.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706284107",
+      "title": "Physicists entangle quantum memories across a record-breaking 420 km",
+      "url": "https://phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum…",
+      "tags": [
+        "Optics & Photonics"
+      ],
+      "published_at": "2026-08-18T19:30:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-physicists-entangle-quantum-memories-km.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706271761",
+      "title": "Structural snapshots reveal key steps in switching on DNA replication",
+      "url": "https://phys.org/news/2026-08-snapshots-reveal-key-dna-replication.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Every time a cell divides, it must accurately copy its entire genetic instruction manual. Before this process can begin, cells load their DNA-copying motor—a complex of six subunits known as the MCM2-7 helicase—onto DNA. However, this…",
+      "tags": [
+        "Cell & Microbiology"
+      ],
+      "published_at": "2026-08-18T19:20:04+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-snapshots-reveal-key-dna-replication.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706282441",
+      "title": "An African bat overlooked for two centuries is confirmed in Europe",
+      "url": "https://phys.org/news/2026-08-african-overlooked-centuries-europe.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "An African bat whose presence in Sicily had remained an unresolved zoological mystery for almost two centuries has now been documented on Pantelleria Island. A study published in Global Ecology and Conservation reports the first solid…",
+      "tags": [
+        "Plants & Animals"
+      ],
+      "published_at": "2026-08-18T19:10:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-african-overlooked-centuries-europe.html"
+        }
+      ]
+    },
+    {
       "id": "Phys.org-news706271522",
       "title": "Q&A: By analyzing media coverage, researchers connect public sentiment hedge fund returns",
       "url": "https://phys.org/news/2026-08-qa-media-coverage-sentiment-hedge.html",
@@ -19496,146 +19624,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://phys.org/news/2026-08-lost-botanical-hotspot-university-york.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706267261",
-      "title": "From the coasts to the plains, bird flu could threaten not just birds—but their homes",
-      "url": "https://phys.org/news/2026-08-coasts-plains-bird-flu-threaten.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Yesterday, I woke to a cold, damp Canberra morning—and silence. The trees around my home were empty of feathered silhouettes. Even the usual bright-eyed, warble-voiced magpies were absent.",
-      "tags": [
-        "Plants & Animals"
-      ],
-      "published_at": "2026-08-18T18:20:05+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-coasts-plains-bird-flu-threaten.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706270381",
-      "title": "End-to-end design creates two low-cost materials to capture methane",
-      "url": "https://phys.org/news/2026-08-materials-capture-methane.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Developing new materials to tackle pressing global issues is a gap-filled process that can leave potential climate solutions lost in unread academic papers and forgotten dissertations.",
-      "tags": [
-        "Analytical Chemistry"
-      ],
-      "published_at": "2026-08-18T18:20:04+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-materials-capture-methane.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706279021",
-      "title": "AI and 8 million digitized plant specimens reveal how the climate is changing nature in large parts of the world",
-      "url": "https://phys.org/news/2026-08-ai-million-digitized-specimens-reveal.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "AI optimists will be encouraged by a recent report on the state of the world's plants and fungi by the Royal Botanic Gardens, Kew.",
-      "tags": [
-        "Ecology"
-      ],
-      "published_at": "2026-08-18T18:10:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-ai-million-digitized-specimens-reveal.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706268761",
-      "title": "Cells remodel actin normally without coronins, challenging textbook view",
-      "url": "https://phys.org/news/2026-08-cells-remodel-actin-coronins-textbook.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Coronins are found throughout the animal kingdom, from single-celled amoebae to humans, and are involved in many vital processes, including immunity, development and cell survival. For decades, textbooks and hundreds of scientific papers…",
-      "tags": [
-        "Cell & Microbiology"
-      ],
-      "published_at": "2026-08-18T18:00:10+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-cells-remodel-actin-coronins-textbook.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706267202",
-      "title": "Australian beekeepers can't tackle Varroa mite alone. Here's how we can help",
-      "url": "https://phys.org/news/2026-08-australian-beekeepers-tackle-varroa-mite.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "For decades, Australia was the last inhabited continent free of the bee-killing Varroa mite (Varroa destructor).",
-      "tags": [
-        "Ecology"
-      ],
-      "published_at": "2026-08-18T18:00:08+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-australian-beekeepers-tackle-varroa-mite.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706267142",
-      "title": "Oral exams are making a comeback to stop AI cheating. But they have their own problems",
-      "url": "https://phys.org/news/2026-08-oral-exams-comeback-ai-problems.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Universities are increasingly turning to oral exams to stop students from using artificial intelligence (AI) to cheat.",
-      "tags": [
-        "Education"
-      ],
-      "published_at": "2026-08-18T17:40:11+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-oral-exams-comeback-ai-problems.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706270321",
-      "title": "Novel plastic turns into a gas when heated—then reforms once cooled",
-      "url": "https://phys.org/news/2026-08-plastic-gas-reforms-cooled.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "In a study published in Macromolecules, researchers introduce a novel polymer that could simplify how materials are applied, removed and recycled by eliminating several complex processing steps used today.",
-      "tags": [
-        "Polymers"
-      ],
-      "published_at": "2026-08-18T17:40:06+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-plastic-gas-reforms-cooled.html"
         }
       ]
     },
@@ -20046,6 +20034,28 @@
       ]
     },
     {
+      "id": "Space.com-jhWVvAQsG6wHyht6cSzyqJ",
+      "title": "NASA astronaut and 1st female French spacewalker remove failed ISS antenna but run out of time for replacement",
+      "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement",
+      "domain": "space.com",
+      "category": "Science",
+      "summary": "NASA astronaut Anil Menon and first female French spacewalker Sophie Adenot removed a failed antenna but ran out of time to install its replacement at the International Space Station, Aug. 18, 2026.",
+      "tags": [
+        "International Space Station",
+        "Missions",
+        "Space Exploration"
+      ],
+      "published_at": "2026-08-18T19:36:40+00:00",
+      "sources": [
+        {
+          "name": "Space.com",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement"
+        }
+      ]
+    },
+    {
       "id": "Space.com-FLXMJL9vGWGMXFE7GKPiiC",
       "title": "Starship lives! SpaceX craft arrives at Christmas Island after 24-day ocean ordeal",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-lives-spacex-craft-arrives-at-christmas-island-after-24-day-ocean-ordeal",
@@ -20258,27 +20268,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video"
-        }
-      ]
-    },
-    {
-      "id": "Space.com-hvXrryy7REZv6iyH65f2zZ",
-      "title": "The best Ruko drone to date is half-price at Amazon but you'll have to hurry",
-      "url": "https://www.space.com/technology/drones/the-best-ruko-drone-to-date-is-half-price-at-amazon-but-youll-have-to-hurry",
-      "domain": "space.com",
-      "category": "Science",
-      "summary": "Looking to take to the skies? This beginner-friendly Ruko F11 PRO 2 is a mind-blowing $280 off, but you'll have to hurry because this lightning deal ends soon.",
-      "tags": [
-        "Drones",
-        "Technology"
-      ],
-      "published_at": "2026-08-17T19:56:04+00:00",
-      "sources": [
-        {
-          "name": "Space.com",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.space.com/technology/drones/the-best-ruko-drone-to-date-is-half-price-at-amazon-but-youll-have-to-hurry"
         }
       ]
     },
@@ -20733,26 +20722,6 @@
       ]
     },
     {
-      "id": "r/dev-t3_1vrijpc",
-      "title": "a more robust proposal process · golang go · Discussion #80580",
-      "url": "https://github.com/golang/go/discussions/80580",
-      "domain": "github.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "golang"
-      ],
-      "published_at": "2026-08-18T07:45:57+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/golang/comments/1vrijpc/a_more_robust_proposal_process_golang_go/"
-        }
-      ]
-    },
-    {
       "id": "r/dev-t3_1vrgbaa",
       "title": "We Ship Our UI Through a Subtitle System",
       "url": "https://deadworks.net/blog/we-ship-our-ui-through-a-subtitle-system",
@@ -20769,26 +20738,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.reddit.com/r/programming/comments/1vrgbaa/we_ship_our_ui_through_a_subtitle_system/"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1vqukkf",
-      "title": "Nothing like a Monday morning GitHub outage",
-      "url": "https://www.githubstatus.com/",
-      "domain": "githubstatus.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "programming"
-      ],
-      "published_at": "2026-08-17T14:53:18+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1vqukkf/nothing_like_a_monday_morning_github_outage/"
         }
       ]
     }

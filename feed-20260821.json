@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:59:21+00:00",
+  "generated_at": "2026-08-21T07:52:24+00:00",
   "items": [
     {
       "id": "e2dc35a6be96d44f",
@@ -17,14 +17,14 @@
       "sources": [
         {
           "name": "HN",
-          "score": 946,
-          "comments": 297,
+          "score": 951,
+          "comments": 298,
           "thread_url": "https://news.ycombinator.com/item?id=49372583"
         },
         {
           "name": "lobste.rs",
-          "score": 34,
-          "comments": 6,
+          "score": 36,
+          "comments": 8,
           "thread_url": "https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth"
         }
       ]
@@ -44,13 +44,13 @@
       "sources": [
         {
           "name": "HN",
-          "score": 710,
-          "comments": 178,
+          "score": 739,
+          "comments": 184,
           "thread_url": "https://news.ycombinator.com/item?id=49362689"
         },
         {
           "name": "lobste.rs",
-          "score": 213,
+          "score": 214,
           "comments": 53,
           "thread_url": "https://lobste.rs/s/5gcd3t/html_can_do"
         }
@@ -70,48 +70,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 681,
-          "comments": 282,
+          "score": 700,
+          "comments": 290,
           "thread_url": "https://news.ycombinator.com/item?id=49347543"
-        }
-      ]
-    },
-    {
-      "id": "b7bf657a2ae50063",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "domain": "safedep.io",
-      "category": "Security",
-      "summary": "The Rust blog reports on a malicious crate, called proc-macro1 , that was uploaded to the crates.io repository. Furthermore, we discovered that the popular arrayref crate had recently been republished and made to depend on this crate, with…",
-      "tags": [
-        "Security",
-        "story"
-      ],
-      "published_at": "2026-08-20T13:23:12Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 465,
-          "comments": 394,
-          "thread_url": "https://news.ycombinator.com/item?id=49374269"
-        },
-        {
-          "name": "LWN.net",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://lwn.net/Articles/1089720/"
-        },
-        {
-          "name": "BleepingComputer",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/"
-        },
-        {
-          "name": "The Hacker News",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html"
         }
       ]
     },
@@ -132,8 +93,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 455,
-          "comments": 516,
+          "score": 480,
+          "comments": 549,
           "thread_url": "https://news.ycombinator.com/item?id=49378957"
         },
         {
@@ -157,6 +118,45 @@
       ]
     },
     {
+      "id": "b7bf657a2ae50063",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "domain": "safedep.io",
+      "category": "Security",
+      "summary": "The Rust blog reports on a malicious crate, called proc-macro1 , that was uploaded to the crates.io repository. Furthermore, we discovered that the popular arrayref crate had recently been republished and made to depend on this crate, with…",
+      "tags": [
+        "Security",
+        "story"
+      ],
+      "published_at": "2026-08-20T13:23:12Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 478,
+          "comments": 406,
+          "thread_url": "https://news.ycombinator.com/item?id=49374269"
+        },
+        {
+          "name": "LWN.net",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://lwn.net/Articles/1089720/"
+        },
+        {
+          "name": "BleepingComputer",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/"
+        },
+        {
+          "name": "The Hacker News",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html"
+        }
+      ]
+    },
+    {
       "id": "HN-49368886",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
@@ -170,8 +170,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 390,
-          "comments": 233,
+          "score": 392,
+          "comments": 234,
           "thread_url": "https://news.ycombinator.com/item?id=49368886"
         }
       ]
@@ -190,49 +190,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 320,
-          "comments": 103,
+          "score": 325,
+          "comments": 102,
           "thread_url": "https://news.ycombinator.com/item?id=49348141"
-        }
-      ]
-    },
-    {
-      "id": "HN-49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "domain": "danielvaughn.dev",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-20T19:05:36Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 283,
-          "comments": 149,
-          "thread_url": "https://news.ycombinator.com/item?id=49378768"
-        }
-      ]
-    },
-    {
-      "id": "HN-49378243",
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "domain": "consumerrights.wiki",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-20T18:19:51Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 267,
-          "comments": 49,
-          "thread_url": "https://news.ycombinator.com/item?id=49378243"
         }
       ]
     },
@@ -251,8 +211,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 266,
-          "comments": 189,
+          "score": 289,
+          "comments": 211,
           "thread_url": "https://news.ycombinator.com/item?id=49383026"
         },
         {
@@ -260,6 +220,26 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://news.slashdot.org/story/26/08/20/201221/ukrainian-publishers-call-for-support-after-russian-attacks-destroy-10-million-books?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+        }
+      ]
+    },
+    {
+      "id": "HN-49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "domain": "danielvaughn.dev",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-20T19:05:36Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 289,
+          "comments": 154,
+          "thread_url": "https://news.ycombinator.com/item?id=49378768"
         }
       ]
     },
@@ -277,29 +257,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 251,
-          "comments": 98,
+          "score": 259,
+          "comments": 100,
           "thread_url": "https://news.ycombinator.com/item?id=49377853"
-        }
-      ]
-    },
-    {
-      "id": "HN-49375996",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "domain": "github.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-20T15:26:02Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 234,
-          "comments": 235,
-          "thread_url": "https://news.ycombinator.com/item?id=49375996"
         }
       ]
     },
@@ -317,15 +277,35 @@
       "sources": [
         {
           "name": "HN",
-          "score": 233,
-          "comments": 78,
+          "score": 243,
+          "comments": 89,
           "thread_url": "https://news.ycombinator.com/item?id=49376265"
         }
       ]
     },
     {
+      "id": "HN-49375996",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "domain": "github.com",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-20T15:26:02Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 242,
+          "comments": 241,
+          "thread_url": "https://news.ycombinator.com/item?id=49375996"
+        }
+      ]
+    },
+    {
       "id": "HN-49360140",
-      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
       "url": "https://arxiv.org/abs/2504.09762",
       "domain": "arxiv.org",
       "category": "Systems",
@@ -337,29 +317,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 223,
-          "comments": 138,
+          "score": 225,
+          "comments": 148,
           "thread_url": "https://news.ycombinator.com/item?id=49360140"
-        }
-      ]
-    },
-    {
-      "id": "HN-49376332",
-      "title": "How to compromise your system with a job interview",
-      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "domain": "codedge.de",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-20T15:50:57Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 151,
-          "comments": 132,
-          "thread_url": "https://news.ycombinator.com/item?id=49376332"
         }
       ]
     },
@@ -377,8 +337,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 147,
-          "comments": 199,
+          "score": 158,
+          "comments": 217,
           "thread_url": "https://news.ycombinator.com/item?id=49378446"
         }
       ]
@@ -397,29 +357,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 146,
-          "comments": 105,
+          "score": 151,
+          "comments": 110,
           "thread_url": "https://news.ycombinator.com/item?id=49375719"
-        }
-      ]
-    },
-    {
-      "id": "HN-49381896",
-      "title": "Ox Alpha",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "domain": "openrouter.ai",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-20T23:56:35Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 101,
-          "comments": 81,
-          "thread_url": "https://news.ycombinator.com/item?id=49381896"
         }
       ]
     },
@@ -437,35 +377,35 @@
       "sources": [
         {
           "name": "HN",
-          "score": 98,
-          "comments": 31,
+          "score": 126,
+          "comments": 38,
           "thread_url": "https://news.ycombinator.com/item?id=49383326"
         }
       ]
     },
     {
-      "id": "HN-49374635",
-      "title": "Every Model Cheats",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "domain": "dreadnode.io",
-      "category": "AI / ML",
+      "id": "HN-49381896",
+      "title": "Ox Alpha",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "domain": "openrouter.ai",
+      "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-08-20T13:56:59Z",
+      "published_at": "2026-08-20T23:56:35Z",
       "sources": [
         {
           "name": "HN",
-          "score": 96,
-          "comments": 76,
-          "thread_url": "https://news.ycombinator.com/item?id=49374635"
+          "score": 121,
+          "comments": 92,
+          "thread_url": "https://news.ycombinator.com/item?id=49381896"
         }
       ]
     },
     {
       "id": "HN-49378933",
-      "title": "SpacetimeDB: A Short Technical Review",
+      "title": "SpacetimeDB: a short technical review",
       "url": "https://strn.cat/posts/spacetime/",
       "domain": "strn.cat",
       "category": "Science",
@@ -477,29 +417,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 81,
+          "score": 88,
           "comments": 17,
           "thread_url": "https://news.ycombinator.com/item?id=49378933"
         }
       ]
     },
     {
-      "id": "HN-49382152",
-      "title": "There's no such thing as a small software team anymore",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "domain": "jacob.gold",
+      "id": "HN-49384180",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "domain": "xda-developers.com",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-08-21T00:28:37Z",
+      "published_at": "2026-08-21T05:31:34Z",
       "sources": [
         {
           "name": "HN",
-          "score": 75,
-          "comments": 119,
-          "thread_url": "https://news.ycombinator.com/item?id=49382152"
+          "score": 72,
+          "comments": 30,
+          "thread_url": "https://news.ycombinator.com/item?id=49384180"
         }
       ]
     },
@@ -517,7 +457,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 58,
+          "score": 59,
           "comments": 45,
           "thread_url": "https://news.ycombinator.com/item?id=49377739"
         }
@@ -537,7 +477,7 @@
       "sources": [
         {
           "name": "HN",
-          "score": 45,
+          "score": 49,
           "comments": 0,
           "thread_url": "https://news.ycombinator.com/item?id=49295112"
         }
@@ -557,29 +497,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 42,
-          "comments": 5,
+          "score": 46,
+          "comments": 6,
           "thread_url": "https://news.ycombinator.com/item?id=49329919"
         }
       ]
     },
     {
-      "id": "HN-49384180",
-      "title": "Japan tried to build an operating system for the world, the US intervened",
-      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "domain": "xda-developers.com",
+      "id": "HN-49304409",
+      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
+      "domain": "journals.aps.org",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-08-21T05:31:34Z",
+      "published_at": "2026-08-14T20:49:29Z",
       "sources": [
         {
           "name": "HN",
           "score": 37,
-          "comments": 9,
-          "thread_url": "https://news.ycombinator.com/item?id=49384180"
+          "comments": 8,
+          "thread_url": "https://news.ycombinator.com/item?id=49304409"
         }
       ]
     },
@@ -604,26 +544,6 @@
       ]
     },
     {
-      "id": "HN-49304409",
-      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-      "domain": "journals.aps.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-14T20:49:29Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 34,
-          "comments": 6,
-          "thread_url": "https://news.ycombinator.com/item?id=49304409"
-        }
-      ]
-    },
-    {
       "id": "HN-49384224",
       "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
       "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
@@ -637,9 +557,49 @@
       "sources": [
         {
           "name": "HN",
-          "score": 13,
-          "comments": 3,
+          "score": 22,
+          "comments": 9,
           "thread_url": "https://news.ycombinator.com/item?id=49384224"
+        }
+      ]
+    },
+    {
+      "id": "HN-49336358",
+      "title": "Version Control for Everything",
+      "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
+      "domain": "tyoverby.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-17T19:28:44Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 21,
+          "comments": 7,
+          "thread_url": "https://news.ycombinator.com/item?id=49336358"
+        }
+      ]
+    },
+    {
+      "id": "HN-49384716",
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "domain": "encore.dev",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-21T06:59:40Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 10,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=49384716"
         }
       ]
     },
@@ -666,7 +626,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 62,
+          "score": 64,
           "comments": 80,
           "thread_url": "https://lobste.rs/s/eesu8d/bun_1_4"
         },
@@ -698,7 +658,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 92,
+          "score": 95,
           "comments": 3,
           "thread_url": "https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into"
         }
@@ -724,7 +684,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 74,
+          "score": 76,
           "comments": 43,
           "thread_url": "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref"
         },
@@ -758,7 +718,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 40,
+          "score": 42,
           "comments": 8,
           "thread_url": "https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped"
         },
@@ -785,8 +745,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 17,
-          "comments": 4,
+          "score": 21,
+          "comments": 6,
           "thread_url": "https://lobste.rs/s/hbjeir/announcing_rust_1_98_0"
         },
         {
@@ -800,6 +760,33 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.reddit.com/r/rust/comments/1vtpt4h/rust_1980_is_out/"
+        }
+      ]
+    },
+    {
+      "id": "2ab45ef327137e35",
+      "title": "Btrfs Snapshot Integration in KDE",
+      "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+      "domain": "bharadwajraju.com",
+      "category": "Systems",
+      "summary": "With today's release of KIO-Snapshot, KDE software now has stable integration of Btrfs file-system snapshots...",
+      "tags": [
+        "linux",
+        "osdev"
+      ],
+      "published_at": "2026-08-20T16:21:31+00:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 9,
+          "comments": 2,
+          "thread_url": "https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"
+        },
+        {
+          "name": "Phoronix",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.phoronix.com/news/KDE-Btrfs-Snapshots"
         }
       ]
     },
@@ -819,8 +806,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 59,
-          "comments": 24,
+          "score": 60,
+          "comments": 25,
           "thread_url": "https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust"
         }
       ]
@@ -841,36 +828,9 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 12,
+          "score": 13,
           "comments": 5,
           "thread_url": "https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh"
-        }
-      ]
-    },
-    {
-      "id": "2ab45ef327137e35",
-      "title": "Btrfs Snapshot Integration in KDE",
-      "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-      "domain": "bharadwajraju.com",
-      "category": "Systems",
-      "summary": "With today's release of KIO-Snapshot, KDE software now has stable integration of Btrfs file-system snapshots...",
-      "tags": [
-        "linux",
-        "osdev"
-      ],
-      "published_at": "2026-08-20T16:21:31+00:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 5,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"
-        },
-        {
-          "name": "Phoronix",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.phoronix.com/news/KDE-Btrfs-Snapshots"
         }
       ]
     },
@@ -890,7 +850,7 @@
         {
           "name": "lobste.rs",
           "score": 9,
-          "comments": 5,
+          "comments": 8,
           "thread_url": "https://lobste.rs/s/yigyaq/zero_knowledge_proofs_aren_t_age"
         }
       ]
@@ -916,6 +876,46 @@
       ]
     },
     {
+      "id": "lobste.rs-ikhwaz",
+      "title": "Emacs 31.1 will release on 8/24",
+      "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
+      "domain": "github.com",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "emacs"
+      ],
+      "published_at": "2026-08-20T11:58:11.479-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 21,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-pfnai9",
+      "title": "Survival Guide for a Censored Internet",
+      "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
+      "domain": "akitaonrails.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "privacy"
+      ],
+      "published_at": "2026-08-20T21:42:17.234-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 6,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/pfnai9/survival_guide_for_censored_internet"
+        }
+      ]
+    },
+    {
       "id": "lobste.rs-7v1wvd",
       "title": "Reclaim the terminal",
       "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
@@ -930,7 +930,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 44,
+          "score": 45,
           "comments": 15,
           "thread_url": "https://lobste.rs/s/7v1wvd/reclaim_terminal"
         }
@@ -958,46 +958,6 @@
       ]
     },
     {
-      "id": "lobste.rs-ikhwaz",
-      "title": "Emacs 31.1 will release on 8/24",
-      "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
-      "domain": "github.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "emacs"
-      ],
-      "published_at": "2026-08-20T11:58:11.479-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 17,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-pfnai9",
-      "title": "Survival Guide for a Censored Internet",
-      "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
-      "domain": "akitaonrails.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "privacy"
-      ],
-      "published_at": "2026-08-20T21:42:17.234-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 5,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/pfnai9/survival_guide_for_censored_internet"
-        }
-      ]
-    },
-    {
       "id": "lobste.rs-i4lxyt",
       "title": "Plain Text Accounting is Pretty Cool",
       "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
@@ -1014,6 +974,27 @@
           "score": 98,
           "comments": 43,
           "thread_url": "https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-0rggrb",
+      "title": "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
+      "url": "https://github.com/yaoshiu/opus",
+      "domain": "github.com",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "haskell",
+        "lisp"
+      ],
+      "published_at": "2026-08-20T09:34:50.607-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 18,
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/0rggrb/opus_is_minimal_statically_scoped_lisp"
         }
       ]
     },
@@ -1040,23 +1021,22 @@
       ]
     },
     {
-      "id": "lobste.rs-0rggrb",
-      "title": "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
-      "url": "https://github.com/yaoshiu/opus",
-      "domain": "github.com",
-      "category": "Dev Tools",
+      "id": "lobste.rs-vvdveb",
+      "title": "Vibe coding personal apps in mid-2026",
+      "url": "https://www.flourish.org/2026/08/personal-apps/",
+      "domain": "flourish.org",
+      "category": "Systems",
       "summary": "",
       "tags": [
-        "haskell",
-        "lisp"
+        "vibecoding"
       ],
-      "published_at": "2026-08-20T09:34:50.607-05:00",
+      "published_at": "2026-08-21T02:16:33.318-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 15,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/0rggrb/opus_is_minimal_statically_scoped_lisp"
+          "score": 2,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/vvdveb/vibe_coding_personal_apps_mid_2026"
         }
       ]
     },
@@ -1105,7 +1085,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 3,
+          "score": 4,
           "comments": 1,
           "thread_url": "https://lobste.rs/s/ygsics/decoding_magic_school_lunar_s_save_game"
         },
@@ -1118,22 +1098,23 @@
       ]
     },
     {
-      "id": "lobste.rs-ope7za",
-      "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
-      "url": "https://zerotistic.blog/posts/find-my-people-linux/",
-      "domain": "zerotistic.blog",
+      "id": "lobste.rs-qxvz7f",
+      "title": "Better Batteries",
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "domain": "matklad.github.io",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "reversing"
+        "plt",
+        "programming"
       ],
-      "published_at": "2026-08-20T04:02:49.657-05:00",
+      "published_at": "2026-08-21T02:47:50.174-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 19,
+          "score": 1,
           "comments": 0,
-          "thread_url": "https://lobste.rs/s/ope7za/reverse_engineering_find_my_people_stalk"
+          "thread_url": "https://lobste.rs/s/qxvz7f/better_batteries"
         }
       ]
     },
@@ -1152,79 +1133,30 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 10,
+          "score": 11,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/8cq6jl/going_freestanding"
         }
       ]
     },
     {
-      "id": "lobste.rs-khphqe",
-      "title": "Bringing Primary Constructors to Dart",
-      "url": "https://dart.dev/blog/bringing-primary-constructors-to-dart",
-      "domain": "dart.dev",
+      "id": "lobste.rs-ikeag0",
+      "title": "A Personal Computer For Children Of All Cultures (2019)",
+      "url": "https://www.deconstructconf.com/2019/ramsey-nasser-a-personal-computer-for-children-of-all-cultures",
+      "domain": "deconstructconf.com",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "plt"
+        "plt",
+        "practices"
       ],
-      "published_at": "2026-08-21T01:44:53.126-05:00",
+      "published_at": "2026-08-20T11:11:49.924-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 1,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/khphqe/bringing_primary_constructors_dart"
-        }
-      ]
-    },
-    {
-      "id": "9e29e36651fa83a8",
-      "title": "Go 1.27 is released",
-      "url": "https://go.dev/blog/go1.27",
-      "domain": "go.dev",
-      "category": "Dev Tools",
-      "summary": "Go 1.27 adds generic methods, encoding/json/v2 package, uuid package, faster memory allocation, goroutine leak profiles, and more.",
-      "tags": [
-        "go",
-        "goland",
-        "golang",
-        "language-release",
-        "language-support",
-        "news",
-        "release"
-      ],
-      "published_at": "2026-08-19T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 74,
-          "comments": 6,
-          "thread_url": "https://lobste.rs/s/smrw3n/go_1_27_is_released"
-        },
-        {
-          "name": "Go Blog",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://go.dev/blog/go1.27"
-        },
-        {
-          "name": "LWN.net",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://lwn.net/Articles/1089559/"
-        },
-        {
-          "name": "JetBrains",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://blog.jetbrains.com/go/2026/08/20/ready-for-go-1-27-on-day-one/"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/golang/comments/1vtmrkt/generic_methods_in_go_127/"
+          "score": 8,
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/ikeag0/personal_computer_for_children_all"
         }
       ]
     },
@@ -1496,7 +1428,7 @@
       ]
     },
     {
-      "id": "2bbbe36dd3958134",
+      "id": "36188bac0c4965c0",
       "title": "NASA calls off rescue effort to save doomed telescope",
       "url": "https://www.newscientist.com/article/2585668-nasa-calls-off-rescue-effort-to-save-doomed-telescope/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
       "domain": "newscientist.com",
@@ -1510,7 +1442,6 @@
         "Space exploration",
         "Swift Mission",
         "katalyst space",
-        "nasa",
         "satellite servicing"
       ],
       "published_at": "2026-08-19T22:00:00+00:00",
@@ -1520,12 +1451,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/"
-        },
-        {
-          "name": "Slashdot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed"
         },
         {
           "name": "New Scientist",
@@ -1696,16 +1621,21 @@
       ]
     },
     {
-      "id": "52141f514cd73d78",
+      "id": "7e08c5bcec2bd50e",
       "title": "Riot is ending active development of 2XKO in December",
       "url": "https://www.engadget.com/2241224/riot-is-ending-active-development-of-2xko-in-december/",
       "domain": "engadget.com",
       "category": "Systems",
       "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen…",
       "tags": [
+        "2XKO",
         "Entertainment",
+        "Featured",
+        "Fighting Game",
         "Gaming",
-        "News"
+        "News",
+        "RIOT",
+        "Riot Games"
       ],
       "published_at": "2026-08-20T19:59:09+00:00",
       "sources": [
@@ -1720,6 +1650,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.engadget.com/2241224/riot-is-ending-active-development-of-2xko-in-december/"
+        },
+        {
+          "name": "Wccftech",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://wccftech.com/riot-games-2xko-active-development-ends-refunds-purchases/"
         }
       ]
     },
@@ -2417,6 +2353,36 @@
       ]
     },
     {
+      "id": "e8df9465bb29ea84",
+      "title": "RayNeo is going both minimalist and maximalist with its latest AR smart glasses",
+      "url": "https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/",
+      "domain": "engadget.com",
+      "category": "Systems",
+      "summary": "RayNeo's latest AR smart glasses are going for very different audiences: The very discrete, and the very nerdy.",
+      "tags": [
+        "Computing",
+        "Mobile",
+        "Reviews",
+        "Software",
+        "Virtual Reality &amp; Augmented Reality"
+      ],
+      "published_at": "2026-08-21T02:00:00+00:00",
+      "sources": [
+        {
+          "name": "Engadget",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/"
+        },
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-smart-glasses-could-soon-be-banned-in-cinemas-says-uk-trade-body-but-this-time-its-more-about-piracy-than-privacy"
+        }
+      ]
+    },
+    {
       "id": "Engadget-https://www.engadget.com/2241281/amazons-god-of-war-show-brings-in-dave-bautista-as-its-new-kratos/",
       "title": "Amazon's God of War show brings in Dave Bautista as its new Kratos",
       "url": "https://www.engadget.com/2241281/amazons-god-of-war-show-brings-in-dave-bautista-as-its-new-kratos/",
@@ -2626,23 +2592,22 @@
       ]
     },
     {
-      "id": "Engadget-https://www.engadget.com/2240929/trailer-sega-golden-axe-animated-series/",
-      "title": "A trailer for the Golden Axe animated series is full of self-referencing jokes",
-      "url": "https://www.engadget.com/2240929/trailer-sega-golden-axe-animated-series/",
-      "domain": "engadget.com",
+      "id": "The Register-https://www.theregister.com/a/5290303",
+      "title": "EE invites mobile users to live life in the 5G Fast Lane – for a price",
+      "url": "https://www.theregister.com/networks/2026/08/21/ee-invites-mobile-users-to-live-life-in-the-5g-fast-lane-for-a-price/5290303",
+      "domain": "theregister.com",
       "category": "Systems",
-      "summary": "The adaptation of Sega's classic games hits Paramount+ on September 16.",
+      "summary": "Network slicing offers a prioritized experience for those prepared to pay for a premium monthly plan",
       "tags": [
-        "Gaming",
-        "Streaming"
+        "networks"
       ],
-      "published_at": "2026-08-20T16:35:23+00:00",
+      "published_at": "2026-08-21T07:44:00+00:00",
       "sources": [
         {
-          "name": "Engadget",
+          "name": "The Register",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.engadget.com/2240929/trailer-sega-golden-axe-animated-series/"
+          "thread_url": "https://www.theregister.com/networks/2026/08/21/ee-invites-mobile-users-to-live-life-in-the-5g-fast-lane-for-a-price/5290303"
         }
       ]
     },
@@ -2809,26 +2774,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5290436",
-      "title": "US claims 15 of the world's top 20 hyperscale datacenter locations",
-      "url": "https://www.theregister.com/off-prem/2026/08/20/us-claims-15-of-the-worlds-top-20-hyperscale-datacenter-locations/5290436",
-      "domain": "theregister.com",
-      "category": "Hardware",
-      "summary": "Northern Virginia alone accounts for nearly 12% of global capacity, though new builds are shifting inland",
-      "tags": [
-        "off-prem"
-      ],
-      "published_at": "2026-08-20T16:12:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/off-prem/2026/08/20/us-claims-15-of-the-worlds-top-20-hyperscale-datacenter-locations/5290436"
         }
       ]
     },
@@ -3031,6 +2976,96 @@
       ]
     },
     {
+      "id": "TechRadar-X545Mt4e7V5hUENxk7Jrz3",
+      "title": "The next AI phase is better agents not bigger models",
+      "url": "https://www.techradar.com/pro/the-next-ai-phase-is-better-agents-not-bigger-models",
+      "domain": "techradar.com",
+      "category": "AI / ML",
+      "summary": "Agentic AI success depends less on selecting models and more on building strong organizational foundations.",
+      "tags": [
+        "Pro"
+      ],
+      "published_at": "2026-08-21T07:41:38+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/pro/the-next-ai-phase-is-better-agents-not-bigger-models"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-xwP7y7MKTwSV43iWuvkkqD",
+      "title": "How to listen to Premier League 2026/27 from anywhere in the world",
+      "url": "https://www.techradar.com/how-to-watch/listen-to-premier-league-2026-27",
+      "domain": "techradar.com",
+      "category": "Systems",
+      "summary": "Here's how to listen to the Premier League 2026/27 live online via BBC Radio 5 Live and TalkSport from anywhere in the world.",
+      "tags": [
+        "How to Watch",
+        "How to Watch Football",
+        "How to Watch Sport"
+      ],
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/how-to-watch/listen-to-premier-league-2026-27"
+        }
+      ]
+    },
+    {
+      "id": "d5c695714291a264",
+      "title": "Chinese carmakers now sell one EV abroad for every two at home",
+      "url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "domain": "restofworld.org",
+      "category": "Systems",
+      "summary": "Metal Gear Solid Master Collection Vol.2 brings back two of the best stealth-action games ever made in a solid new collection.",
+      "tags": [
+        "Gaming"
+      ],
+      "published_at": "2026-08-18T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/gaming/metal-gear-solid-master-collection-vol-2-review"
+        },
+        {
+          "name": "Rest of World",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-dP2MUjDChxTyYFrjbEiPLa",
+      "title": "How to watch Premier League 2026/27: Free Streams, TV Channels & Fixtures — Matchday 1",
+      "url": "https://www.techradar.com/how-to-watch/football/premier-league-2026-27",
+      "domain": "techradar.com",
+      "category": "Systems",
+      "summary": "Here's our full guide for how to watch Premier League 2026/27 including live streams, broadcasters and TV channels around the world.",
+      "tags": [
+        "How to Watch",
+        "How to Watch Football",
+        "How to Watch Sport"
+      ],
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/how-to-watch/football/premier-league-2026-27"
+        }
+      ]
+    },
+    {
       "id": "TechRadar-P9jdiJp3QVmve9YwEXsdCb",
       "title": "Massive supply-chain attack sees terabytes of data belonging to some of the world’s biggest and most sensitive organizations leaked online",
       "url": "https://www.techradar.com/pro/security/massive-supply-chain-attack-sees-terabytes-of-data-belonging-to-some-of-the-worlds-biggest-and-most-sensitive-organizations-leaked-online",
@@ -3069,28 +3104,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe-season-2-could-be-in-trouble-as-creators-confirm-that-theres-no-big-picture-for-future-seasons"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-dGhasysWpQunrEbqPDibT4",
-      "title": "Meta smart glasses could soon be banned in cinemas, says UK trade body — but this time it’s more about piracy than privacy",
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-smart-glasses-could-soon-be-banned-in-cinemas-says-uk-trade-body-but-this-time-its-more-about-piracy-than-privacy",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "Movie theatres considering banning Meta Ray-Bans in the UK as businesses beat governments to the punch.",
-      "tags": [
-        "Computing",
-        "Software",
-        "Virtual Reality &amp; Augmented Reality"
-      ],
-      "published_at": "2026-08-21T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-smart-glasses-could-soon-be-banned-in-cinemas-says-uk-trade-body-but-this-time-its-more-about-piracy-than-privacy"
         }
       ]
     },
@@ -3198,82 +3211,31 @@
       ]
     },
     {
-      "id": "TechRadar-BV6Py6kWrhsCgoEgibFG3G",
-      "title": "USAF is buying banned DJI drones to train its operators against the 'most statistically probable real-world threat'",
-      "url": "https://www.techradar.com/pro/usaf-is-buying-banned-dji-drones-to-train-its-operators-against-the-most-statistically-probable-real-world-threat",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "The US Air Force is buying restricted DJI drones for nuclear missile base training, seeking realistic exposure to commercial drone threats.",
+      "id": "e8d377e81ef701ae",
+      "title": "China Is About to Launch Its Most Ambitious Moon Mission Yet",
+      "url": "https://science.slashdot.org/story/26/08/21/0121220/china-is-about-to-launch-its-most-ambitious-moon-mission-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "domain": "science.slashdot.org",
+      "category": "Science",
+      "summary": "China's Chang'e 7 mission is set to launch for the moon's south pole, where it will attempt the first-ever landing directly at the pole and search the region's dark craters for water ice. \"It's an amazing mission,\" says Norbert…",
       "tags": [
-        "Pro"
-      ],
-      "published_at": "2026-08-20T22:25:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/usaf-is-buying-banned-dji-drones-to-train-its-operators-against-the-most-statistically-probable-real-world-threat"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-NtXQp49g3Tpk9BsvoK7EeB",
-      "title": "Quote of the day by OpenAI CEO Sam Altman: 'There's no way to get there without a breakthrough' — a blunt reality check on the path to superintelligent AI",
-      "url": "https://www.techradar.com/pro/quote-of-the-day-by-openai-ceo-sam-altman-theres-no-way-to-get-there-without-a-breakthrough-a-blunt-reality-check-on-the-path-to-superintelligent-ai",
-      "domain": "techradar.com",
-      "category": "AI / ML",
-      "summary": "Although AI models continue to improve in metrics and benchmarks, fundamental improvements may not come for a while",
-      "tags": [
-        "Pro"
-      ],
-      "published_at": "2026-08-20T22:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/quote-of-the-day-by-openai-ceo-sam-altman-theres-no-way-to-get-there-without-a-breakthrough-a-blunt-reality-check-on-the-path-to-superintelligent-ai"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-fEYcUaDRb7E7zWvJ27iegP",
-      "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
-      "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "Chinese troops rehearsed handling gold bars and multiple currencies, including Taiwanese dollars, in a drill raising questions about authenticity and intent.",
-      "tags": [
-        "Pro"
-      ],
-      "published_at": "2026-08-20T21:40:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-wiHBq57TqSopdgGAZNYu8J",
-      "title": "Iiyama ProGraphic HB3201UHSNP 4K monitor review: Our first taste of the latest IPS Black 2.0 panel tech",
-      "url": "https://www.techradar.com/pro/iiyama-prographic-hb3201uhsnp-4k-monitor-review",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "High-contrast IPS Black 2.0 panel tech and a strong feature set makes this 32-inch 4K panel a tantalising prospect for pro creator workflows.",
-      "tags": [
-        "Pro"
+        "Astronomy",
+        "Solar System",
+        "The moon",
+        "moon"
       ],
       "published_at": "2026-08-20T21:00:00+00:00",
       "sources": [
         {
-          "name": "TechRadar",
+          "name": "Slashdot",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/iiyama-prographic-hb3201uhsnp-4k-monitor-review"
+          "thread_url": "https://science.slashdot.org/story/26/08/21/0121220/china-is-about-to-launch-its-most-ambitious-moon-mission-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+        },
+        {
+          "name": "Space.com",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history"
         }
       ]
     },
@@ -4138,24 +4100,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-        }
-      ]
-    },
-    {
-      "id": "Rest of World-https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/",
-      "title": "Chinese carmakers now sell one EV abroad for every two at home",
-      "url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "domain": "restofworld.org",
-      "category": "Systems",
-      "summary": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
-      "tags": [],
-      "published_at": "2026-08-18T10:00:00+00:00",
-      "sources": [
-        {
-          "name": "Rest of World",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
         }
       ]
     },
@@ -5868,6 +5812,49 @@
       ]
     },
     {
+      "id": "d01e4069a9af2a73",
+      "title": "Go 1.27 released",
+      "url": "https://lwn.net/Articles/1089559/",
+      "domain": "lwn.net",
+      "category": "Dev Tools",
+      "summary": "Go 1.27 , the most recent version of the Go programming language , has been released with a number of new tools, the addition of support for the ML-DSA post-quantum algorithm, new JSON-processing packages, language updates, and more.",
+      "tags": [
+        "go",
+        "goland",
+        "golang",
+        "language-release",
+        "language-support",
+        "news"
+      ],
+      "published_at": "2026-08-19T00:00:00+00:00",
+      "sources": [
+        {
+          "name": "LWN.net",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://lwn.net/Articles/1089559/"
+        },
+        {
+          "name": "Go Blog",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://go.dev/blog/go1.27"
+        },
+        {
+          "name": "JetBrains",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://blog.jetbrains.com/go/2026/08/20/ready-for-go-1-27-on-day-one/"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/golang/comments/1vtmrkt/generic_methods_in_go_127/"
+        }
+      ]
+    },
+    {
       "id": "LWN.net-https://lwn.net/Articles/1089557/",
       "title": "Seven stable kernels for Wednesday",
       "url": "https://lwn.net/Articles/1089557/",
@@ -6208,11 +6195,11 @@
       ]
     },
     {
-      "id": "0cbe2e884a4af4a0",
-      "title": "Quantum Startup Qarakal Takes Lessons From Classical Systems With Pangaea Architecture",
-      "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
+      "id": "Stack Overflow Blog-ed3e57af-3814-4e23-a270-d234eb2b4d82",
+      "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
+      "url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/",
+      "domain": "stackoverflow.blog",
+      "category": "Dev Tools",
       "summary": "",
       "tags": [
         "buiilding-software",
@@ -6220,19 +6207,13 @@
         "contributed",
         "quantum-computing"
       ],
-      "published_at": "2026-08-18T21:13:45+00:00",
+      "published_at": "2026-08-20T18:43:39+00:00",
       "sources": [
         {
           "name": "Stack Overflow Blog",
           "score": 0,
           "comments": 0,
           "thread_url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/"
-        },
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266"
         }
       ]
     },
@@ -11995,7 +11976,7 @@
       ]
     },
     {
-      "id": "5a04ee4bf73f4621",
+      "id": "ServeTheHome-https://www.servethehome.com/?p=103296",
       "title": "Cerebras Intros Faster WSE-3 Turbo Processor and First Rack-Scale CS-4 System",
       "url": "https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/",
       "domain": "servethehome.com",
@@ -12006,19 +11987,13 @@
         "Accelerators",
         "Cerebras"
       ],
-      "published_at": "2026-08-19T04:39:18+00:00",
+      "published_at": "2026-08-19T14:35:17+00:00",
       "sources": [
         {
           "name": "ServeTheHome",
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/"
-        },
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400"
         }
       ]
     },
@@ -12091,178 +12066,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.servethehome.com/kyy-x90d-triple-portable-monitor-review/"
-        }
-      ]
-    },
-    {
-      "id": "6ab25c06ee7ffbe4",
-      "title": "IBM Pushes System Design To Reach Ultra-Cold Temperatures For Quantum",
-      "url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "IBM's new modular cryogenic system links quantum chips to overcome major infrastructure hurdles and pave the way for a powerful system by 2029.",
-      "tags": [
-        "Computing",
-        "Quantum Computing",
-        "Technology"
-      ],
-      "published_at": "2026-08-19T14:16:38+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699"
-        },
-        {
-          "name": "Live Science",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.livescience.com/technology/quantum/ibms-new-quantum-fridges-are-nearly-200-times-colder-than-deep-space-and-could-pave-the-way-for-fault-tolerant-quantum-computing"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5288804",
-      "title": "Cisco Can Finally Sell Lots Of Supercomputers And Their Networks",
-      "url": "https://www.nextplatform.com/connect/2026/08/17/cisco-can-finally-sell-lots-of-supercomputers-and-their-networks/5288804",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-17T21:02:39+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/connect/2026/08/17/cisco-can-finally-sell-lots-of-supercomputers-and-their-networks/5288804"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5288040",
-      "title": "The Neoclouds Build Cash Hoards Faster Than Revenues",
-      "url": "https://www.nextplatform.com/cloud/2026/08/14/the-neoclouds-build-cash-hoards-faster-than-revenues/5288040",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-14T16:47:12+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/cloud/2026/08/14/the-neoclouds-build-cash-hoards-faster-than-revenues/5288040"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5287504",
-      "title": "The War Between Open Source, Open Weight, And Closed AI Models",
-      "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-13T16:41:57+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5287161",
-      "title": "The GenAI Boom Will Lift Supermicro, But It Will Lift Others, Too",
-      "url": "https://www.nextplatform.com/compute/2026/08/13/the-genai-boom-will-lift-supermicro-but-it-will-lift-others-too/5287161",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-13T02:51:12+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/13/the-genai-boom-will-lift-supermicro-but-it-will-lift-others-too/5287161"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5286365",
-      "title": "Nvidia Drives Bang For The Buck With New GenAI Model And Router",
-      "url": "https://www.nextplatform.com/ai/2026/08/11/nvidia-drives-bang-for-the-buck-with-new-genai-model-and-router/5286365",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-11T16:07:35+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/ai/2026/08/11/nvidia-drives-bang-for-the-buck-with-new-genai-model-and-router/5286365"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5285500",
-      "title": "As AI Networks Scale In Three Directions, So Does Arista",
-      "url": "https://www.nextplatform.com/connect/2026/08/10/as-ai-networks-scale-in-three-directions-so-does-arista/5285500",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-10T14:11:32+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/connect/2026/08/10/as-ai-networks-scale-in-three-directions-so-does-arista/5285500"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5285060",
-      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery",
-      "url": "https://www.nextplatform.com/compute/2026/08/07/with-taalas-amd-can-bake-ai-inference-directly-into-its-chippery/5285060",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-07T19:22:18+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/07/with-taalas-amd-can-bake-ai-inference-directly-into-its-chippery/5285060"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5285007",
-      "title": "D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum Architecture",
-      "url": "https://www.nextplatform.com/compute/2026/08/07/d-wave-intros-two-qubit-error-correcting-gate-for-its-dual-rail-quantum-architecture/5285007",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-07T17:13:29+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/07/d-wave-intros-two-qubit-error-correcting-gate-for-its-dual-rail-quantum-architecture/5285007"
         }
       ]
     },
@@ -13207,50 +13010,29 @@
       ]
     },
     {
-      "id": "f74d0ef08e6d7106",
-      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
-      "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
+      "id": "Wccftech-https://wccftech.com/?p=1740580",
+      "title": "NVIDIA Is Plotting Its China Comeback Via A New LPU-Based Inference Chip, As SMIC Rides US Export Controls To A Virtual China Monopoly [Update: NVIDIA Denies]",
+      "url": "https://wccftech.com/nvidia-is-plotting-its-china-comeback-via-a-new-lpu-based-inference-chip-as-smic-rides-us-export-controls-to-a-virtual-china-monopoly/",
+      "domain": "wccftech.com",
+      "category": "Hardware",
       "summary": "NVIDIA is trying to thread the needle when it comes to its gigantic customer base in China, attempting to balance the efficacy of its China-specific offerings with the restrictions imposed under sweeping US export controls. Now, at a time…",
       "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
         "China",
-        "Editors Pick",
         "Featured",
-        "For Devs",
         "Groq",
         "H200",
         "Hardware",
         "LPU",
-        "Language Model",
-        "New Releases",
         "News",
-        "Nvidia",
-        "Open Source",
-        "Python",
-        "Software Engineering",
-        "Staff",
-        "Tech News",
-        "Technology"
+        "Nvidia"
       ],
-      "published_at": "2026-08-18T21:49:04+00:00",
+      "published_at": "2026-08-20T18:59:28+00:00",
       "sources": [
         {
           "name": "Wccftech",
           "score": 0,
           "comments": 0,
           "thread_url": "https://wccftech.com/nvidia-is-plotting-its-china-comeback-via-a-new-lpu-based-inference-chip-as-smic-rides-us-export-controls-to-a-virtual-china-monopoly/"
-        },
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/"
         }
       ]
     },
@@ -13305,40 +13087,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://wccftech.com/miyazaki-admits-fromsoftware-just-dropped-players-nintendo-refining-the-duskbloods/"
-        }
-      ]
-    },
-    {
-      "id": "Wccftech-https://wccftech.com/?p=1740521",
-      "title": "AMD Rolls Out Adrenalin Edition 26.8.1, Adding Support For Radeon RX 9050 4 GB; Also Adds Support For Resonance: A Plague Tale Legacy",
-      "url": "https://wccftech.com/amd-rolls-out-adrenalin-edition-26-8-1-adding-support-for-radeon-rx-9050/",
-      "domain": "wccftech.com",
-      "category": "Hardware",
-      "summary": "The latest graphics driver will support the newly launched GPU as well as several new upcoming titles. AMD Releases Adrenalin Edition 26.8.1 GPU Driver, Bringing Support for RX 9050 4 GB and Adding Support for Several Games AMD has…",
-      "tags": [
-        "AMD",
-        "Adrenalin Edition 26.7.1",
-        "Adrenalin Edition 26.8.1",
-        "Call of Duty: Modern Warfare 4",
-        "Featured",
-        "GDDR6",
-        "Hardware",
-        "Marvel Rivals",
-        "News",
-        "RDNA 4",
-        "RX 9050",
-        "Resonance: A Plague Tale Legacy",
-        "Software",
-        "Star Wars Zero Company",
-        "Subnautica 2"
-      ],
-      "published_at": "2026-08-20T15:28:55+00:00",
-      "sources": [
-        {
-          "name": "Wccftech",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://wccftech.com/amd-rolls-out-adrenalin-edition-26-8-1-adding-support-for-radeon-rx-9050/"
         }
       ]
     },
@@ -16744,28 +16492,13 @@
       ]
     },
     {
-      "id": "e27c290fc9d80251",
+      "id": "Hugging Face-https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "domain": "huggingface.co",
       "category": "AI / ML",
-      "summary": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without…",
-      "tags": [
-        "AI Infrastructure",
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model",
-        "Large Language Model",
-        "Machine Learning",
-        "New Releases",
-        "Open Source",
-        "Software Engineering",
-        "Tech News",
-        "Technology"
-      ],
+      "summary": "",
+      "tags": [],
       "published_at": "2026-08-20T16:52:57+00:00",
       "sources": [
         {
@@ -16773,12 +16506,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
-        },
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/"
         }
       ]
     },
@@ -18273,254 +18000,6 @@
       ]
     },
     {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81790",
-      "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
-      "url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "S1-mini is a 462 MB open-weights normalizer that sits after ASR, removing fillers and resolving self-corrections locally. The post Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean…",
-      "tags": [
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick",
-        "Language Model",
-        "Large Language Model",
-        "New Releases",
-        "Staff",
-        "TTS",
-        "Tech News",
-        "Technology",
-        "Voice AI"
-      ],
-      "published_at": "2026-08-20T22:23:17+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81780",
-      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
-      "url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR…",
-      "tags": [
-        "AI Shorts",
-        "AI Tool",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Promote",
-        "Sponsored",
-        "Staff",
-        "Tech News",
-        "Technology"
-      ],
-      "published_at": "2026-08-20T19:34:10+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81771",
-      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
-      "url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit the Anthropic HH-RLHF dataset for structural and length-based biases, implement a robust…",
-      "tags": [
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model",
-        "Staff",
-        "Technology",
-        "Tutorials"
-      ],
-      "published_at": "2026-08-20T08:51:38+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81759",
-      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
-      "url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across…",
-      "tags": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "For Devs",
-        "Language Model",
-        "Machine Learning",
-        "New Releases",
-        "Open Source",
-        "Tech News",
-        "Technology"
-      ],
-      "published_at": "2026-08-18T13:29:10+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81753",
-      "title": "Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas",
-      "url": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state space models rather than transformers. It now ranks #1 on both Artificial Analysis speech leaderboards — 1,283 Elo on Provider Voice and 1,123 on Controlled…",
-      "tags": [
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick",
-        "Language Model",
-        "Large Language Model",
-        "New Releases",
-        "Staff",
-        "TTS",
-        "Tech News",
-        "Technology",
-        "Uncategorized",
-        "Voice AI"
-      ],
-      "published_at": "2026-08-18T10:37:49+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81750",
-      "title": "Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots",
-      "url": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open source agent. Bot Mode replaces the single-agent session list with a roster of named bots. Each bot is a real Hermes profile, with its own chat, memory, skills, and…",
-      "tags": [
-        "AI Agents",
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model",
-        "Large Language Model",
-        "New Releases",
-        "Open Source",
-        "Tech News",
-        "Technology"
-      ],
-      "published_at": "2026-08-18T02:05:28+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81745",
-      "title": "ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation",
-      "url": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "ByteDance Seed and Tsinghua AIR have released CUDA Agent, an agentic reinforcement learning system that trains a large language model to write GPU kernels that beat a compiler. The gap it targets is narrow but stubborn: frontier models…",
-      "tags": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "New Releases",
-        "Staff",
-        "Tech News",
-        "Technology"
-      ],
-      "published_at": "2026-08-18T01:10:28+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/"
-        }
-      ]
-    },
-    {
-      "id": "MarkTechPost-https://www.marktechpost.com/?p=81741",
-      "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
-      "url": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
-      "domain": "marktechpost.com",
-      "category": "AI / ML",
-      "summary": "MiniMax released MiniMax-Music3, an open-weights text-to-music model. Given lyrics with section tags and a structured caption, it generates a complete song of up to five minutes in a single pass, as 32 kHz, 16-bit stereo WAV. Here is the…",
-      "tags": [
-        "AI Shorts",
-        "Agentic AI",
-        "Applications",
-        "Artificial Intelligence",
-        "Audio Language Model",
-        "Editors Pick",
-        "Language Model",
-        "Large Language Model",
-        "New Releases",
-        "Open Source",
-        "Staff",
-        "Tech News",
-        "Technology",
-        "Uncategorized"
-      ],
-      "published_at": "2026-08-17T18:36:40+00:00",
-      "sources": [
-        {
-          "name": "MarkTechPost",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/"
-        }
-      ]
-    },
-    {
       "id": "Lil'Log-https://lilianweng.github.io/posts/2026-07-04-harness/",
       "title": "Harness Engineering for Self-Improvement",
       "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
@@ -19947,28 +19426,6 @@
       ]
     },
     {
-      "id": "Space.com-K4XN8gdvKc5gTUyjCfdb5k",
-      "title": "China's Chang'e 7 moon probe will launch this weekend on the most ambitious lunar mission in history",
-      "url": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history",
-      "domain": "space.com",
-      "category": "Science",
-      "summary": "China aims to launch its Chang'e 7 moon mission on Aug. 24 to send a lander, a rover, a hopper and a wide range of science experiments to the lunar south pole.",
-      "tags": [
-        "Astronomy",
-        "Solar System",
-        "The moon"
-      ],
-      "published_at": "2026-08-20T21:00:00+00:00",
-      "sources": [
-        {
-          "name": "Space.com",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history"
-        }
-      ]
-    },
-    {
       "id": "Space.com-PGjSo8HeYg28gNcvPbYGYZ",
       "title": "'Wet Hot American Summer': The raunchy 2000s comedy that was actually about a space station falling to Earth",
       "url": "https://www.space.com/entertainment/space-movies-shows/wet-hot-american-summer-the-raunchy-2000s-teen-movie-that-was-actually-about-a-space-station-falling-to-earth",
@@ -20061,6 +19518,27 @@
       ]
     },
     {
+      "id": "Space.com-wahkRUfzgFDmbBuueuv6x5",
+      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
+      "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
+      "domain": "space.com",
+      "category": "Science",
+      "summary": "On this day in space! Aug. 20, 1977: NASA launched the Voyager 2 spacecraft on a mission to explore the outer planets.",
+      "tags": [
+        "Missions",
+        "Space Exploration"
+      ],
+      "published_at": "2026-08-20T14:00:00+00:00",
+      "sources": [
+        {
+          "name": "Space.com",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets"
+        }
+      ]
+    },
+    {
       "id": "Space.com-mdHJYexepEXA6vQHuV42jQ",
       "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
       "url": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
@@ -20079,27 +19557,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026"
-        }
-      ]
-    },
-    {
-      "id": "Space.com-wahkRUfzgFDmbBuueuv6x5",
-      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
-      "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
-      "domain": "space.com",
-      "category": "Science",
-      "summary": "On this day in space! Aug. 20, 1977: NASA launched the Voyager 2 spacecraft on a mission to explore the outer planets.",
-      "tags": [
-        "Missions",
-        "Space Exploration"
-      ],
-      "published_at": "2026-08-20T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "Space.com",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets"
         }
       ]
     },
@@ -20277,6 +19734,28 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.livescience.com/animals/cats/cats-have-unique-chemical-fingerprints-in-their-pee"
+        }
+      ]
+    },
+    {
+      "id": "Live Science-BKCBsceTTje9fGQ68L5x7Q",
+      "title": "IBM's new 'quantum fridges' are nearly 200 times colder than deep space and could pave the way for fault-tolerant quantum computing",
+      "url": "https://www.livescience.com/technology/quantum/ibms-new-quantum-fridges-are-nearly-200-times-colder-than-deep-space-and-could-pave-the-way-for-fault-tolerant-quantum-computing",
+      "domain": "livescience.com",
+      "category": "Science",
+      "summary": "IBM's new modular cryogenic system links quantum chips to overcome major infrastructure hurdles and pave the way for a powerful system by 2029.",
+      "tags": [
+        "Computing",
+        "Quantum Computing",
+        "Technology"
+      ],
+      "published_at": "2026-08-19T17:15:00+00:00",
+      "sources": [
+        {
+          "name": "Live Science",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.livescience.com/technology/quantum/ibms-new-quantum-fridges-are-nearly-200-times-colder-than-deep-space-and-could-pave-the-way-for-fault-tolerant-quantum-computing"
         }
       ]
     },

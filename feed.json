@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:03:53+00:00",
+  "generated_at": "2026-08-25T23:43:52+00:00",
   "items": [
     {
       "id": "b4c6de3368d7c5f9",
@@ -15,8 +15,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 1038,
-          "comments": 158,
+          "score": 1093,
+          "comments": 164,
           "thread_url": "https://news.ycombinator.com/item?id=49438052"
         },
         {
@@ -28,13 +28,14 @@
       ]
     },
     {
-      "id": "7dd1d620e70fba86",
+      "id": "1a97217bd1ca0ac9",
       "title": "Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "domain": "apple.com",
-      "category": "AI / ML",
+      "category": "Hardware",
       "summary": "Apple Newsroom: Apple today debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities. M6, Apple’s first state-of-the-art 2-nanometer chip, advances every compute…",
       "tags": [
+        "CPUs",
         "Computers",
         "Desktops",
         "Gear",
@@ -44,10 +45,9 @@
         "LocalLLaMA",
         "Mac",
         "Mac Madness",
-        "Mini PCs",
+        "PC Components",
         "Shopping",
         "agentic AI",
-        "ai and ml",
         "apple",
         "chips",
         "mac",
@@ -57,8 +57,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 882,
-          "comments": 828,
+          "score": 909,
+          "comments": 858,
           "thread_url": "https://news.ycombinator.com/item?id=49433292"
         },
         {
@@ -80,57 +80,16 @@
           "thread_url": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/"
         },
         {
-          "name": "The Register",
+          "name": "ZDNet",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.theregister.com/ai-and-ml/2026/08/25/apple-defies-memory-shortage-with-new-mac-minis/5292406"
+          "thread_url": "https://www.zdnet.com/article/mac-mini-mac-studio-new-m6-m5-max-ultra/"
         },
         {
           "name": "Slashdot",
           "score": 0,
           "comments": 0,
           "thread_url": "https://hardware.slashdot.org/story/26/08/25/1553245/apple-announces-new-mac-mini-with-m6-and-m5-pro-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-        },
-        {
-          "name": "Tom's Hardware",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.tomshardware.com/desktops/mini-pcs/apple-price-hikes-continue-as-mac-mini-with-16gb-ram-and-256gb-is-now-usd899-1tb-storage-option-adds-usd500-to-entry-level-headless-system"
-        }
-      ]
-    },
-    {
-      "id": "b055c486f795afcf",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "domain": "apple.com",
-      "category": "Hardware",
-      "summary": "The Mac Studio with the M5 Ultra will feature up to a whopping 512GB of unified memory, and drive up to eight external displays.",
-      "tags": [
-        "CPUs",
-        "LocalLLaMA",
-        "PC Components",
-        "story"
-      ],
-      "published_at": "2026-08-25T13:03:17Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 673,
-          "comments": 411,
-          "thread_url": "https://news.ycombinator.com/item?id=49433316"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/"
-        },
-        {
-          "name": "ZDNet",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.zdnet.com/article/mac-mini-mac-studio-new-m6-m5-max-ultra/"
         },
         {
           "name": "Phoronix",
@@ -149,6 +108,39 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techspot.com/news/113612-apple-built-new-m6-m5-ultra-desktops-people.html"
+        }
+      ]
+    },
+    {
+      "id": "694716f9b1a9d198",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "domain": "apple.com",
+      "category": "Systems",
+      "summary": "I made a mistake in my table earlier today regarding the base price of the M5 Max Mac Studio , but my mistake was because of a rather sneaky design in Apple’s purchasing flow. Apple’s web interface looks like this: Both of the available M5…",
+      "tags": [
+        "LocalLLaMA",
+        "story"
+      ],
+      "published_at": "2026-08-25T13:03:17Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 683,
+          "comments": 419,
+          "thread_url": "https://news.ycombinator.com/item?id=49433316"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/"
+        },
+        {
+          "name": "Daring Fireball",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios"
         }
       ]
     },
@@ -172,8 +164,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 502,
-          "comments": 348,
+          "score": 549,
+          "comments": 383,
           "thread_url": "https://news.ycombinator.com/item?id=49437283"
         },
         {
@@ -185,28 +177,30 @@
       ]
     },
     {
-      "id": "b46ff018ad498114",
+      "id": "f26c878e9cae5ea8",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "domain": "apple.com",
       "category": "Systems",
-      "summary": "I made a mistake in my table earlier today regarding the base price of the M5 Max Mac Studio , but my mistake was because of a rather sneaky design in Apple’s purchasing flow. Apple’s web interface looks like this: Both of the available M5…",
+      "summary": "Apple's Mac mini and Mac Studio see price hikes, while memory and storage upgrades get even more expensive",
       "tags": [
+        "Desktops",
+        "Mini PCs",
         "story"
       ],
       "published_at": "2026-08-25T13:13:00Z",
       "sources": [
         {
           "name": "HN",
-          "score": 401,
-          "comments": 228,
+          "score": 409,
+          "comments": 237,
           "thread_url": "https://news.ycombinator.com/item?id=49433450"
         },
         {
-          "name": "Daring Fireball",
+          "name": "Tom's Hardware",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios"
+          "thread_url": "https://www.tomshardware.com/desktops/mini-pcs/apple-price-hikes-continue-as-mac-mini-with-16gb-ram-and-256gb-is-now-usd899-1tb-storage-option-adds-usd500-to-entry-level-headless-system"
         }
       ]
     },
@@ -224,8 +218,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 388,
-          "comments": 102,
+          "score": 405,
+          "comments": 107,
           "thread_url": "https://news.ycombinator.com/item?id=49437069"
         }
       ]
@@ -244,40 +238,33 @@
       "sources": [
         {
           "name": "HN",
-          "score": 286,
+          "score": 291,
           "comments": 112,
           "thread_url": "https://news.ycombinator.com/item?id=49432319"
         }
       ]
     },
     {
-      "id": "8bb87d13f0c9bcab",
+      "id": "c75d73d8887e9b0e",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "domain": "newsletter.semianalysis.com",
       "category": "Hardware",
-      "summary": "128 chips, 1.7 exaFLOPS, and 27 TB of HBM give Altman and crew a leg up over Blackwell, and maybe even Rubin",
+      "summary": "OpenAI arrived at Hot Chips on Tuesday with benchmarks claiming its first in-house chip beats Nvidia's GB300.",
       "tags": [
         "Engineering",
         "Manufacturing",
         "Semiconductors",
         "Tech Industry",
-        "story",
-        "systems"
+        "story"
       ],
       "published_at": "2026-08-25T07:00:00+00:00",
       "sources": [
         {
           "name": "HN",
-          "score": 260,
-          "comments": 175,
+          "score": 276,
+          "comments": 188,
           "thread_url": "https://news.ycombinator.com/item?id=49434378"
-        },
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052"
         },
         {
           "name": "Tom's Hardware",
@@ -307,8 +294,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 240,
-          "comments": 132,
+          "score": 245,
+          "comments": 134,
           "thread_url": "https://news.ycombinator.com/item?id=49434820"
         }
       ]
@@ -327,8 +314,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 232,
-          "comments": 171,
+          "score": 243,
+          "comments": 178,
           "thread_url": "https://news.ycombinator.com/item?id=49434645"
         }
       ]
@@ -350,8 +337,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 232,
-          "comments": 50,
+          "score": 242,
+          "comments": 55,
           "thread_url": "https://news.ycombinator.com/item?id=49437946"
         },
         {
@@ -365,26 +352,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/"
-        }
-      ]
-    },
-    {
-      "id": "HN-49436822",
-      "title": "Starbase, LA",
-      "url": "https://www.spacex.com/sites/starbase-la",
-      "domain": "spacex.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-25T16:37:52Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 194,
-          "comments": 338,
-          "thread_url": "https://news.ycombinator.com/item?id=49436822"
         }
       ]
     },
@@ -403,8 +370,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 190,
-          "comments": 117,
+          "score": 213,
+          "comments": 125,
           "thread_url": "https://news.ycombinator.com/item?id=49439017"
         },
         {
@@ -412,6 +379,26 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://science.slashdot.org/story/26/08/25/210214/fda-approves-first-wearable-device-to-monitor-glucose-ketone-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+        }
+      ]
+    },
+    {
+      "id": "HN-49436822",
+      "title": "Starbase, LA",
+      "url": "https://www.spacex.com/sites/starbase-la",
+      "domain": "spacex.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-25T16:37:52Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 200,
+          "comments": 361,
+          "thread_url": "https://news.ycombinator.com/item?id=49436822"
         }
       ]
     },
@@ -429,9 +416,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 157,
-          "comments": 114,
+          "score": 163,
+          "comments": 119,
           "thread_url": "https://news.ycombinator.com/item?id=49437210"
+        }
+      ]
+    },
+    {
+      "id": "HN-49440786",
+      "title": "XCancel also down, at least for time being",
+      "url": "https://news.ycombinator.com/item?id=49440786",
+      "domain": "news.ycombinator.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-25T21:18:23Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 139,
+          "comments": 45,
+          "thread_url": "https://news.ycombinator.com/item?id=49440786"
         }
       ]
     },
@@ -451,8 +458,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 100,
-          "comments": 41,
+          "score": 108,
+          "comments": 48,
           "thread_url": "https://news.ycombinator.com/item?id=49437483"
         },
         {
@@ -477,8 +484,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 96,
-          "comments": 18,
+          "score": 104,
+          "comments": 19,
           "thread_url": "https://news.ycombinator.com/item?id=49436786"
         }
       ]
@@ -497,49 +504,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 90,
+          "score": 94,
           "comments": 30,
           "thread_url": "https://news.ycombinator.com/item?id=49437049"
-        }
-      ]
-    },
-    {
-      "id": "HN-49435675",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "domain": "github.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-25T15:20:20Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 80,
-          "comments": 16,
-          "thread_url": "https://news.ycombinator.com/item?id=49435675"
-        }
-      ]
-    },
-    {
-      "id": "HN-49440786",
-      "title": "XCancel also down, at least for time being",
-      "url": "https://news.ycombinator.com/item?id=49440786",
-      "domain": "news.ycombinator.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-25T21:18:23Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 75,
-          "comments": 7,
-          "thread_url": "https://news.ycombinator.com/item?id=49440786"
         }
       ]
     },
@@ -557,9 +524,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 66,
-          "comments": 18,
+          "score": 92,
+          "comments": 36,
           "thread_url": "https://news.ycombinator.com/item?id=49441033"
+        }
+      ]
+    },
+    {
+      "id": "HN-49435675",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "domain": "github.com",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-25T15:20:20Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 81,
+          "comments": 15,
+          "thread_url": "https://news.ycombinator.com/item?id=49435675"
         }
       ]
     },
@@ -577,8 +564,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 66,
-          "comments": 14,
+          "score": 71,
+          "comments": 15,
           "thread_url": "https://news.ycombinator.com/item?id=49423878"
         }
       ]
@@ -597,8 +584,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 61,
-          "comments": 61,
+          "score": 64,
+          "comments": 69,
           "thread_url": "https://news.ycombinator.com/item?id=49423045"
         }
       ]
@@ -620,8 +607,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 51,
-          "comments": 14,
+          "score": 57,
+          "comments": 19,
           "thread_url": "https://news.ycombinator.com/item?id=49439499"
         },
         {
@@ -629,26 +616,6 @@
           "score": 27,
           "comments": 4,
           "thread_url": "https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with"
-        }
-      ]
-    },
-    {
-      "id": "HN-49436706",
-      "title": "Fuzzing the Gleam Compiler",
-      "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-      "domain": "kurz.net",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-25T16:30:55Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 46,
-          "comments": 4,
-          "thread_url": "https://news.ycombinator.com/item?id=49436706"
         }
       ]
     },
@@ -666,8 +633,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 33,
-          "comments": 17,
+          "score": 35,
+          "comments": 21,
           "thread_url": "https://news.ycombinator.com/item?id=49440410"
         }
       ]
@@ -686,29 +653,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 24,
-          "comments": 13,
+          "score": 27,
+          "comments": 14,
           "thread_url": "https://news.ycombinator.com/item?id=49435641"
-        }
-      ]
-    },
-    {
-      "id": "HN-49439296",
-      "title": "A brief history of federal lift ticket regulation",
-      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-      "domain": "zakpodmore.substack.com",
-      "category": "Business",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-08-25T19:25:43Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 10,
-          "comments": 0,
-          "thread_url": "https://news.ycombinator.com/item?id=49439296"
         }
       ]
     },
@@ -726,9 +673,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 8,
-          "comments": 2,
+          "score": 25,
+          "comments": 5,
           "thread_url": "https://news.ycombinator.com/item?id=49441375"
+        }
+      ]
+    },
+    {
+      "id": "HN-49439296",
+      "title": "A brief history of federal lift ticket regulation",
+      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+      "domain": "zakpodmore.substack.com",
+      "category": "Business",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-08-25T19:25:43Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 14,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=49439296"
         }
       ]
     },
@@ -746,8 +713,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 6,
-          "comments": 1,
+          "score": 10,
+          "comments": 3,
           "thread_url": "https://news.ycombinator.com/item?id=49430259"
         }
       ]
@@ -791,8 +758,8 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 57,
-          "comments": 15,
+          "score": 59,
+          "comments": 16,
           "thread_url": "https://lobste.rs/s/e1oalq/move_python_3_begins"
         },
         {
@@ -823,7 +790,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 64,
+          "score": 68,
           "comments": 12,
           "thread_url": "https://lobste.rs/s/gizvfn/i_stabilized_never_type"
         }
@@ -863,7 +830,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 222,
+          "score": 223,
           "comments": 90,
           "thread_url": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout"
         }
@@ -924,7 +891,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 26,
+          "score": 25,
           "comments": 2,
           "thread_url": "https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine"
         }
@@ -945,7 +912,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 15,
+          "score": 16,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/apjhyj/hunting_down_go_runtime_bug_on_32_bit"
         }
@@ -965,7 +932,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 17,
+          "score": 18,
           "comments": 24,
           "thread_url": "https://lobste.rs/s/k5feqe/solving_1_n_query_problem"
         }
@@ -1043,6 +1010,34 @@
       ]
     },
     {
+      "id": "a8cb6bbd7d7462bc",
+      "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "domain": "pointersgonewild.com",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "performance",
+        "rust",
+        "vibecoding"
+      ],
+      "published_at": "2026-08-25T09:40:28.025-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 6,
+          "comments": 1,
+          "thread_url": "https://lobste.rs/s/gyi8v8/replacing_rust_enum_with_64_bit_word_made"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/rust/comments/1vy272n/replacing_a_rust_enum_with_a_64bit_word_made_my/"
+        }
+      ]
+    },
+    {
       "id": "e6d29dd370b27786",
       "title": "maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more",
       "url": "https://github.com/runetes/maiao",
@@ -1076,6 +1071,27 @@
       ]
     },
     {
+      "id": "lobste.rs-qc6pjd",
+      "title": "AI At Home Part 2: Multi GPU Drifting",
+      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "domain": "jdagostino.github.io",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "ai",
+        "linux"
+      ],
+      "published_at": "2026-08-25T13:20:38.747-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 6,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting"
+        }
+      ]
+    },
+    {
       "id": "lobste.rs-useg7x",
       "title": "The XY Problem",
       "url": "https://xyproblem.info/",
@@ -1090,36 +1106,8 @@
         {
           "name": "lobste.rs",
           "score": 5,
-          "comments": 8,
+          "comments": 9,
           "thread_url": "https://lobste.rs/s/useg7x/xy_problem"
-        }
-      ]
-    },
-    {
-      "id": "a8cb6bbd7d7462bc",
-      "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster",
-      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "domain": "pointersgonewild.com",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "performance",
-        "rust",
-        "vibecoding"
-      ],
-      "published_at": "2026-08-25T09:40:28.025-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 6,
-          "comments": 1,
-          "thread_url": "https://lobste.rs/s/gyi8v8/replacing_rust_enum_with_64_bit_word_made"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/rust/comments/1vy272n/replacing_a_rust_enum_with_a_64bit_word_made_my/"
         }
       ]
     },
@@ -1186,43 +1174,22 @@
       ]
     },
     {
-      "id": "lobste.rs-qc6pjd",
-      "title": "AI At Home Part 2: Multi GPU Drifting",
-      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-      "domain": "jdagostino.github.io",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "ai",
-        "linux"
-      ],
-      "published_at": "2026-08-25T13:20:38.747-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 5,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-vr7u5k",
-      "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep",
-      "url": "https://beyondgrep.com/feature-comparison/",
-      "domain": "beyondgrep.com",
+      "id": "lobste.rs-b15udy",
+      "title": "Another look at SQLite's WAL-Reset bug",
+      "url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
+      "domain": "theconsensus.dev",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "linux"
+        "databases"
       ],
-      "published_at": "2026-08-25T09:49:30.800-05:00",
+      "published_at": "2026-08-25T05:46:18.571-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 6,
+          "score": 10,
           "comments": 1,
-          "thread_url": "https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep"
+          "thread_url": "https://lobste.rs/s/b15udy/another_look_at_sqlite_s_wal_reset_bug"
         }
       ]
     },
@@ -1254,22 +1221,22 @@
       ]
     },
     {
-      "id": "lobste.rs-b15udy",
-      "title": "Another look at SQLite's WAL-Reset bug",
-      "url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
-      "domain": "theconsensus.dev",
+      "id": "lobste.rs-vr7u5k",
+      "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep",
+      "url": "https://beyondgrep.com/feature-comparison/",
+      "domain": "beyondgrep.com",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "databases"
+        "linux"
       ],
-      "published_at": "2026-08-25T05:46:18.571-05:00",
+      "published_at": "2026-08-25T09:49:30.800-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 9,
+          "score": 6,
           "comments": 1,
-          "thread_url": "https://lobste.rs/s/b15udy/another_look_at_sqlite_s_wal_reset_bug"
+          "thread_url": "https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep"
         }
       ]
     },
@@ -1611,16 +1578,16 @@
       ]
     },
     {
-      "id": "0321745b7b60348d",
-      "title": "Workplace social media reduces staff turnover, study finds",
-      "url": "https://phys.org/news/2026-08-workplace-social-media-staff-turnover.html",
-      "domain": "phys.org",
-      "category": "Science",
+      "id": "6148630e20b16ecf",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "domain": "arstechnica.com",
+      "category": "AI / ML",
       "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
       "tags": [
         "AI",
-        "Economics & Business",
         "Health",
+        "Social Sciences",
         "Viruses, Infections &amp; Disease",
         "ai",
         "economy",
@@ -1648,7 +1615,7 @@
           "name": "Phys.org",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-workplace-social-media-staff-turnover.html"
+          "thread_url": "https://phys.org/news/2026-08-animation-boosts-willingness-airborne-disease.html"
         },
         {
           "name": "Live Science",
@@ -2048,18 +2015,17 @@
       ]
     },
     {
-      "id": "1a3180822143e557",
-      "title": "Claude and Cowork now share what they know about you",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412",
-      "domain": "theregister.com",
+      "id": "b1b922236a39647a",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "domain": "techcrunch.com",
       "category": "AI / ML",
       "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
       "tags": [
         "AI",
         "Anthropic",
         "Apps",
-        "Claude",
-        "ai and ml"
+        "Claude"
       ],
       "published_at": "2026-08-25T17:00:00+00:00",
       "sources": [
@@ -2068,18 +2034,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
-        },
-        {
-          "name": "Engadget",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions/"
-        },
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412"
         },
         {
           "name": "ZDNet",
@@ -2568,6 +2522,32 @@
       ]
     },
     {
+      "id": "1f386f35f6278890",
+      "title": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
+      "url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+      "domain": "engadget.com",
+      "category": "Systems",
+      "summary": "The head of Instagram is the first high-profile exec to testify in the latest social media addiction trial.",
+      "tags": [
+        "Meta"
+      ],
+      "published_at": "2026-08-25T23:08:06+00:00",
+      "sources": [
+        {
+          "name": "Engadget",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/"
+        },
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260825/p45#a260825p45"
+        }
+      ]
+    },
+    {
       "id": "Engadget-https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
       "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
       "url": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
@@ -2756,200 +2736,6 @@
       ]
     },
     {
-      "id": "d946b76bd8b95019",
-      "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
-      "domain": "theregister.com",
-      "category": "AI / ML",
-      "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
-      "tags": [
-        "DataDecisionMakers",
-        "Orchestration",
-        "ai and ml"
-      ],
-      "published_at": "2026-08-23T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388"
-        },
-        {
-          "name": "VentureBeat",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them"
-        }
-      ]
-    },
-    {
-      "id": "8fdd190d6ace7ca7",
-      "title": "EPA to drop requirement for public notice of polluting datacenters",
-      "url": "https://www.theregister.com/on-prem/2026/08/25/epa-to-drop-requirement-for-public-notice-of-polluting-datacenters/5292341",
-      "domain": "theregister.com",
-      "category": "Hardware",
-      "summary": "State and local regulators would decide whether the public gets a say on minor-source permits",
-      "tags": [
-        "on-prem"
-      ],
-      "published_at": "2026-08-25T16:40:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/on-prem/2026/08/25/epa-to-drop-requirement-for-public-notice-of-polluting-datacenters/5292341"
-        },
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260825/p35#a260825p35"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5292335",
-      "title": "You could've applied all 1,449 Oracle patches and still been hit by this attack",
-      "url": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335",
-      "domain": "theregister.com",
-      "category": "Security",
-      "summary": "Attackers now ready to exploit how things work, rather than just break them, says Oracle support expert",
-      "tags": [
-        "security"
-      ],
-      "published_at": "2026-08-25T16:09:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5292316",
-      "title": "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
-      "url": "https://www.theregister.com/software/2026/08/25/microsoft-warns-that-transitioning-excel-workbooks-to-new-exchange-connectors-might-not-be-smooth-sailing/5292316",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "Current Exchange connector is retiring - and new ones won't work if you don't upgrade",
-      "tags": [
-        "software"
-      ],
-      "published_at": "2026-08-25T15:53:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/software/2026/08/25/microsoft-warns-that-transitioning-excel-workbooks-to-new-exchange-connectors-might-not-be-smooth-sailing/5292316"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5292297",
-      "title": "Slop factory bans Russians for using slop factory to create slop",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297",
-      "domain": "theregister.com",
-      "category": "AI / ML",
-      "summary": "OpenAI wants you to thank it for keeping a permanent record of all your discussions with its bots",
-      "tags": [
-        "ai and ml"
-      ],
-      "published_at": "2026-08-25T15:15:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5292291",
-      "title": "US convicts ex-Philips engineer for exposing X-ray secrets to competitor",
-      "url": "https://www.theregister.com/legal/2026/08/25/us-convicts-ex-philips-engineer-for-exposing-x-ray-secrets-to-competitor/5292291",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "Dutch electronics giant saw right through ex-engineer’s plot, albeit over a year after it all unravelled",
-      "tags": [
-        "legal"
-      ],
-      "published_at": "2026-08-25T14:43:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/legal/2026/08/25/us-convicts-ex-philips-engineer-for-exposing-x-ray-secrets-to-competitor/5292291"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5292240",
-      "title": "Windows XP was released to manufacturing a quarter of a century ago",
-      "url": "https://www.theregister.com/offbeat/2026/08/25/windows-xp-was-released-to-manufacturing-a-quarter-of-a-century-ago/5292240",
-      "domain": "theregister.com",
-      "category": "Dev Tools",
-      "summary": "So incredibly stable, govt branches, banks, and dentist offices still haven't figured out how to close it",
-      "tags": [
-        "offbeat"
-      ],
-      "published_at": "2026-08-25T13:27:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/offbeat/2026/08/25/windows-xp-was-released-to-manufacturing-a-quarter-of-a-century-ago/5292240"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5292136",
-      "title": "SiFive pushes development server to take RISC-V into the datacenter",
-      "url": "https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136",
-      "domain": "theregister.com",
-      "category": "Hardware",
-      "summary": "Rack-mount system intended for software porting, workload optimization, to bring open standard to the bitbarn",
-      "tags": [
-        "systems"
-      ],
-      "published_at": "2026-08-25T12:13:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136"
-        }
-      ]
-    },
-    {
-      "id": "The Register-https://www.theregister.com/a/5292116",
-      "title": "Microsoft breaks WPF printing with .NET update",
-      "url": "https://www.theregister.com/os-platforms/2026/08/25/microsoft-breaks-wpf-printing-with-net-update/5292116",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "Summer in Redmond, Winter for everyone else",
-      "tags": [
-        "os platforms"
-      ],
-      "published_at": "2026-08-25T11:27:00+00:00",
-      "sources": [
-        {
-          "name": "The Register",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.theregister.com/os-platforms/2026/08/25/microsoft-breaks-wpf-printing-with-net-update/5292116"
-        }
-      ]
-    },
-    {
       "id": "ZDNet-43c6f14a-dc05-4b82-882c-9d8f0d05ff8f",
       "title": "Universal adapter vs. travel charger: Confused? Here's the device you need most",
       "url": "https://www.zdnet.com/article/universal-travel-adapter-vs-travel-ready-charger-whats-the-difference/",
@@ -3072,6 +2858,27 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.zdnet.com/article/fydeos-chromeos-clone-revive-aging-pc/"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-CVnTrdNUXM4DmLAZbqPS4G",
+      "title": "'The right approach is for people to deeply control the future': OpenAI CEO Sam Altman is worried about AI being controlled by just a few powerful players",
+      "url": "https://www.techradar.com/pro/the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-worried-about-ai-being-controlled-by-just-a-few-powerful-players",
+      "domain": "techradar.com",
+      "category": "AI / ML",
+      "summary": "Sam Altman has expressed concerns that large companies with AI interests are determining the direction the technology takes, rather than society",
+      "tags": [
+        "AI Platforms &amp; Assistants",
+        "Pro"
+      ],
+      "published_at": "2026-08-25T23:15:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/pro/the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-worried-about-ai-being-controlled-by-just-a-few-powerful-players"
         }
       ]
     },
@@ -3240,26 +3047,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://wccftech.com/paradox-interactive-announces-afterworld-post-apocalyptic-grand-strategy-at-gamescom/"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-vWCt3YnPVw35xVvVQKAhy8",
-      "title": "Why 0s and 1s aren't enough — 3-part biological memory model exposes limits of AI silicon",
-      "url": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
-      "domain": "techradar.com",
-      "category": "AI / ML",
-      "summary": "Researchers propose that memory depends on neurons, astrocytes, surrounding molecules, and chemical signals, challenging purely electronic explanations of cognition.",
-      "tags": [
-        "Pro"
-      ],
-      "published_at": "2026-08-25T18:40:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon"
         }
       ]
     },
@@ -3491,6 +3278,27 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted"
+        }
+      ]
+    },
+    {
+      "id": "VentureBeat-2znePv9XlFXwfla86XQI2g",
+      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "domain": "venturebeat.com",
+      "category": "Business",
+      "summary": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this…",
+      "tags": [
+        "DataDecisionMakers",
+        "Orchestration"
+      ],
+      "published_at": "2026-08-23T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "VentureBeat",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them"
         }
       ]
     },
@@ -4377,6 +4185,24 @@
       ]
     },
     {
+      "id": "Techmeme-https://www.techmeme.com/260825/p35#a260825p35",
+      "title": "The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers (Maxine Joselow/New York Times)",
+      "url": "https://www.techmeme.com/260825/p35#a260825p35",
+      "domain": "techmeme.com",
+      "category": "Hardware",
+      "summary": "Maxine Joselow / New York Times : The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers — Under the proposal, states would no longer need to…",
+      "tags": [],
+      "published_at": "2026-08-25T16:40:02+00:00",
+      "sources": [
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260825/p35#a260825p35"
+        }
+      ]
+    },
+    {
       "id": "Techmeme-https://www.techmeme.com/260825/p34#a260825p34",
       "title": "Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others (Corbin Bolies/Variety)",
       "url": "https://www.techmeme.com/260825/p34#a260825p34",
@@ -4391,24 +4217,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techmeme.com/260825/p34#a260825p34"
-        }
-      ]
-    },
-    {
-      "id": "Techmeme-https://www.techmeme.com/260825/p33#a260825p33",
-      "title": "Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX's $28.5T; Uber predicted $6T in 2019 (Corrie Driebusch/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260825/p33#a260825p33",
-      "domain": "techmeme.com",
-      "category": "Business",
-      "summary": "Corrie Driebusch / Wall Street Journal : Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX's $28.5T; Uber predicted $6T in 2019 — The AI startup is likely to top…",
-      "tags": [],
-      "published_at": "2026-08-25T16:05:25+00:00",
-      "sources": [
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260825/p33#a260825p33"
         }
       ]
     },
@@ -7415,44 +7223,8 @@
       ]
     },
     {
-      "id": "Dan Luu-https://danluu.com/perf-opt/",
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "domain": "danluu.com",
-      "category": "Dev Tools",
-      "summary": "The other day, I saw a viral tweet saying that people talking about how LLMs are causing slow, bloated, code are going to eat crow once they re-write everything in super-optimized assembly. We're not quite at the point where we want to…",
-      "tags": [],
-      "published_at": "2026-08-21T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Dan Luu",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://danluu.com/perf-opt/"
-        }
-      ]
-    },
-    {
-      "id": "Dan Luu-https://danluu.com/benchpocalypse/",
-      "title": "The benchmarkpocalypse",
-      "url": "https://danluu.com/benchpocalypse/",
-      "domain": "danluu.com",
-      "category": "Dev Tools",
-      "summary": "There's been a lot of talk about the vulnpocalypse, to which I don't have much to add because I'm not a security person, but I haven't seen much discussion on the closely related (and to be fair, less serious, issue), the…",
-      "tags": [],
-      "published_at": "2026-08-17T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Dan Luu",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://danluu.com/benchpocalypse/"
-        }
-      ]
-    },
-    {
       "id": "Dan Luu-https://danluu.com/pl-tokens/",
-      "title": "How does programming language affect token efficiency and correctness?",
+      "title": "What's the best programming language for coding agents?",
       "url": "https://danluu.com/pl-tokens/",
       "domain": "danluu.com",
       "category": "Dev Tools",
@@ -7474,7 +7246,7 @@
       "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
       "domain": "newsletter.pragmaticengineer.com",
       "category": "Systems",
-      "summary": "We're going to look at three different kinds of benchmarks, one set of calculations for baseline numbers for performance \"napkin math\" estimates, one set of AI model evals, and one on car tires. To build my intuition for things, I like…",
+      "summary": "This is part of a series of exercises on benchmarking, evals, and experimental design ( 1 , 2 , 3 , 4 , 5 , 6 ) 1 . We're going to look at three questions, which are presented before the answers to give you time to think about the…",
       "tags": [],
       "published_at": "2026-07-21T16:52:07+00:00",
       "sources": [
@@ -9444,6 +9216,28 @@
       ]
     },
     {
+      "id": "Google Cloud-https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
+      "title": "Empowering autonomous agents with advanced security governance",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
+      "domain": "cloud.google.com",
+      "category": "AI / ML",
+      "summary": "AI agents are the ultimate insiders. We grant them permission to read emails, query databases, and trigger API calls. They don’t just retrieve information, they take action. Agents offer incredible potential for increased productivity and…",
+      "tags": [
+        "AI infrastructure",
+        "Security & Identity",
+        "State of AI infrastructure report"
+      ],
+      "published_at": "2026-08-24T16:00:00+00:00",
+      "sources": [
+        {
+          "name": "Google Cloud",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/"
+        }
+      ]
+    },
+    {
       "id": "Google Cloud-https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
       "title": "New AI-powered quick assessments in Migration Center turbocharge modernization",
       "url": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
@@ -9463,28 +9257,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/"
-        }
-      ]
-    },
-    {
-      "id": "Google Cloud-https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
-      "title": "Empowering autonomous agents with advanced security governance",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
-      "domain": "cloud.google.com",
-      "category": "AI / ML",
-      "summary": "AI agents are the ultimate insiders. We grant them permission to read emails, query databases, and trigger API calls. They don’t just retrieve information, they take action. Agents offer incredible potential for increased productivity and…",
-      "tags": [
-        "AI infrastructure",
-        "Security & Identity",
-        "State of AI infrastructure report"
-      ],
-      "published_at": "2026-08-24T16:00:00+00:00",
-      "sources": [
-        {
-          "name": "Google Cloud",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/"
         }
       ]
     },
@@ -11820,7 +11592,7 @@
       ]
     },
     {
-      "id": "35608fceb4767553",
+      "id": "e2907c41161e35f9",
       "title": "Hot Chips 2026: Intel’s Diamond Rapids",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids",
       "domain": "chipsandcheese.com",
@@ -11828,11 +11600,12 @@
       "summary": "Samsung detailed the industry's first LPDDR5X-PIM at Hot Chips 2026, adding logic directly to memory to speed up data-intensive workloads like AI inference.",
       "tags": [
         "AI",
-        "Cerebras",
         "DRAM",
         "Hot Chips 2026",
+        "Maia",
         "PC Components",
-        "RAM"
+        "RAM",
+        "microsoft"
       ],
       "published_at": "2026-08-25T06:20:03+00:00",
       "sources": [
@@ -11846,7 +11619,7 @@
           "name": "ServeTheHome",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.servethehome.com/cerebras-talks-going-rack-scale-with-their-wses-at-hot-chips-2026/"
+          "thread_url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/"
         },
         {
           "name": "Chips and Cheese",
@@ -11944,7 +11717,7 @@
       ]
     },
     {
-      "id": "6e561f0e713e8c86",
+      "id": "823bbe866626aeac",
       "title": "Hot Chips 2026: CUDA Targets RISC-V",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
       "domain": "chipsandcheese.com",
@@ -11952,12 +11725,9 @@
       "summary": "At Hot Chips 2026, Intel detailed more about its Crescent Island AI accelerator, which uses the Xe3P architecture. The accelerator will use liquid-cooled chips and HBM4 memory to serve inference workloads in data centers.",
       "tags": [
         "AI",
-        "Accelerators",
+        "Cerebras",
         "GPUs",
-        "Groq",
         "Hot Chips 2026",
-        "LPU",
-        "NVIDIA",
         "PC Components"
       ],
       "published_at": "2026-08-24T16:49:25+00:00",
@@ -11972,7 +11742,7 @@
           "name": "ServeTheHome",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.servethehome.com/nvidias-groq-3-lpu-accelerators-for-heterogeneous-ai-compute-at-hot-chips-2026/"
+          "thread_url": "https://www.servethehome.com/cerebras-talks-going-rack-scale-with-their-wses-at-hot-chips-2026/"
         },
         {
           "name": "Chips and Cheese",
@@ -12024,9 +11794,40 @@
       ]
     },
     {
-      "id": "68516e2035c065cb",
+      "id": "f4f2f757e7d89434",
       "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+      "domain": "chipsandcheese.com",
+      "category": "Hardware",
+      "summary": "The newest member of NVIDIA's AI hardware family, at Hot Chips 2026 NVIDIA is diving into the use of LPUs as part of Vera Rubin clusters. The specialized chips from acquihire Groq are being tapped to offer significantly lower latency in…",
+      "tags": [
+        "AI",
+        "Accelerators",
+        "Groq",
+        "Hot Chips 2026",
+        "LPU",
+        "NVIDIA"
+      ],
+      "published_at": "2026-08-23T22:51:05+00:00",
+      "sources": [
+        {
+          "name": "ServeTheHome",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.servethehome.com/nvidias-groq-3-lpu-accelerators-for-heterogeneous-ai-compute-at-hot-chips-2026/"
+        },
+        {
+          "name": "Chips and Cheese",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth"
+        }
+      ]
+    },
+    {
+      "id": "81553d7e68131c42",
+      "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
       "domain": "chipsandcheese.com",
       "category": "Hardware",
       "summary": "At Hot Chips 2026, NVIDIA showed how Spectrum-X and a multiplane network is its vision for AI Factory networks The post NVIDIA Spectrum-X Ethernet Multiplane Network Architecture at Hot Chips 2026 appeared first on ServeTheHome .",
@@ -12036,7 +11837,7 @@
         "Networking",
         "Spectrum-X"
       ],
-      "published_at": "2026-08-23T22:51:05+00:00",
+      "published_at": "2026-08-23T19:01:23+00:00",
       "sources": [
         {
           "name": "ServeTheHome",
@@ -12048,12 +11849,12 @@
           "name": "Chips and Cheese",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth"
+          "thread_url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base"
         }
       ]
     },
     {
-      "id": "d82a9b9d7013db0e",
+      "id": "ServeTheHome-https://www.servethehome.com/?p=104122",
       "title": "NVIDIA BlueField-4 DPU at Hot Chips 2026",
       "url": "https://www.servethehome.com/nvidia-bluefield-4-processor-at-hot-chips-2026/",
       "domain": "servethehome.com",
@@ -12065,43 +11866,13 @@
         "NVIDIA",
         "Networking"
       ],
-      "published_at": "2026-08-23T19:01:23+00:00",
+      "published_at": "2026-08-25T18:48:08+00:00",
       "sources": [
         {
           "name": "ServeTheHome",
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.servethehome.com/nvidia-bluefield-4-processor-at-hot-chips-2026/"
-        },
-        {
-          "name": "Chips and Cheese",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base"
-        }
-      ]
-    },
-    {
-      "id": "ServeTheHome-https://www.servethehome.com/?p=104097",
-      "title": "Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026",
-      "url": "https://www.servethehome.com/broadcom-thor-ultra-ethernet-nic-at-hot-chips-2026/",
-      "domain": "servethehome.com",
-      "category": "Hardware",
-      "summary": "At Hot Chips 2026, we got a lot of detail on how the Broadcom Thor Ultra 800GbE NIC works and some of the performance views The post Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026 appeared first on ServeTheHome .",
-      "tags": [
-        "Broadcom",
-        "Networking",
-        "Thor",
-        "Ultra Ethernet",
-        "UltraEthernet"
-      ],
-      "published_at": "2026-08-25T18:18:32+00:00",
-      "sources": [
-        {
-          "name": "ServeTheHome",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.servethehome.com/broadcom-thor-ultra-ethernet-nic-at-hot-chips-2026/"
         }
       ]
     },
@@ -13054,6 +12825,30 @@
       ]
     },
     {
+      "id": "Wccftech-https://wccftech.com/?p=1741758",
+      "title": "One Crucial 4TB SSD Customer Stands Ground And Refuses Lousy $200 Refund Offered By Company; Perseverance Finally Results In A “Direct 1:1 Replacement”",
+      "url": "https://wccftech.com/crucial-4tb-ssd-customer-refuses-200-dollar-refund-gets-replacement/",
+      "domain": "wccftech.com",
+      "category": "Hardware",
+      "summary": "As Micron has made plans to exit the consumer SSD and RAM business, its Crucial brand is expected to fade into oblivion, meaning that customers will be left high and dry when seeking warranty replacements for their solid-state drives. One…",
+      "tags": [
+        "Crucial",
+        "Featured",
+        "Hardware",
+        "News",
+        "SSD"
+      ],
+      "published_at": "2026-08-25T23:27:24+00:00",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://wccftech.com/crucial-4tb-ssd-customer-refuses-200-dollar-refund-gets-replacement/"
+        }
+      ]
+    },
+    {
       "id": "Wccftech-https://wccftech.com/?p=1741710",
       "title": "Cerebras CS-4 Delivers A 30x Uplift In AI This Year, But Next-Gen Racks Already In Works With CS-5 Pumping Out 10K TPS Per User In 2027 & CS-6 Bringing 3D Wafer-Scale SRAM",
       "url": "https://wccftech.com/cerebras-cs-4-30x-uplift-ai-2026-next-gen-rack-solutions-cs-5-10k-tps-2027-cs-6-3d-wafer-scale-sram/",
@@ -13256,34 +13051,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://wccftech.com/netease-ananta-sea-of-remnants-gamescom-2026-progression/"
-        }
-      ]
-    },
-    {
-      "id": "Wccftech-https://wccftech.com/?p=1741609",
-      "title": "OpenAI’s First-Gen Jalapeno ASIC Blows Competition Out Of The Park, Performs 1.5x to 1.9x More Work Per Kilowatt Than NVIDIA’s Blackwell Chips, While Threatening The CUDA Moat",
-      "url": "https://wccftech.com/openais-first-gen-jalapeno-asic-blows-competition-out-of-the-park-performs-1-5x-to-1-9x-more-work-per-kilowatt-than-nvidias-blackwell-chips-while-threatening-the-cuda-moat/",
-      "domain": "wccftech.com",
-      "category": "Hardware",
-      "summary": "OpenAI seems to have used its current spate of models that run on NVIDIA GPUs to design the Jalapeno chip, and then paired it with its own Gluon kernel programming language, thereby daring to threaten NVIDIA's legendary CUDA moat. How the…",
-      "tags": [
-        "AI",
-        "ASIC",
-        "Featured",
-        "Hardware",
-        "Jalapeno",
-        "News",
-        "Nvidia",
-        "OpenAI",
-        "inference"
-      ],
-      "published_at": "2026-08-25T17:04:47+00:00",
-      "sources": [
-        {
-          "name": "Wccftech",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://wccftech.com/openais-first-gen-jalapeno-asic-blows-competition-out-of-the-park-performs-1-5x-to-1-9x-more-work-per-kilowatt-than-nvidias-blackwell-chips-while-threatening-the-cuda-moat/"
         }
       ]
     },
@@ -19277,6 +19044,86 @@
       ]
     },
     {
+      "id": "Phys.org-news706889575",
+      "title": "Bright people know more about wine: How higher intelligence is reflected in deep domain knowledge",
+      "url": "https://phys.org/news/2026-08-bright-people-wine-higher-intelligence.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Intelligent people tend to perform better at school and at work, as numerous studies have shown. But what happens in domains where incentives such as good grades or financial rewards don't apply and where socioeconomic status is not a…",
+      "tags": [
+        "Social Sciences"
+      ],
+      "published_at": "2026-08-25T23:40:03+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-bright-people-wine-higher-intelligence.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706896542",
+      "title": "Four ζ-carotene isomers reveal light-driven shifts and skin-protective potential",
+      "url": "https://phys.org/news/2026-08-carotene-isomers-reveal-driven-shifts.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "ζ-Carotene, a key intermediate in lycopene biosynthesis, is widely found in plants and photosynthetic microorganisms, but its isomer-specific properties remain poorly understood due to isolation and purification challenges. Researchers…",
+      "tags": [
+        "Biochemistry"
+      ],
+      "published_at": "2026-08-25T23:20:03+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-carotene-isomers-reveal-driven-shifts.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706888682",
+      "title": "A near extinct plant in Galápagos is now recovering",
+      "url": "https://phys.org/news/2026-08-extinct-galpagos-recovering.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "A 30-year conservation effort has helped the critically endangered Galápagos snapdragon (Galvezia leucantha subsp. leucantha) recover from just six individuals to a small, carefully tended wild population. Following tireless conservation…",
+      "tags": [
+        "Plants & Animals"
+      ],
+      "published_at": "2026-08-25T23:20:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-extinct-galpagos-recovering.html"
+        }
+      ]
+    },
+    {
+      "id": "Phys.org-news706808402",
+      "title": "Porpoise entanglement recorded in real time, revealing calls and escape attempts",
+      "url": "https://phys.org/news/2026-08-porpoise-entanglement-real-revealing.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Researchers at the University of St Andrews have gained unprecedented insight into marine mammal behavior when they become tangled in fishing nets. In a paper published Aug. 26 in Royal Society Open Science, researchers from the Sea Mammal…",
+      "tags": [
+        "Plants & Animals"
+      ],
+      "published_at": "2026-08-25T23:10:01+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-porpoise-entanglement-real-revealing.html"
+        }
+      ]
+    },
+    {
       "id": "Phys.org-news706796863",
       "title": "Could we protect all western US communities from wildfires and facilitate restoring fire to wildlands within a decade?",
       "url": "https://phys.org/news/2026-08-western-communities-wildfires-wildlands-decade.html",
@@ -19337,6 +19184,26 @@
       ]
     },
     {
+      "id": "Phys.org-news706895582",
+      "title": "Workplace social media reduces staff turnover, study finds",
+      "url": "https://phys.org/news/2026-08-workplace-social-media-staff-turnover.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Social media used inside organizations may help engage employees and increase staff retention, according to a paper in the International Journal of Applied Systemic Studies that examined this phenomenon in China. Employee engagement refers…",
+      "tags": [
+        "Economics & Business"
+      ],
+      "published_at": "2026-08-25T22:20:03+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-08-workplace-social-media-staff-turnover.html"
+        }
+      ]
+    },
+    {
       "id": "Phys.org-news706879229",
       "title": "Hydroclimate whiplash damages California's tallest redwoods after years of drought",
       "url": "https://phys.org/news/2026-08-hydroclimate-whiplash-california-tallest-redwoods.html",
@@ -19373,106 +19240,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://phys.org/news/2026-08-3d-atomic-imaging-reveals-pathway.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706897742",
-      "title": "JWST reveals a race against time for forming planets",
-      "url": "https://phys.org/news/2026-08-jwst-reveals-planets.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Planets form from disks of gas and dust around young stars, but the gas needed for growth does not last forever. New observations from NASA's James Webb Space Telescope (JWST) now offer a new view of how this gas escapes and how the…",
-      "tags": [
-        "Astronomy"
-      ],
-      "published_at": "2026-08-25T21:50:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-jwst-reveals-planets.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706868979",
-      "title": "Habitat changes found to be no deterrent for some Fijian native bees",
-      "url": "https://phys.org/news/2026-08-habitat-deterrent-fijian-native-bees.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "While extreme weather and habitat changes can spell doom for many native animals, including insects, a different picture has emerged from a new study led by Flinders University. Long-running investigations into Fiji's native bee…",
-      "tags": [
-        "Ecology"
-      ],
-      "published_at": "2026-08-25T21:40:05+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-habitat-deterrent-fijian-native-bees.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706887040",
-      "title": "Microcline reveals how a common mineral surface triggers ice formation in clouds",
-      "url": "https://phys.org/news/2026-08-microcline-reveals-common-mineral-surface.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Pure water freezes only at around -38°C (-36°F). Tiny mineral dust particles act as so-called ice nucleators—crystallization seeds on which ice crystals form. A research team at Bielefeld University and the University of Vienna, in…",
-      "tags": [
-        "Earth Sciences"
-      ],
-      "published_at": "2026-08-25T21:40:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-microcline-reveals-common-mineral-surface.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706882201",
-      "title": "Scientists unlock 'ancestral code' of banana family",
-      "url": "https://phys.org/news/2026-08-scientists-ancestral-code-banana-family.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Scientists have recently reconstructed the ancestral karyotype of the banana family, revealing how chromosome numbers decreased stepwise from 17 to 9–11 over evolutionary time.",
-      "tags": [
-        "Evolution"
-      ],
-      "published_at": "2026-08-25T21:20:04+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-scientists-ancestral-code-banana-family.html"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news706894501",
-      "title": "Pomegranate emerges as a promising natural phytobiotic for veterinary medicine",
-      "url": "https://phys.org/news/2026-08-pomegranate-emerges-natural-phytobiotic-veterinary.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "Researchers have identified a broad range of biological properties of pomegranate with potential medical applications, including antimicrobial, antiparasitic, antioxidant, immunomodulatory, antidiabetic, anti-inflammatory, liver-supporting…",
-      "tags": [
-        "Biotechnology"
-      ],
-      "published_at": "2026-08-25T21:20:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-08-pomegranate-emerges-natural-phytobiotic-veterinary.html"
         }
       ]
     },
@@ -20014,6 +19781,26 @@
       ]
     },
     {
+      "id": "Space.com-DMui6SdBbxxSS98MVuBwvC",
+      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
+      "domain": "space.com",
+      "category": "Science",
+      "summary": "On Aug. 25, 1997, NASA launched the Advanced Composition Explorer, or ACE satellite to study energetic particles traveling through space, including solar wind and space weather. Here's why it mattered.",
+      "tags": [
+        "Space Exploration"
+      ],
+      "published_at": "2026-08-25T14:00:00+00:00",
+      "sources": [
+        {
+          "name": "Space.com",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026"
+        }
+      ]
+    },
+    {
       "id": "Space.com-RdwseWSnE2bQSAkf7hyRAE",
       "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
       "url": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
@@ -20031,26 +19818,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026"
-        }
-      ]
-    },
-    {
-      "id": "Space.com-DMui6SdBbxxSS98MVuBwvC",
-      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
-      "domain": "space.com",
-      "category": "Science",
-      "summary": "On Aug. 25, 1997, NASA launched the Advanced Composition Explorer, or ACE satellite to study energetic particles traveling through space, including solar wind and space weather. Here's why it mattered.",
-      "tags": [
-        "Space Exploration"
-      ],
-      "published_at": "2026-08-25T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "Space.com",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026"
         }
       ]
     },

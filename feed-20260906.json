@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:45:37+00:00",
+  "generated_at": "2026-09-06T10:45:53+00:00",
   "items": [
     {
       "id": "HN-49563355",
@@ -15,35 +15,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 2154,
-          "comments": 1531,
+          "score": 2189,
+          "comments": 1548,
           "thread_url": "https://news.ycombinator.com/item?id=49563355"
         }
       ]
     },
     {
-      "id": "66bcd2f01ad912ba",
+      "id": "HN-49570669",
       "title": "Actively exploited sandbox RCE in all Chromium versions",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "domain": "nvd.nist.gov",
       "category": "Security",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described…",
+      "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-09-04T07:18:47+00:00",
+      "published_at": "2026-09-04T21:52:01Z",
       "sources": [
         {
           "name": "HN",
-          "score": 762,
-          "comments": 451,
+          "score": 777,
+          "comments": 470,
           "thread_url": "https://news.ycombinator.com/item?id=49570669"
-        },
-        {
-          "name": "The Hacker News",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html"
         }
       ]
     },
@@ -61,14 +55,14 @@
       "sources": [
         {
           "name": "HN",
-          "score": 658,
-          "comments": 319,
+          "score": 681,
+          "comments": 351,
           "thread_url": "https://news.ycombinator.com/item?id=49571634"
         }
       ]
     },
     {
-      "id": "68c8814ad49d8971",
+      "id": "02af9dcd1f3eaf6d",
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
       "domain": "space.com",
@@ -83,8 +77,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 465,
-          "comments": 246,
+          "score": 617,
+          "comments": 330,
           "thread_url": "https://news.ycombinator.com/item?id=49580369"
         },
         {
@@ -92,6 +86,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
+        },
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html"
         }
       ]
     },
@@ -109,55 +109,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 455,
-          "comments": 205,
+          "score": 485,
+          "comments": 226,
           "thread_url": "https://news.ycombinator.com/item?id=49569896"
-        }
-      ]
-    },
-    {
-      "id": "HN-49569366",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "domain": "eebench.org",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-04T19:48:29Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 399,
-          "comments": 212,
-          "thread_url": "https://news.ycombinator.com/item?id=49569366"
-        }
-      ]
-    },
-    {
-      "id": "f6eb75e90916fbe7",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "domain": "devquasar.com",
-      "category": "Hardware",
-      "summary": "While unveiling its latest standard handheld gaming PC at IFA last week, Acer also offered an early look at its DualPlay Mini concept, which aims to offer a gaming handheld and a mini laptop in one product. If the device ever receives a…",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-05T13:36:38Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 322,
-          "comments": 96,
-          "thread_url": "https://news.ycombinator.com/item?id=49576386"
-        },
-        {
-          "name": "TechSpot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techspot.com/news/113748-acer-unveils-prototype-convertible-hybrid-handheld-gaming-laptop.html"
         }
       ]
     },
@@ -175,9 +129,90 @@
       "sources": [
         {
           "name": "HN",
-          "score": 273,
-          "comments": 109,
+          "score": 423,
+          "comments": 200,
           "thread_url": "https://news.ycombinator.com/item?id=49582000"
+        }
+      ]
+    },
+    {
+      "id": "a95f644ce6454980",
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "domain": "lapcatsoftware.com",
+      "category": "Security",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "tags": [
+        "Security",
+        "story"
+      ],
+      "published_at": "2026-09-04T11:48:17+00:00",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 415,
+          "comments": 62,
+          "thread_url": "https://news.ycombinator.com/item?id=49581870"
+        },
+        {
+          "name": "BleepingComputer",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/"
+        }
+      ]
+    },
+    {
+      "id": "f22b7f9b64e24b6c",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "domain": "bcantrill.dtrace.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "practices",
+        "story",
+        "vibecoding"
+      ],
+      "published_at": "2026-09-05T16:28:47.233-05:00",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 370,
+          "comments": 153,
+          "thread_url": "https://news.ycombinator.com/item?id=49580939"
+        },
+        {
+          "name": "lobste.rs",
+          "score": 63,
+          "comments": 8,
+          "thread_url": "https://lobste.rs/s/xnqxqe/revolt_reader"
+        }
+      ]
+    },
+    {
+      "id": "f6eb75e90916fbe7",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "domain": "devquasar.com",
+      "category": "Hardware",
+      "summary": "While unveiling its latest standard handheld gaming PC at IFA last week, Acer also offered an early look at its DualPlay Mini concept, which aims to offer a gaming handheld and a mini laptop in one product. If the device ever receives a…",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-05T13:36:38Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 348,
+          "comments": 101,
+          "thread_url": "https://news.ycombinator.com/item?id=49576386"
+        },
+        {
+          "name": "TechSpot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techspot.com/news/113748-acer-unveils-prototype-convertible-hybrid-handheld-gaming-laptop.html"
         }
       ]
     },
@@ -199,70 +234,15 @@
       "sources": [
         {
           "name": "HN",
-          "score": 237,
-          "comments": 183,
+          "score": 276,
+          "comments": 199,
           "thread_url": "https://news.ycombinator.com/item?id=49580164"
         },
         {
           "name": "lobste.rs",
-          "score": 6,
+          "score": 8,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/qnnvq2/large_language_models_as_cognitive_virus"
-        }
-      ]
-    },
-    {
-      "id": "f22b7f9b64e24b6c",
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "domain": "bcantrill.dtrace.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "practices",
-        "story",
-        "vibecoding"
-      ],
-      "published_at": "2026-09-05T16:28:47.233-05:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 233,
-          "comments": 88,
-          "thread_url": "https://news.ycombinator.com/item?id=49580939"
-        },
-        {
-          "name": "lobste.rs",
-          "score": 32,
-          "comments": 7,
-          "thread_url": "https://lobste.rs/s/xnqxqe/revolt_reader"
-        }
-      ]
-    },
-    {
-      "id": "a95f644ce6454980",
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "domain": "lapcatsoftware.com",
-      "category": "Security",
-      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-      "tags": [
-        "Security",
-        "story"
-      ],
-      "published_at": "2026-09-04T11:48:17+00:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 233,
-          "comments": 36,
-          "thread_url": "https://news.ycombinator.com/item?id=49581870"
-        },
-        {
-          "name": "BleepingComputer",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/"
         }
       ]
     },
@@ -280,56 +260,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 217,
-          "comments": 82,
+          "score": 257,
+          "comments": 99,
           "thread_url": "https://news.ycombinator.com/item?id=49578280"
-        }
-      ]
-    },
-    {
-      "id": "0fa6201892d006a7",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "domain": "sofiabelen.github.io",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "rust",
-        "story"
-      ],
-      "published_at": "2026-09-05T06:50:24.422-05:00",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 153,
-          "comments": 24,
-          "thread_url": "https://news.ycombinator.com/item?id=49576343"
-        },
-        {
-          "name": "lobste.rs",
-          "score": 16,
-          "comments": 3,
-          "thread_url": "https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait"
-        }
-      ]
-    },
-    {
-      "id": "HN-49575150",
-      "title": "Terpstra Keyboard",
-      "url": "http://terpstrakeyboard.com/",
-      "domain": "terpstrakeyboard.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-05T10:33:01Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 125,
-          "comments": 57,
-          "thread_url": "https://news.ycombinator.com/item?id=49575150"
         }
       ]
     },
@@ -363,8 +296,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 122,
-          "comments": 74,
+          "score": 192,
+          "comments": 143,
           "thread_url": "https://news.ycombinator.com/item?id=49582582"
         },
         {
@@ -406,6 +339,73 @@
       ]
     },
     {
+      "id": "HN-49584083",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "domain": "isaraerospace.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-06T07:21:06Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 177,
+          "comments": 24,
+          "thread_url": "https://news.ycombinator.com/item?id=49584083"
+        }
+      ]
+    },
+    {
+      "id": "0fa6201892d006a7",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "domain": "sofiabelen.github.io",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "rust",
+        "story"
+      ],
+      "published_at": "2026-09-05T06:50:24.422-05:00",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 175,
+          "comments": 35,
+          "thread_url": "https://news.ycombinator.com/item?id=49576343"
+        },
+        {
+          "name": "lobste.rs",
+          "score": 18,
+          "comments": 5,
+          "thread_url": "https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait"
+        }
+      ]
+    },
+    {
+      "id": "HN-49541888",
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "domain": "runjs.app",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-02T20:19:13Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 146,
+          "comments": 68,
+          "thread_url": "https://news.ycombinator.com/item?id=49541888"
+        }
+      ]
+    },
+    {
       "id": "HN-49539110",
       "title": "Delidded Intel I9-14900KS CT Scan",
       "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
@@ -419,69 +419,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 87,
-          "comments": 3,
+          "score": 108,
+          "comments": 11,
           "thread_url": "https://news.ycombinator.com/item?id=49539110"
         }
       ]
     },
     {
-      "id": "HN-49549778",
-      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-      "url": "https://github.com/iczelia/balrogg",
-      "domain": "github.com",
+      "id": "HN-49584637",
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "domain": "motherjones.com",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-09-03T13:37:22Z",
+      "published_at": "2026-09-06T09:14:22Z",
       "sources": [
         {
           "name": "HN",
-          "score": 73,
-          "comments": 10,
-          "thread_url": "https://news.ycombinator.com/item?id=49549778"
-        }
-      ]
-    },
-    {
-      "id": "HN-49519101",
-      "title": "Show HN: Fly By – retro biplane flying game",
-      "url": "https://michaelteter.com/flyby.html",
-      "domain": "michaelteter.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-01T07:31:38Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 67,
-          "comments": 44,
-          "thread_url": "https://news.ycombinator.com/item?id=49519101"
-        }
-      ]
-    },
-    {
-      "id": "HN-49580329",
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "domain": "terrytao.wordpress.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-05T20:25:59Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 65,
-          "comments": 33,
-          "thread_url": "https://news.ycombinator.com/item?id=49580329"
+          "score": 105,
+          "comments": 54,
+          "thread_url": "https://news.ycombinator.com/item?id=49584637"
         }
       ]
     },
@@ -499,9 +459,29 @@
       "sources": [
         {
           "name": "HN",
-          "score": 62,
-          "comments": 20,
+          "score": 97,
+          "comments": 25,
           "thread_url": "https://news.ycombinator.com/item?id=49527599"
+        }
+      ]
+    },
+    {
+      "id": "HN-49549778",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "url": "https://github.com/iczelia/balrogg",
+      "domain": "github.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-03T13:37:22Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 87,
+          "comments": 11,
+          "thread_url": "https://news.ycombinator.com/item?id=49549778"
         }
       ]
     },
@@ -519,149 +499,9 @@
       "sources": [
         {
           "name": "HN",
-          "score": 61,
-          "comments": 4,
+          "score": 80,
+          "comments": 6,
           "thread_url": "https://news.ycombinator.com/item?id=49548852"
-        }
-      ]
-    },
-    {
-      "id": "HN-49525188",
-      "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
-      "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-      "domain": "practical.engineering",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-01T17:38:10Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 60,
-          "comments": 7,
-          "thread_url": "https://news.ycombinator.com/item?id=49525188"
-        }
-      ]
-    },
-    {
-      "id": "HN-49581240",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "domain": "github.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-05T22:15:52Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 54,
-          "comments": 18,
-          "thread_url": "https://news.ycombinator.com/item?id=49581240"
-        }
-      ]
-    },
-    {
-      "id": "HN-49527110",
-      "title": "RecurseCenter.return()",
-      "url": "https://mm-dev.rocks/series/recursecenter.return/",
-      "domain": "mm-dev.rocks",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-01T19:48:04Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 34,
-          "comments": 3,
-          "thread_url": "https://news.ycombinator.com/item?id=49527110"
-        }
-      ]
-    },
-    {
-      "id": "HN-49539759",
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "domain": "miod.online.fr",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-02T17:44:24Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 30,
-          "comments": 7,
-          "thread_url": "https://news.ycombinator.com/item?id=49539759"
-        }
-      ]
-    },
-    {
-      "id": "HN-49579956",
-      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-      "url": "https://isaraerospace.com/mission-updates-overview",
-      "domain": "isaraerospace.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-05T19:41:27Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 29,
-          "comments": 4,
-          "thread_url": "https://news.ycombinator.com/item?id=49579956"
-        }
-      ]
-    },
-    {
-      "id": "HN-49529398",
-      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-      "domain": "dpreview.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-01T22:54:15Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 22,
-          "comments": 1,
-          "thread_url": "https://news.ycombinator.com/item?id=49529398"
-        }
-      ]
-    },
-    {
-      "id": "HN-49543347",
-      "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
-      "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
-      "domain": "circuitvalley.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "story"
-      ],
-      "published_at": "2026-09-02T22:17:08Z",
-      "sources": [
-        {
-          "name": "HN",
-          "score": 20,
-          "comments": 2,
-          "thread_url": "https://news.ycombinator.com/item?id=49543347"
         }
       ]
     },
@@ -681,8 +521,8 @@
       "sources": [
         {
           "name": "HN",
-          "score": 13,
-          "comments": 3,
+          "score": 68,
+          "comments": 23,
           "thread_url": "https://news.ycombinator.com/item?id=49582656"
         },
         {
@@ -694,22 +534,220 @@
       ]
     },
     {
-      "id": "HN-49541888",
-      "title": "Music Theory for Programmers",
-      "url": "https://runjs.app/blog/music-theory-for-programmers",
-      "domain": "runjs.app",
+      "id": "cb2141294c60c0e2",
+      "title": "Play GTA Vice City in the Browser",
+      "url": "https://quenq.com/apps/vice-city-online/",
+      "domain": "quenq.com",
+      "category": "Web",
+      "summary": "Rockstar Games and the mayor of Miami-Dade county are discussing a joint marketing campaign transforming parts of the county to look like areas from Grand Theft Auto 6, reports the blog Rock Paper Shotgun: The proposed publicity event…",
+      "tags": [
+        "government",
+        "story"
+      ],
+      "published_at": "2026-09-06T04:34:00+00:00",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 67,
+          "comments": 29,
+          "thread_url": "https://news.ycombinator.com/item?id=49584123"
+        },
+        {
+          "name": "Slashdot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+        }
+      ]
+    },
+    {
+      "id": "HN-49539759",
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "domain": "miod.online.fr",
       "category": "Systems",
       "summary": "",
       "tags": [
         "story"
       ],
-      "published_at": "2026-09-02T20:19:13Z",
+      "published_at": "2026-09-02T17:44:24Z",
       "sources": [
         {
           "name": "HN",
-          "score": 10,
+          "score": 66,
+          "comments": 13,
+          "thread_url": "https://news.ycombinator.com/item?id=49539759"
+        }
+      ]
+    },
+    {
+      "id": "HN-49529398",
+      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "domain": "dpreview.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-01T22:54:15Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 65,
+          "comments": 10,
+          "thread_url": "https://news.ycombinator.com/item?id=49529398"
+        }
+      ]
+    },
+    {
+      "id": "HN-49582719",
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "domain": "vermaden.wordpress.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-06T02:24:57Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 56,
+          "comments": 5,
+          "thread_url": "https://news.ycombinator.com/item?id=49582719"
+        }
+      ]
+    },
+    {
+      "id": "HN-49527110",
+      "title": "RecurseCenter.return()",
+      "url": "https://mm-dev.rocks/series/recursecenter.return/",
+      "domain": "mm-dev.rocks",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-01T19:48:04Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 52,
+          "comments": 8,
+          "thread_url": "https://news.ycombinator.com/item?id=49527110"
+        }
+      ]
+    },
+    {
+      "id": "HN-49546198",
+      "title": "IBM Quantum Nighthawk R2",
+      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+      "domain": "ibm.com",
+      "category": "Science",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-03T05:16:04Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 16,
+          "comments": 2,
+          "thread_url": "https://news.ycombinator.com/item?id=49546198"
+        }
+      ]
+    },
+    {
+      "id": "HN-49522072",
+      "title": "A Computer History Time Capsule",
+      "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
+      "domain": "blog.archive.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-01T13:54:42Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 8,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=49522072"
+        }
+      ]
+    },
+    {
+      "id": "cf69e952bc08de64",
+      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "url": "https://en.wikipedia.org/wiki/M-DISC",
+      "domain": "en.wikipedia.org",
+      "category": "Science",
+      "summary": "“One more warning sign here of what we're facing in a warmer world.”",
+      "tags": [
+        "ENSO",
+        "El Niño",
+        "Science",
+        "climate change",
+        "story"
+      ],
+      "published_at": "2026-08-31T16:04:44+00:00",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 7,
           "comments": 1,
-          "thread_url": "https://news.ycombinator.com/item?id=49541888"
+          "thread_url": "https://news.ycombinator.com/item?id=49531619"
+        },
+        {
+          "name": "Ars Science",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/"
+        }
+      ]
+    },
+    {
+      "id": "HN-49554848",
+      "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
+      "url": "https://llogiq.github.io/2026/03/20/case.html",
+      "domain": "llogiq.github.io",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [
+        "story"
+      ],
+      "published_at": "2026-09-03T18:52:44Z",
+      "sources": [
+        {
+          "name": "HN",
+          "score": 5,
+          "comments": 0,
+          "thread_url": "https://news.ycombinator.com/item?id=49554848"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-ceuque",
+      "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+      "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+      "domain": "michael.stapelberg.ch",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "go",
+        "performance"
+      ],
+      "published_at": "2026-09-06T02:03:41.931-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 11,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go"
         }
       ]
     },
@@ -728,73 +766,9 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 28,
-          "comments": 16,
+          "score": 30,
+          "comments": 18,
           "thread_url": "https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-dxjvcc",
-      "title": "It matters who teaches you",
-      "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
-      "domain": "bastiangruber.ca",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "education",
-        "vibecoding"
-      ],
-      "published_at": "2026-09-05T12:47:34.482-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 23,
-          "comments": 2,
-          "thread_url": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-p5w5j6",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "domain": "arxiv.org",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "linux",
-        "nix",
-        "security"
-      ],
-      "published_at": "2026-09-05T05:58:49.333-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 57,
-          "comments": 9,
-          "thread_url": "https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-wk38d2",
-      "title": "What filesystem are you running on your NAS/Backups, and why?",
-      "url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
-      "domain": "lobste.rs",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "ask",
-        "linux"
-      ],
-      "published_at": "2026-09-05T10:46:13.266-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 21,
-          "comments": 43,
-          "thread_url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your"
         }
       ]
     },
@@ -814,110 +788,119 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 14,
+          "score": 31,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3"
         }
       ]
     },
     {
-      "id": "lobste.rs-duuz8z",
-      "title": "Bespoke: A Programming Language for People Who Say Please",
-      "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-      "domain": "blog.hofstede.it",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "programming",
-        "satire"
-      ],
-      "published_at": "2026-09-05T02:13:32.661-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 31,
-          "comments": 16,
-          "thread_url": "https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-job3jy",
-      "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-      "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-      "domain": "uutils.org",
-      "category": "Dev Tools",
-      "summary": "",
-      "tags": [
-        "unix"
-      ],
-      "published_at": "2026-09-05T09:34:40.900-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 14,
-          "comments": 7,
-          "thread_url": "https://lobste.rs/s/job3jy/pointing_at_error_compiler_style"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-svyytg",
-      "title": "NYC PIT Crew",
-      "url": "https://www.nyc.gov/content/pitcrew/pages/",
-      "domain": "nyc.gov",
+      "id": "lobste.rs-dxjvcc",
+      "title": "It matters who teaches you",
+      "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+      "domain": "bastiangruber.ca",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "job"
-      ],
-      "published_at": "2026-09-05T06:33:49.980-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 23,
-          "comments": 6,
-          "thread_url": "https://lobste.rs/s/svyytg/nyc_pit_crew"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-fxccx9",
-      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "domain": "lobste.rs",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
+        "education",
         "vibecoding"
       ],
-      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "published_at": "2026-09-05T12:47:34.482-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 19,
-          "comments": 101,
-          "thread_url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their"
+          "score": 29,
+          "comments": 2,
+          "thread_url": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you"
         }
       ]
     },
     {
-      "id": "lobste.rs-7tpc5q",
-      "title": "Surviving Code Reviews in the era of AI",
-      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
-      "domain": "lobste.rs",
-      "category": "AI / ML",
+      "id": "lobste.rs-i9zp2x",
+      "title": "Any Nix package, live in your browser",
+      "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+      "domain": "fzakaria.com",
+      "category": "Dev Tools",
       "summary": "",
       "tags": [
-        "ask"
+        "nix"
       ],
-      "published_at": "2026-09-04T08:11:47.640-05:00",
+      "published_at": "2026-09-06T02:09:11.718-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 126,
-          "comments": 92,
-          "thread_url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai"
+          "score": 10,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-1kdrx2",
+      "title": "How To: Federated Stars",
+      "url": "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/",
+      "domain": "domaindrivenarchitecture.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "vcs"
+      ],
+      "published_at": "2026-09-06T01:05:41.954-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 6,
+          "comments": 3,
+          "thread_url": "https://lobste.rs/s/1kdrx2/how_federated_stars"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-p5w5j6",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "domain": "arxiv.org",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "linux",
+        "nix",
+        "security"
+      ],
+      "published_at": "2026-09-05T05:58:49.333-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 59,
+          "comments": 11,
+          "thread_url": "https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire"
+        }
+      ]
+    },
+    {
+      "id": "28ae6f8b8fad5e43",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+      "domain": "zachkehs.com",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "practices",
+        "programming"
+      ],
+      "published_at": "2026-09-05T14:14:26+00:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 9,
+          "comments": 3,
+          "thread_url": "https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get"
+        },
+        {
+          "name": "r/dev",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.reddit.com/r/programming/comments/1w81w2j/theres_no_limit_to_how_bad_code_can_get/"
         }
       ]
     },
@@ -936,9 +919,202 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 1,
-          "comments": 0,
+          "score": 3,
+          "comments": 3,
           "thread_url": "https://lobste.rs/s/rcddma/beyond_orms"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-wk38d2",
+      "title": "What filesystem are you running on your NAS/Backups, and why?",
+      "url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
+      "domain": "lobste.rs",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "ask",
+        "linux"
+      ],
+      "published_at": "2026-09-05T10:46:13.266-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 22,
+          "comments": 48,
+          "thread_url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-job3jy",
+      "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+      "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+      "domain": "uutils.org",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "unix"
+      ],
+      "published_at": "2026-09-05T09:34:40.900-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 17,
+          "comments": 9,
+          "thread_url": "https://lobste.rs/s/job3jy/pointing_at_error_compiler_style"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-duuz8z",
+      "title": "Bespoke: A Programming Language for People Who Say Please",
+      "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+      "domain": "blog.hofstede.it",
+      "category": "Dev Tools",
+      "summary": "",
+      "tags": [
+        "programming",
+        "satire"
+      ],
+      "published_at": "2026-09-05T02:13:32.661-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 34,
+          "comments": 17,
+          "thread_url": "https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-nohdoj",
+      "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+      "url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "domain": "mathstodon.xyz",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "ai",
+        "math"
+      ],
+      "published_at": "2026-09-06T02:45:24.038-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 4,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-svyytg",
+      "title": "NYC PIT Crew",
+      "url": "https://www.nyc.gov/content/pitcrew/pages/",
+      "domain": "nyc.gov",
+      "category": "Systems",
+      "summary": "",
+      "tags": [
+        "job"
+      ],
+      "published_at": "2026-09-05T06:33:49.980-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 24,
+          "comments": 8,
+          "thread_url": "https://lobste.rs/s/svyytg/nyc_pit_crew"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-dckubt",
+      "title": "See Windows CE Running On The N64",
+      "url": "https://retrododo.com/see-windows-ce-running-on-the-n64/",
+      "domain": "retrododo.com",
+      "category": "Hardware",
+      "summary": "",
+      "tags": [
+        "hardware",
+        "retrocomputing",
+        "windows"
+      ],
+      "published_at": "2026-09-06T05:25:42.575-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 2,
+          "comments": 0,
+          "thread_url": "https://lobste.rs/s/dckubt/see_windows_ce_running_on_n64"
+        }
+      ]
+    },
+    {
+      "id": "0ae88a8459836ae8",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+      "domain": "martinfowler.com",
+      "category": "Dev Tools",
+      "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of…",
+      "tags": [
+        "practices",
+        "rachels-ramblings",
+        "vibecoding"
+      ],
+      "published_at": "2026-09-02T13:32:00+00:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 1,
+          "comments": 2,
+          "thread_url": "https://lobste.rs/s/lfaddj/maybe_we_shouldn_t_be_reviewing_all_this"
+        },
+        {
+          "name": "Martin Fowler",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://martinfowler.com/rachels-ramblings/code-review.html"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-fxccx9",
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "domain": "lobste.rs",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "vibecoding"
+      ],
+      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 20,
+          "comments": 104,
+          "thread_url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their"
+        }
+      ]
+    },
+    {
+      "id": "lobste.rs-7tpc5q",
+      "title": "Surviving Code Reviews in the era of AI",
+      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+      "domain": "lobste.rs",
+      "category": "AI / ML",
+      "summary": "",
+      "tags": [
+        "ask"
+      ],
+      "published_at": "2026-09-04T08:11:47.640-05:00",
+      "sources": [
+        {
+          "name": "lobste.rs",
+          "score": 127,
+          "comments": 93,
+          "thread_url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai"
         }
       ]
     },
@@ -956,7 +1132,7 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 18,
+          "score": 20,
           "comments": 1,
           "thread_url": "https://lobste.rs/s/grm0m9/knowing_where_type_zero_2015"
         }
@@ -978,55 +1154,30 @@
         {
           "name": "lobste.rs",
           "score": 3,
-          "comments": 1,
+          "comments": 2,
           "thread_url": "https://lobste.rs/s/kcklzg/anatomy_test"
         }
       ]
     },
     {
-      "id": "28ae6f8b8fad5e43",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-      "domain": "zachkehs.com",
+      "id": "lobste.rs-qjhtae",
+      "title": "How is this frame of Animal Well rendered?",
+      "url": "https://www.youtube.com/watch?v=HtaleVLNws8",
+      "domain": "youtube.com",
       "category": "Systems",
       "summary": "",
       "tags": [
-        "practices",
-        "programming"
+        "games",
+        "graphics",
+        "video"
       ],
-      "published_at": "2026-09-05T14:14:26+00:00",
+      "published_at": "2026-09-05T18:58:29.662-05:00",
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 3,
+          "score": 4,
           "comments": 0,
-          "thread_url": "https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get"
-        },
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1w81w2j/theres_no_limit_to_how_bad_code_can_get/"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-o8bp2s",
-      "title": "Babashka 1.13.220 gets FFI",
-      "url": "https://blog.michielborkent.nl/babashka-ffi.html",
-      "domain": "blog.michielborkent.nl",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "clojure"
-      ],
-      "published_at": "2026-09-04T13:33:44.332-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 39,
-          "comments": 5,
-          "thread_url": "https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi"
+          "thread_url": "https://lobste.rs/s/qjhtae/how_is_this_frame_animal_well_rendered"
         }
       ]
     },
@@ -1045,159 +1196,26 @@
       "sources": [
         {
           "name": "lobste.rs",
-          "score": 12,
+          "score": 14,
           "comments": 0,
           "thread_url": "https://lobste.rs/s/omhoxh/rust_simd_on_gpu"
         }
       ]
     },
     {
-      "id": "lobste.rs-utloro",
-      "title": "Is AI ruining my brain?",
-      "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-      "domain": "thoughtbot.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "vibecoding"
-      ],
-      "published_at": "2026-09-04T09:41:18.640-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 69,
-          "comments": 19,
-          "thread_url": "https://lobste.rs/s/utloro/is_ai_ruining_my_brain"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-5iacaa",
-      "title": "FLT: Anthropic has beaten me to it",
-      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-      "domain": "xenaproject.wordpress.com",
-      "category": "AI / ML",
-      "summary": "",
-      "tags": [
-        "math",
-        "vibecoding"
-      ],
-      "published_at": "2026-09-04T14:11:37.414-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 50,
-          "comments": 6,
-          "thread_url": "https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-trzpsg",
-      "title": "Seeking Designer for a Small Company",
-      "url": "https://lobste.rs/s/trzpsg/seeking_designer_for_small_company",
-      "domain": "lobste.rs",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "ask",
-        "design",
-        "job"
-      ],
-      "published_at": "2026-09-05T08:04:05.878-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 5,
-          "comments": 3,
-          "thread_url": "https://lobste.rs/s/trzpsg/seeking_designer_for_small_company"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-f2ele4",
-      "title": "C++26: std::hive",
-      "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
-      "domain": "sandordargo.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "c++"
-      ],
-      "published_at": "2026-09-05T13:46:39.834-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 5,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/f2ele4/c_26_std_hive"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-eqc1s5",
-      "title": "Controlling when CSS custom property values are computed",
-      "url": "https://jakearchibald.com/2026/css-custom-property-compute-time/",
-      "domain": "jakearchibald.com",
-      "category": "Web",
-      "summary": "",
-      "tags": [
-        "css"
-      ],
-      "published_at": "2026-09-05T17:23:45.680-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 3,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/eqc1s5/controlling_when_css_custom_property"
-        }
-      ]
-    },
-    {
-      "id": "lobste.rs-5wzkwm",
-      "title": "Gleam and BEAM- Looking beyond the JVM",
-      "url": "https://vimeo.com/1223666800",
-      "domain": "vimeo.com",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "gleam",
-        "java",
-        "video"
-      ],
-      "published_at": "2026-09-05T07:22:34.372-05:00",
-      "sources": [
-        {
-          "name": "lobste.rs",
-          "score": 10,
-          "comments": 0,
-          "thread_url": "https://lobste.rs/s/5wzkwm/gleam_beam_looking_beyond_jvm"
-        }
-      ]
-    },
-    {
-      "id": "41a1afc1e18ed9e8",
+      "id": "2d6106ec243e3356",
       "title": "Tesla Launches Steering-Wheel-Free Cybercab Robotaxi In Austin",
       "url": "https://tech.slashdot.org/story/26/09/04/0427208/tesla-launches-steering-wheel-free-cybercab-robotaxi-in-austin?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "domain": "tech.slashdot.org",
       "category": "Security",
       "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
       "tags": [
-        "Autonomous Vehicles",
         "Cars",
-        "Elon Musk",
-        "Gear",
-        "Gear / Gear News and Events",
-        "Pump Brakes",
-        "Self-Driving Cars",
         "Tesla",
         "Transportation",
         "autonomous vehicles",
         "avs",
-        "cars",
         "cybercab",
-        "driverless cars",
         "nhtsa",
         "robotaxis",
         "syndication",
@@ -1216,12 +1234,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/"
-        },
-        {
-          "name": "Wired",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/"
         },
         {
           "name": "Slashdot",
@@ -2067,7 +2079,7 @@
       ]
     },
     {
-      "id": "ae3975ec91c8b28d",
+      "id": "TechCrunch-https://techcrunch.com/?post_type=tc_video&p=3160884",
       "title": "What will Apple’s John Ternus era look like?",
       "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
       "domain": "techcrunch.com",
@@ -2076,31 +2088,18 @@
       "tags": [
         "AI",
         "Apple",
-        "Bluetooth",
-        "Communication",
-        "Development",
-        "Emerging Technologies",
         "John Ternus",
-        "Linux",
         "Tesla",
         "Tim Cook",
-        "iOS",
-        "news",
         "nvidia"
       ],
-      "published_at": "2026-09-04T06:06:00+00:00",
+      "published_at": "2026-09-04T17:18:00+00:00",
       "sources": [
         {
           "name": "TechCrunch",
           "score": 0,
           "comments": 0,
           "thread_url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
-        },
-        {
-          "name": "InfoQ",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.infoq.com/news/2026/09/apple-continuity-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
         }
       ]
     },
@@ -2122,6 +2121,161 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+        }
+      ]
+    },
+    {
+      "id": "Wired-6a97057af5cd56d0322d3a8e",
+      "title": "My Brief Summer Fling With Siri AI",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "domain": "wired.com",
+      "category": "AI / ML",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "tags": [
+        "Collecting Dust",
+        "Gear",
+        "Gear / Gear News and Events",
+        "Gear / Products / Phones",
+        "Siri",
+        "apple",
+        "artificial intelligence",
+        "chatbots",
+        "generative AI",
+        "iPhone",
+        "phones",
+        "smartphones",
+        "software",
+        "voice assistants"
+      ],
+      "published_at": "2026-09-06T10:30:00+00:00",
+      "sources": [
+        {
+          "name": "Wired",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/"
+        }
+      ]
+    },
+    {
+      "id": "Wired-6a9af4675fef9f935781a053",
+      "title": "These Cyborg Cockroaches Could Save Your Life",
+      "url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
+      "domain": "wired.com",
+      "category": "Systems",
+      "summary": "The team embedded electrodes into live cockroaches, then outfitted them with cameras and injection devices to deliver medication via remote control.",
+      "tags": [
+        "Bugging Out",
+        "Insects",
+        "Science",
+        "Science / Health",
+        "cockroaches",
+        "cyborgs",
+        "disaster",
+        "disaster relief"
+      ],
+      "published_at": "2026-09-06T10:30:00+00:00",
+      "sources": [
+        {
+          "name": "Wired",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/"
+        }
+      ]
+    },
+    {
+      "id": "Wired-626a8cdd9c87c5d9436820b8",
+      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
+      "url": "https://www.wired.com/gallery/best-water-leak-detector/",
+      "domain": "wired.com",
+      "category": "Systems",
+      "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
+      "tags": [
+        "Buying Guide",
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Gear / Products / Smart Home",
+        "Shopping",
+        "buying guides",
+        "home",
+        "insurance",
+        "smart home",
+        "water"
+      ],
+      "published_at": "2026-09-06T10:09:00+00:00",
+      "sources": [
+        {
+          "name": "Wired",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.wired.com/gallery/best-water-leak-detector/"
+        }
+      ]
+    },
+    {
+      "id": "d69a88ddd270f060",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "domain": "wired.com",
+      "category": "Hardware",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "tags": [
+        "China",
+        "Donald Trump",
+        "Politics",
+        "Politics / Politics News",
+        "Power Play",
+        "Science",
+        "artificial intelligence",
+        "data centers",
+        "tech policy"
+      ],
+      "published_at": "2026-09-06T03:10:01+00:00",
+      "sources": [
+        {
+          "name": "Wired",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/"
+        },
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260905/p15#a260905p15"
+        }
+      ]
+    },
+    {
+      "id": "Wired-6a887770f20b0b9afe2ec7b0",
+      "title": "The Best Gaming Chairs (2026): Are They Worth It?",
+      "url": "https://www.wired.com/gallery/best-gaming-chairs/",
+      "domain": "wired.com",
+      "category": "Systems",
+      "summary": "The best gaming chair is actually an office chair. Here are our top picks from our real-life testing so far.",
+      "tags": [
+        "Furniture",
+        "Gaming",
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Gaming",
+        "Gear / Products / Home Office",
+        "Gear / Products / Lifestyle",
+        "Love of the Game",
+        "Shopping",
+        "buying guides",
+        "chairs",
+        "home office"
+      ],
+      "published_at": "2026-09-06T09:45:00+00:00",
+      "sources": [
+        {
+          "name": "Wired",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.wired.com/gallery/best-gaming-chairs/"
         }
       ]
     },
@@ -2157,7 +2311,7 @@
       ]
     },
     {
-      "id": "5aaaab145baaeea0",
+      "id": "Wired-6a9705368e71dd67ca5de95a",
       "title": "There May Not Be an iPhone 18 This Year",
       "url": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/",
       "domain": "wired.com",
@@ -2169,7 +2323,6 @@
         "Gear / Gear News and Events",
         "Gear / Products / Phones",
         "Mobile",
-        "Phones",
         "apple",
         "iPhone",
         "ios",
@@ -2183,12 +2336,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/"
-        },
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/phones/iphone/5-biggest-iphone-18-rumors-rated-what-to-really-expect-at-next-weeks-apple-event"
         }
       ]
     },
@@ -2351,141 +2498,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techradar.com/audio/headphones/9-of-the-best-earbuds-and-headphones-in-amazons-labor-day-sale-airpods-pro-3-sony-over-ears-and-more"
-        }
-      ]
-    },
-    {
-      "id": "Wired-6a9ac3c58c5dcdd338e64bc0",
-      "title": "Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability",
-      "url": "https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/",
-      "domain": "wired.com",
-      "category": "Systems",
-      "summary": "In what appears to be a follow-up to the mighty “CasiOak,” the rugged Japanese watch brand is expected to release an all-new luxury homage.",
-      "tags": [
-        "Casio",
-        "Gear",
-        "Gear / Gear News and Events",
-        "Looking Luxe",
-        "design",
-        "luxury",
-        "watches"
-      ],
-      "published_at": "2026-09-04T18:41:47+00:00",
-      "sources": [
-        {
-          "name": "Wired",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/"
-        }
-      ]
-    },
-    {
-      "id": "Wired-6a99cf877b162d837701baf2",
-      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
-      "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-      "domain": "wired.com",
-      "category": "AI / ML",
-      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
-      "tags": [
-        "Anthropic",
-        "Backchannel",
-        "Backchannel - NL",
-        "Business",
-        "Business / Tech Culture",
-        "OpenAI",
-        "artificial intelligence",
-        "consciousness",
-        "philosophy"
-      ],
-      "published_at": "2026-09-04T15:00:00+00:00",
-      "sources": [
-        {
-          "name": "Wired",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/"
-        }
-      ]
-    },
-    {
-      "id": "Wired-6a970a6fa4730003b51cb5e4",
-      "title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
-      "url": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
-      "domain": "wired.com",
-      "category": "Science",
-      "summary": "The mission to Phobos, Japan’s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
-      "tags": [
-        "Is It Cheese?",
-        "Japan",
-        "Mars",
-        "NASA",
-        "Science",
-        "Science / Space",
-        "moon",
-        "rovers",
-        "space",
-        "space exploration"
-      ],
-      "published_at": "2026-09-04T12:00:00+00:00",
-      "sources": [
-        {
-          "name": "Wired",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/"
-        }
-      ]
-    },
-    {
-      "id": "Wired-5df3c23c48e9d2000853d4fb",
-      "title": "The Best Dyson Vacuums (2026) to Buy—and Some to Avoid",
-      "url": "https://www.wired.com/gallery/best-dyson-vacuums/",
-      "domain": "wired.com",
-      "category": "Systems",
-      "summary": "Feeling the pull of a new clean machine? I'll help you make sense of Dyson’s whirlwind vacuum lineup.",
-      "tags": [
-        "Dyson",
-        "Floor Show",
-        "Gear",
-        "Gear / Buying Guides",
-        "Gear / Products / Home",
-        "Shopping",
-        "Vacuums",
-        "buying guides",
-        "home",
-        "household",
-        "vacuums"
-      ],
-      "published_at": "2026-09-04T11:30:00+00:00",
-      "sources": [
-        {
-          "name": "Wired",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.wired.com/gallery/best-dyson-vacuums/"
-        }
-      ]
-    },
-    {
-      "id": "Engadget-https://www.engadget.com/2246259/how-to-sideload-android-auto-apps/",
-      "title": "How to sideload apps onto Android Auto",
-      "url": "https://www.engadget.com/2246259/how-to-sideload-android-auto-apps/",
-      "domain": "engadget.com",
-      "category": "Systems",
-      "summary": "There's a way to display any app on Android Auto, but it does present concerns about safety and reliability.",
-      "tags": [
-        "EVs and Transportation",
-        "Google",
-        "Samsung"
-      ],
-      "published_at": "2026-09-06T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Engadget",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.engadget.com/2246259/how-to-sideload-android-auto-apps/"
         }
       ]
     },
@@ -2701,6 +2713,46 @@
       ]
     },
     {
+      "id": "Engadget-https://www.engadget.com/2251699/new-twitter-rebrands-to-tweet-app-after-court-double-edged-ruling/",
+      "title": "New Twitter rebrands to Tweet.app after court's double-edged ruling",
+      "url": "https://www.engadget.com/2251699/new-twitter-rebrands-to-tweet-app-after-court-double-edged-ruling/",
+      "domain": "engadget.com",
+      "category": "Systems",
+      "summary": "A federal court decided that \"Twitter\" was off-limits, but tweet and the bird logo were fair game.",
+      "tags": [
+        "Social Media"
+      ],
+      "published_at": "2026-09-05T16:13:27+00:00",
+      "sources": [
+        {
+          "name": "Engadget",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.engadget.com/2251699/new-twitter-rebrands-to-tweet-app-after-court-double-edged-ruling/"
+        }
+      ]
+    },
+    {
+      "id": "The Register-https://www.theregister.com/a/5294538",
+      "title": "Time lords prepare to kick leap seconds into the next millennium",
+      "url": "https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538",
+      "domain": "theregister.com",
+      "category": "Systems",
+      "summary": "Risk of an unprecedented negative adjustment prompts plan to let UTC drift by as much as an hour",
+      "tags": [
+        "offbeat"
+      ],
+      "published_at": "2026-09-06T08:09:00+00:00",
+      "sources": [
+        {
+          "name": "The Register",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538"
+        }
+      ]
+    },
+    {
       "id": "The Register-https://www.theregister.com/a/5294652",
       "title": "US troops can still be tracked by purchased location data, and Congress wants to know why",
       "url": "https://www.theregister.com/public-sector/2026/09/06/us-troops-can-still-be-tracked-by-purchased-location-data-and-congress-wants-to-know-why/5294652",
@@ -2867,22 +2919,95 @@
       ]
     },
     {
-      "id": "The Register-https://www.theregister.com/a/5294476",
-      "title": "Cloud snail-mail service Docmail enters third day stuck in the outbox",
-      "url": "https://www.theregister.com/off-prem/2026/09/04/cloud-snail-mail-service-docmail-enters-third-day-stuck-in-the-outbox/5294476",
-      "domain": "theregister.com",
-      "category": "Systems",
-      "summary": "No restoration time for platform used by more than 30,000 UK organizations, including NHS trusts and medical practices",
+      "id": "TechRadar-P6PnK7KjW2USxM5ENEqHMR",
+      "title": "‘Resilience comes from designing for disconnection, not assuming more connectivity’: The future of battlefield AI systems lies in both coordination and local capability",
+      "url": "https://www.techradar.com/pro/resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-future-of-battlefield-ai-systems-lies-in-both-coordination-and-local-capability",
+      "domain": "techradar.com",
+      "category": "AI / ML",
+      "summary": "I spoke to Andreas Hellander of Scaleout to learn more about how battlefield AI systems and frontline technologies can be made more resilient.",
       "tags": [
-        "off-prem"
+        "AI Platforms &amp; Assistants",
+        "Pro"
       ],
-      "published_at": "2026-09-04T11:37:08+00:00",
+      "published_at": "2026-09-06T10:30:00+00:00",
       "sources": [
         {
-          "name": "The Register",
+          "name": "TechRadar",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.theregister.com/off-prem/2026/09/04/cloud-snail-mail-service-docmail-enters-third-day-stuck-in-the-outbox/5294476"
+          "thread_url": "https://www.techradar.com/pro/resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-future-of-battlefield-ai-systems-lies-in-both-coordination-and-local-capability"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-rSDZ6Z9evufa9AfkfoqaxC",
+      "title": "Will the iPhone Ultra really be 'Ultra'? 5 features the foldable could surprisingly ditch, from Face ID to MagSafe",
+      "url": "https://www.techradar.com/phones/iphone/will-the-iphone-ultra-really-be-ultra-5-features-the-foldable-could-surprisingly-ditch-from-face-id-to-magsafe",
+      "domain": "techradar.com",
+      "category": "Systems",
+      "summary": "Apple's first foldable phone will probably be very expensive yet might lack several major features found on other iPhones.",
+      "tags": [
+        "Phones",
+        "iPhone"
+      ],
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/phones/iphone/will-the-iphone-ultra-really-be-ultra-5-features-the-foldable-could-surprisingly-ditch-from-face-id-to-magsafe"
+        }
+      ]
+    },
+    {
+      "id": "TechRadar-7csEFC8WUWPrbPc6dcpeDb",
+      "title": "How to watch Everton vs Man Utd: FREE live streams, TV channels for the Premier League 2026/27 game",
+      "url": "https://www.techradar.com/how-to-watch/football/everton-vs-man-utd-premier-league-2026-27-free",
+      "domain": "techradar.com",
+      "category": "Systems",
+      "summary": "We'll show you how to watch Everton vs Man Utd live streams from anywhere in the world, including for free, in the Premier League 2026/27 season.",
+      "tags": [
+        "How to Watch",
+        "How to Watch Football",
+        "How to Watch Sport"
+      ],
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/how-to-watch/football/everton-vs-man-utd-premier-league-2026-27-free"
+        }
+      ]
+    },
+    {
+      "id": "b40e6c989f4fcc91",
+      "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
+      "url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
+      "domain": "space.com",
+      "category": "Science",
+      "summary": "Casualty fans have been patiently waiting for Flynn and Stevie to get together, but will it ever happen? According to one star, there's hope on the horizon.",
+      "tags": [
+        "BBC iPlayer",
+        "Entertainment",
+        "Space Movies &amp; Shows",
+        "Streaming"
+      ],
+      "published_at": "2026-09-04T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechRadar",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techradar.com/streaming/bbc-iplayer/casualty-star-teases-potential-future-romance-between-flynn-and-stevie-after-40th-anniversary-special-episodes-i-think-theres-a-lot-more-to-come"
+        },
+        {
+          "name": "Space.com",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute"
         }
       ]
     },
@@ -3038,86 +3163,22 @@
       ]
     },
     {
-      "id": "TechRadar-LBrGEkZYbxSbhJRZjBepBA",
-      "title": "How to watch Ajax vs PSV: Live streams and TV channels for the Eredivisie 2026/27 game",
-      "url": "https://www.techradar.com/how-to-watch/football/ajax-vs-psv-eindhoven-eredivisie-2026-27",
-      "domain": "techradar.com",
+      "id": "Slashdot-https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "2026 Hugo Award Winners Include Ursula Le Guin-Authored Graphic Novel",
+      "url": "https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "domain": "news.slashdot.org",
       "category": "Systems",
-      "summary": "All the ways to watch Ajax vs PSV live streams, with Tolu Arokodare and Ricardo Pepi set to light up the Eredivisie 2026/27 game at Johan Cruyff Arena.",
+      "summary": "This year's Hugo Award winners were announced last weekend at Worldcon — the world's longest-running science fiction/fantasy convention. The Orange County Register reports there were fans \"clad in capes, gowns and elaborate character…",
       "tags": [
-        "How to Watch",
-        "How to Watch Football",
-        "How to Watch Sport"
+        "books"
       ],
-      "published_at": "2026-09-05T15:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/how-to-watch/football/ajax-vs-psv-eindhoven-eredivisie-2026-27"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-vVgQkc3g4mtSuB8q4gAg9d",
-      "title": "My first 90 minutes wandering through Silent Hill: Townfall's 90s Scottish town were atmospheric… and aimless",
-      "url": "https://www.techradar.com/gaming/playstation/my-first-90-minutes-wandering-through-silent-hill-townfalls-90s-scottish-town-were-atmospheric-and-aimless",
-      "domain": "techradar.com",
-      "category": "Systems",
-      "summary": "We go hands-on with an extended section of the next Silent Hill release at Gamescom 2026.",
-      "tags": [
-        "Consoles &amp; PC",
-        "Gaming",
-        "Playstation"
-      ],
-      "published_at": "2026-09-05T15:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/gaming/playstation/my-first-90-minutes-wandering-through-silent-hill-townfalls-90s-scottish-town-were-atmospheric-and-aimless"
-        }
-      ]
-    },
-    {
-      "id": "TechRadar-aTtDkMUKRq2NN2rnDWXpqn",
-      "title": "Samsung's Labor Day appliance sale is live — $1,500 off Bespoke refrigerators, AI washers and dryers, dishwashers, and more",
-      "url": "https://www.techradar.com/seasonal-sales/samsungs-labor-day-appliance-sale-is-live-usd1-500-off-bespoke-refrigerators-ai-washers-and-dryers-dishwashers-and-more",
-      "domain": "techradar.com",
-      "category": "AI / ML",
-      "summary": "Samsung's Labor Day sale is live, and I have all the top offers, including up to $1,500 in savings on Bespoke refrigerators, AI washers and dryers, ranges, dishwashers, and more.",
-      "tags": [
-        "Seasonal Sales"
-      ],
-      "published_at": "2026-09-05T14:30:00+00:00",
-      "sources": [
-        {
-          "name": "TechRadar",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techradar.com/seasonal-sales/samsungs-labor-day-appliance-sale-is-live-usd1-500-off-bespoke-refrigerators-ai-washers-and-dryers-dishwashers-and-more"
-        }
-      ]
-    },
-    {
-      "id": "Slashdot-https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "To Promote Grand Theft Auto 6, Mayor Might Transform Miami into 'Vice City'",
-      "url": "https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "domain": "games.slashdot.org",
-      "category": "Systems",
-      "summary": "Rockstar Games and the mayor of Miami-Dade county are discussing a joint marketing campaign transforming parts of the county to look like areas from Grand Theft Auto 6, reports the blog Rock Paper Shotgun: The proposed publicity event…",
-      "tags": [
-        "government"
-      ],
-      "published_at": "2026-09-06T04:34:00+00:00",
+      "published_at": "2026-09-06T07:34:00+00:00",
       "sources": [
         {
           "name": "Slashdot",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+          "thread_url": "https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=rss1.0mainlinkanon&utm_medium=feed"
         }
       ]
     },
@@ -3297,32 +3358,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.newscientist.com/article/2587510-pig-kidney-kept-a-man-off-dialysis-for-nine-months-in-world-first/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
-        }
-      ]
-    },
-    {
-      "id": "378872d130b960cb",
-      "title": "Insurers Search for Answers to Rein in Rogue AI",
-      "url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
-      "domain": "darkreading.com",
-      "category": "AI / ML",
-      "summary": "An anonymous reader quotes a report from The Hill: Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) are calling for a permanent ban on the development and deployment of artificial superintelligence, citing a series of recent…",
-      "tags": [
-        "ai"
-      ],
-      "published_at": "2026-09-04T03:30:00+00:00",
-      "sources": [
-        {
-          "name": "Slashdot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://yro.slashdot.org/story/26/09/03/2222247/bernie-sanders-proposes-artificial-superintelligence-ban-amid-rogue-ai-hackings?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-        },
-        {
-          "name": "Dark Reading",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai"
         }
       ]
     },
@@ -3575,7 +3610,7 @@
       ]
     },
     {
-      "id": "1ed56983534b3ee6",
+      "id": "Platformer-6a9610144f68b90001e85e1f",
       "title": "The Hugging Face attack was worse than we thought",
       "url": "https://www.platformer.news/openai-huggingface-metr-report-slowdown/",
       "domain": "platformer.news",
@@ -3593,12 +3628,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.platformer.news/openai-huggingface-metr-report-slowdown/"
-        },
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/ai/2026/09/03/nvidia-expands-its-open-source-ai-presence-with-129-billion-hugging-face-buy/5294352"
         }
       ]
     },
@@ -4044,6 +4073,24 @@
       ]
     },
     {
+      "id": "Techmeme-https://www.techmeme.com/260906/p3#a260906p3",
+      "title": "Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies (Philip Wegmann/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260906/p3#a260906p3",
+      "domain": "techmeme.com",
+      "category": "AI / ML",
+      "summary": "Philip Wegmann / Wall Street Journal : Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies — Trump administration officials are…",
+      "tags": [],
+      "published_at": "2026-09-06T06:00:01+00:00",
+      "sources": [
+        {
+          "name": "Techmeme",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techmeme.com/260906/p3#a260906p3"
+        }
+      ]
+    },
+    {
       "id": "Techmeme-https://www.techmeme.com/260906/p2#a260906p2",
       "title": "Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)",
       "url": "https://www.techmeme.com/260906/p2#a260906p2",
@@ -4058,24 +4105,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techmeme.com/260906/p2#a260906p2"
-        }
-      ]
-    },
-    {
-      "id": "Techmeme-https://www.techmeme.com/260905/p15#a260905p15",
-      "title": "The data center backlash is challenging Texas' pro-business approach; Wood Mackenzie: Texas has more data center capacity under construction than any US state (Stephanie Findlay/Financial Times)",
-      "url": "https://www.techmeme.com/260905/p15#a260905p15",
-      "domain": "techmeme.com",
-      "category": "Hardware",
-      "summary": "Stephanie Findlay / Financial Times : The data center backlash is challenging Texas' pro-business approach; Wood Mackenzie: Texas has more data center capacity under construction than any US state — For 30 years the state has profited from…",
-      "tags": [],
-      "published_at": "2026-09-06T03:10:01+00:00",
-      "sources": [
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260905/p15#a260905p15"
         }
       ]
     },
@@ -4146,24 +4175,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techmeme.com/260905/p10#a260905p10"
-        }
-      ]
-    },
-    {
-      "id": "Techmeme-https://www.techmeme.com/260905/p6#a260905p6",
-      "title": "Q&A with Kai-Fu Lee on China's open-model advantage, AI's impact on jobs, US export restrictions on chips, Chinese AI's role in developing countries, and more (Mishal Husain/Bloomberg)",
-      "url": "https://www.techmeme.com/260905/p6#a260905p6",
-      "domain": "techmeme.com",
-      "category": "AI / ML",
-      "summary": "Mishal Husain / Bloomberg : Q&A with Kai-Fu Lee on China's open-model advantage, AI's impact on jobs, US export restrictions on chips, Chinese AI's role in developing countries, and more — Chinese AI companies are rapidly closing the gap…",
-      "tags": [],
-      "published_at": "2026-09-05T06:45:01+00:00",
-      "sources": [
-        {
-          "name": "Techmeme",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techmeme.com/260905/p6#a260905p6"
         }
       ]
     },
@@ -5234,6 +5245,60 @@
       ]
     },
     {
+      "id": "Phoronix-https://www.phoronix.com/news/ClangIR-Build-Default-Maybe",
+      "title": "LLVM Developers Discuss Enabling ClangIR Build By Default",
+      "url": "https://www.phoronix.com/news/ClangIR-Build-Default-Maybe",
+      "domain": "phoronix.com",
+      "category": "Systems",
+      "summary": "ClangIR has been in development for a number of years now as a new intermediate representation for the Clang compiler. ClangIR makes use of MLIR and is higher-level than LLVM IR. With ClangIR able to preserve more C/C++ source semantics…",
+      "tags": [],
+      "published_at": "2026-09-06T10:43:10+00:00",
+      "sources": [
+        {
+          "name": "Phoronix",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.phoronix.com/news/ClangIR-Build-Default-Maybe"
+        }
+      ]
+    },
+    {
+      "id": "Phoronix-https://www.phoronix.com/news/Linux-7.3-rc2-kmalloc-obj",
+      "title": "Linux 7.3-rc2 Transitions More kmalloc Calls To The Superior kmalloc_obj",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc2-kmalloc-obj",
+      "domain": "phoronix.com",
+      "category": "Systems",
+      "summary": "Ahead of the Linux 7.3-rc2 kernel release due out later today, a merge causing a lot of code churn was pulled in by Linus Torvalds. This tree-wide effort converts more of the kmalloc() function calls over to the newer and superior…",
+      "tags": [],
+      "published_at": "2026-09-06T10:28:25+00:00",
+      "sources": [
+        {
+          "name": "Phoronix",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.phoronix.com/news/Linux-7.3-rc2-kmalloc-obj"
+        }
+      ]
+    },
+    {
+      "id": "Phoronix-https://www.phoronix.com/news/Slackware-16-Alpha",
+      "title": "Slackware 16 Alpha 1 Available Following GCC 16.2, Glibc 2.44 & Binutils 2.47 Upgrade",
+      "url": "https://www.phoronix.com/news/Slackware-16-Alpha",
+      "domain": "phoronix.com",
+      "category": "Systems",
+      "summary": "The timing on Saturday's Slackware-based Zenwalk ISO \"current milestone\" update is now more clear with upstream Slackware having prepared what is its first alpha release of the upcoming Slackware 16...",
+      "tags": [],
+      "published_at": "2026-09-06T10:16:15+00:00",
+      "sources": [
+        {
+          "name": "Phoronix",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.phoronix.com/news/Slackware-16-Alpha"
+        }
+      ]
+    },
+    {
       "id": "Phoronix-https://www.phoronix.com/news/Zenwalk-2026-Current",
       "title": "Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20",
       "url": "https://www.phoronix.com/news/Zenwalk-2026-Current",
@@ -5391,88 +5456,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.phoronix.com/news/Wine-11.17-Released"
-        }
-      ]
-    },
-    {
-      "id": "140f811f2bc9ba30",
-      "title": "Amazon Linux 2027 Shows Off Nice Performance Gains On AMD EPYC In The AWS Cloud",
-      "url": "https://www.phoronix.com/review/amazon-linux-2027-benchmarks",
-      "domain": "phoronix.com",
-      "category": "Hardware",
-      "summary": "Yesterday AWS announced the public preview of Amazon Linux 2027 as their successor to the current Amazon Linux 2023 in-house distribution. With all the software upgrades and improvements like building packages now with link-time…",
-      "tags": [
-        "AMD RDNA 4",
-        "AMD Radeon 9000",
-        "Ancient Gameplays",
-        "Cyberpunk 2077",
-        "DLSS 5",
-        "DLSS NR",
-        "FP8",
-        "Featured",
-        "GPUs",
-        "Hardware",
-        "News",
-        "Nvidia",
-        "PC Components",
-        "RTX 50 Series",
-        "RX 9070 XT"
-      ],
-      "published_at": "2026-09-04T15:33:21+00:00",
-      "sources": [
-        {
-          "name": "Phoronix",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.phoronix.com/review/amazon-linux-2027-benchmarks"
-        },
-        {
-          "name": "Tom's Hardware",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal"
-        },
-        {
-          "name": "Wccftech",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/"
-        }
-      ]
-    },
-    {
-      "id": "Phoronix-https://www.phoronix.com/news/NetworkManager-AI-Canary",
-      "title": "NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary",
-      "url": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
-      "domain": "phoronix.com",
-      "category": "Systems",
-      "summary": "Last month the NetworkManager project adopted an AI coding policy where authors are responsible for 100% of the code they submit and must be able to explain it all. In an attempt to catch AI coding agents that may be trying to bypass their…",
-      "tags": [],
-      "published_at": "2026-09-04T14:52:01+00:00",
-      "sources": [
-        {
-          "name": "Phoronix",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.phoronix.com/news/NetworkManager-AI-Canary"
-        }
-      ]
-    },
-    {
-      "id": "Phoronix-https://www.phoronix.com/news/PoCL-7.2-Released",
-      "title": "PoCL 7.2 Released With Official OpenCL 3.0 Conformance On RISC-V & x86_64 CPUs",
-      "url": "https://www.phoronix.com/news/PoCL-7.2-Released",
-      "domain": "phoronix.com",
-      "category": "Systems",
-      "summary": "The Portable Computing Language project is out today with PoCL 7.2 as this portable, MIT-licensed OpenCL implementation that runs across various CPU architectures as well as targeting other GPUs/hardware with LLVM back-ends. Notable with…",
-      "tags": [],
-      "published_at": "2026-09-04T14:33:57+00:00",
-      "sources": [
-        {
-          "name": "Phoronix",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.phoronix.com/news/PoCL-7.2-Released"
         }
       ]
     },
@@ -6179,11 +6162,11 @@
       ]
     },
     {
-      "id": "0cbe2e884a4af4a0",
-      "title": "Quantum Startup Qarakal Takes Lessons From Classical Systems With Pangaea Architecture",
-      "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
+      "id": "Stack Overflow Blog-ed3e57af-3814-4e23-a270-d234eb2b4d82",
+      "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
+      "url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/",
+      "domain": "stackoverflow.blog",
+      "category": "Dev Tools",
       "summary": "",
       "tags": [
         "buiilding-software",
@@ -6191,19 +6174,13 @@
         "contributed",
         "quantum-computing"
       ],
-      "published_at": "2026-08-18T21:13:45+00:00",
+      "published_at": "2026-08-20T18:43:39+00:00",
       "sources": [
         {
           "name": "Stack Overflow Blog",
           "score": 0,
           "comments": 0,
           "thread_url": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/"
-        },
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266"
         }
       ]
     },
@@ -6231,6 +6208,62 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/"
+        }
+      ]
+    },
+    {
+      "id": "InfoQ-https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "How Figma Uses AI Agents for Security",
+      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "domain": "infoq.com",
+      "category": "AI / ML",
+      "summary": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from…",
+      "tags": [
+        "AI Security",
+        "AI, ML & Data Engineering",
+        "Agents",
+        "Application Security",
+        "Cloud Security",
+        "DevOps",
+        "DevSecOps",
+        "Security Assessment",
+        "news"
+      ],
+      "published_at": "2026-09-06T06:59:00+00:00",
+      "sources": [
+        {
+          "name": "InfoQ",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+      ]
+    },
+    {
+      "id": "InfoQ-https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD",
+      "url": "https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "domain": "infoq.com",
+      "category": "Dev Tools",
+      "summary": "TrueNAS CORE has been the standard for open-source storage using FreeBSD and OpenZFS. The shift to TrueNAS SCALE, based on Debian, left some users needing alternatives. FreeCORE upgrades TrueNAS CORE to FreeBSD 15.0, restoring essential…",
+      "tags": [
+        "Cloud",
+        "DevOps",
+        "Development",
+        "Fork",
+        "FreeBSD",
+        "Infrastructure",
+        "Linux",
+        "Storage",
+        "news"
+      ],
+      "published_at": "2026-09-06T06:06:00+00:00",
+      "sources": [
+        {
+          "name": "InfoQ",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
         }
       ]
     },
@@ -6532,32 +6565,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.infoq.com/podcasts/personality-over-skillset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
-        }
-      ]
-    },
-    {
-      "id": "InfoQ-https://www.infoq.com/news/2026/09/jquery-20-years/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "title": "Twenty Years of jQuery: How a Little Library Rewired Web Development",
-      "url": "https://www.infoq.com/news/2026/09/jquery-20-years/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "domain": "infoq.com",
-      "category": "Dev Tools",
-      "summary": "jQuery, created by John Resig and released in 2006, is a JavaScript library that simplifies HTML manipulation, event handling, animation, and Ajax. It enabled easier web development by providing an accessible API across browsers. While its…",
-      "tags": [
-        "Development",
-        "JavaScript",
-        "JavaScript Libraries",
-        "Web Browser",
-        "Web Development",
-        "jQuery",
-        "news"
-      ],
-      "published_at": "2026-09-04T05:03:00+00:00",
-      "sources": [
-        {
-          "name": "InfoQ",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.infoq.com/news/2026/09/jquery-20-years/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
         }
       ]
     },
@@ -7118,26 +7125,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html"
-        }
-      ]
-    },
-    {
-      "id": "Martin Fowler-https://martinfowler.com/rachels-ramblings/code-review.html",
-      "title": "Maybe We Shouldn't Be Reviewing All This Code",
-      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
-      "domain": "martinfowler.com",
-      "category": "Dev Tools",
-      "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of…",
-      "tags": [
-        "rachels-ramblings"
-      ],
-      "published_at": "2026-09-02T13:32:00+00:00",
-      "sources": [
-        {
-          "name": "Martin Fowler",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://martinfowler.com/rachels-ramblings/code-review.html"
         }
       ]
     },
@@ -11431,29 +11418,72 @@
       ]
     },
     {
-      "id": "85a4b273ca01cda5",
-      "title": "Minisforum Introduces MS-S1 MAX-P495 Mini PC, Powered By Ryzen AI Max+ PRO 495 SoC Coupled With 192 GB Memory",
-      "url": "https://wccftech.com/minisforum-introduces-ms-s1-max-p495-mini-pc/",
+      "id": "Tom's Hardware-VFkThqYFPMCBN82zDssmFD",
+      "title": "Former Old School RuneScape dev gets jail time for stealing $400,000 from players — virtual gold stolen and sold on the black market before Jagex caught the culprit using hidden firewall tweaks",
+      "url": "https://www.tomshardware.com/video-games/former-old-school-runescape-dev-gets-jail-time-for-stealing-usd400-000-from-players-virtual-gold-stolen-and-sold-on-the-black-market-before-jagex-caught-the-culprit-using-hidden-firewall-tweaks",
+      "domain": "tomshardware.com",
+      "category": "Hardware",
+      "summary": "A former Jagex employee stole over $400,000 worth of in-game items and virtual currency from OSRS players and sold them on the black market. He was eventually arrested and sentenced to a three-year prison sentence, with one investigator…",
+      "tags": [
+        "Video Games"
+      ],
+      "published_at": "2026-09-06T10:30:00+00:00",
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.tomshardware.com/video-games/former-old-school-runescape-dev-gets-jail-time-for-stealing-usd400-000-from-players-virtual-gold-stolen-and-sold-on-the-black-market-before-jagex-caught-the-culprit-using-hidden-firewall-tweaks"
+        }
+      ]
+    },
+    {
+      "id": "Tom's Hardware-7xQoLy3DJad6v6ZQW7bRnW",
+      "title": "This 246TB SSD media server is built for millionaire cinephiles  —Kaleidescape's newest home theater vault supports 25 simultaneous 4K streams, stores up to 2,300 4K cinematic movies",
+      "url": "https://www.tomshardware.com/pc-components/storage/this-246tb-ssd-media-server-is-built-for-millionaire-cinephiles-kaleidescapes-newest-home-theater-vault-supports-25-simultaneous-4k-streams-stores-up-to-2-300-4k-cinematic-movies",
+      "domain": "tomshardware.com",
+      "category": "Hardware",
+      "summary": "Kaleidescape, a maker of luxury home theater equipment, has revealed its latest media server, the \"Compact Terra Prime 246TB SSD.\"",
+      "tags": [
+        "PC Components",
+        "Storage"
+      ],
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.tomshardware.com/pc-components/storage/this-246tb-ssd-media-server-is-built-for-millionaire-cinephiles-kaleidescapes-newest-home-theater-vault-supports-25-simultaneous-4k-streams-stores-up-to-2-300-4k-cinematic-movies"
+        }
+      ]
+    },
+    {
+      "id": "327536f1501d3693",
+      "title": "China’s Sugon Beats Intel & AMD To The First 64-Thread Laptop, Loading 128 GB RAM And 8 TB Storage",
+      "url": "https://wccftech.com/china-sugon-beats-intel-amd-to-the-first-64-thread-laptop/",
       "domain": "wccftech.com",
       "category": "Hardware",
       "summary": "If you're looking for a capable machine for everyday tasks and media consumption without breaking the bank, there isn't a better deal out there than this one.",
       "tags": [
-        "AMD Ryzen AI MAX+ PRO 495",
-        "Announcement",
+        "C86-4G",
+        "C86-5G",
+        "CPUs",
         "Featured",
-        "Gorgon Halo",
         "Hardware",
-        "LPDDR5X",
-        "MS-S1 MAX-P495",
+        "Hygon",
+        "LLM",
+        "LP5X",
+        "N50 Pro",
         "News",
         "PC Components",
-        "PCIe 4.0",
-        "RDNA 3.5",
-        "Radeon 8060S",
-        "Zen 5",
-        "minisforum"
+        "SMT4",
+        "SO-Dimm",
+        "Sticky",
+        "Sugon",
+        "Thread Beast"
       ],
-      "published_at": "2026-09-05T12:08:41+00:00",
+      "published_at": "2026-09-05T18:51:54+00:00",
       "sources": [
         {
           "name": "Tom's Hardware",
@@ -11465,7 +11495,7 @@
           "name": "Wccftech",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://wccftech.com/minisforum-introduces-ms-s1-max-p495-mini-pc/"
+          "thread_url": "https://wccftech.com/china-sugon-beats-intel-amd-to-the-first-64-thread-laptop/"
         }
       ]
     },
@@ -11562,6 +11592,33 @@
       ]
     },
     {
+      "id": "84ab98aceaaf1658",
+      "title": "AMD's next-gen RDNA 5 GPUs could hit 3.4GHz, but they're not coming anytime soon",
+      "url": "https://www.techspot.com/news/113744-amd-next-gen-rdna-5-gpus-could-hit.html",
+      "domain": "techspot.com",
+      "category": "Hardware",
+      "summary": "If you have an RX 9000 series GPU, you can try out DLSS 5 on your PC right now and absolutely destroy the stable performance you were getting before.",
+      "tags": [
+        "GPUs",
+        "PC Components"
+      ],
+      "published_at": "2026-09-04T20:39:00+00:00",
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal"
+        },
+        {
+          "name": "TechSpot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techspot.com/news/113744-amd-next-gen-rdna-5-gpus-could-hit.html"
+        }
+      ]
+    },
+    {
       "id": "Tom's Hardware-CFioTAC9PgdXXQppFZUgr",
       "title": "Xbox Game Pass imposes monthly cloud gaming limits, just 15 hours per month for Ultimate — subscribers and non-subscribers can buy more hours to keep gaming",
       "url": "https://www.tomshardware.com/video-games/cloud-gaming/xbox-game-pass-adds-monthly-time-limits-subscribers-and-non-subcribers-can-buy-more-hours-to-keep-gaming",
@@ -11621,48 +11678,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.tomshardware.com/video-games/handheld-gaming/worlds-first-fully-transparent-video-game-console-is-on-its-way-to-kickstarter-arduview-handhelds-shell-pcb-and-display-are-all-transparent"
-        }
-      ]
-    },
-    {
-      "id": "Tom's Hardware-hwKgfyH3u6hSmG2NL26DAM",
-      "title": "We tested DLSS 5 in NBA 2K27 with every RTX 50-series GPU — first official release comes with a big performance hit, but almost every Blackwell card can run it at 1080p",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p",
-      "domain": "tomshardware.com",
-      "category": "Hardware",
-      "summary": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering.",
-      "tags": [
-        "PC Gaming",
-        "Video Games"
-      ],
-      "published_at": "2026-09-05T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "Tom's Hardware",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p"
-        }
-      ]
-    },
-    {
-      "id": "Tom's Hardware-KehckspwkojA6wjieKHvYF",
-      "title": "Taiwan cracks down on tech businesses with illegal Chinese ownership — 166 investigations and at least 36 convictions since 2020",
-      "url": "https://www.tomshardware.com/tech-industry/policy/taiwan-cracks-down-on-tech-businesses-with-illegal-chinese-ownership-166-investigations-and-at-least-36-convictions-since-2020",
-      "domain": "tomshardware.com",
-      "category": "Hardware",
-      "summary": "Taiwan's top investigative agency has been tracking Chinese businesses operating on the island without proper authority and shutting them down. These companies have been hiring Taiwanese experts to help with their semiconductor research…",
-      "tags": [
-        "Policy",
-        "Tech Industry"
-      ],
-      "published_at": "2026-09-05T10:40:00+00:00",
-      "sources": [
-        {
-          "name": "Tom's Hardware",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.tomshardware.com/tech-industry/policy/taiwan-cracks-down-on-tech-businesses-with-illegal-chinese-ownership-166-investigations-and-at-least-36-convictions-since-2020"
         }
       ]
     },
@@ -11780,168 +11795,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.servethehome.com/nvidia-and-mediatek-ink-3-5b-investment-deal-accelerate-nvlink-fusion-adoption/"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5294018",
-      "title": "Optics Still Driving Marvell’s AI Business More Than Custom Chips",
-      "url": "https://www.nextplatform.com/connect/2026/09/02/optics-still-driving-marvells-ai-business-more-than-custom-chips/5294018",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-09-02T17:59:47+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/connect/2026/09/02/optics-still-driving-marvells-ai-business-more-than-custom-chips/5294018"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5293559",
-      "title": "VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-Prem",
-      "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-09-01T04:43:05+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5293474",
-      "title": "In The Long Run, Nvidia NVSwitch Is The InfiniBand Of Scale Up AI Networks",
-      "url": "https://www.nextplatform.com/connect/2026/08/31/in-the-long-run-nvidia-nvswitch-is-the-infiniband-of-scale-up-ai-networks/5293474",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-31T17:12:47+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/connect/2026/08/31/in-the-long-run-nvidia-nvswitch-is-the-infiniband-of-scale-up-ai-networks/5293474"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5292984",
-      "title": "Peeling Apart That Supposed $120 Billion Chip Deal Google Inked With Marvell",
-      "url": "https://www.nextplatform.com/compute/2026/08/27/peeling-apart-that-supposed-120-billion-chip-deal-google-inked-with-marvell/5292984",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-27T14:24:59+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/27/peeling-apart-that-supposed-120-billion-chip-deal-google-inked-with-marvell/5292984"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5292807",
-      "title": "The Network Is More Of Nvidia’s Computer Than It Ever Was At Sun",
-      "url": "https://www.nextplatform.com/compute/2026/08/27/the-network-is-more-of-nvidias-computer-than-it-ever-was-at-sun/5292807",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-27T04:38:50+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/27/the-network-is-more-of-nvidias-computer-than-it-ever-was-at-sun/5292807"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5292363",
-      "title": "You Probably Forget How Cheap Memory Used To Be – And Is Not So Now",
-      "url": "https://www.nextplatform.com/store/2026/08/25/you-probably-forget-how-cheap-memory-used-to-be-and-is-not-so-now/5292363",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-25T16:03:21+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/store/2026/08/25/you-probably-forget-how-cheap-memory-used-to-be-and-is-not-so-now/5292363"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5289699",
-      "title": "IBM Pushes System Design To Reach Ultra-Cold Temperatures For Quantum",
-      "url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-19T14:16:38+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5289400",
-      "title": "Cerebras Overclocks WSE-3 Waferscale Engine To Boost Inference Oomph In “Nexus” CS-4",
-      "url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-19T04:39:18+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400"
-        }
-      ]
-    },
-    {
-      "id": "The Next Platform-https://www.nextplatform.com/a/5288804",
-      "title": "Cisco Can Finally Sell Lots Of Supercomputers And Their Networks",
-      "url": "https://www.nextplatform.com/connect/2026/08/17/cisco-can-finally-sell-lots-of-supercomputers-and-their-networks/5288804",
-      "domain": "nextplatform.com",
-      "category": "Hardware",
-      "summary": "",
-      "tags": [],
-      "published_at": "2026-08-17T21:02:39+00:00",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.nextplatform.com/connect/2026/08/17/cisco-can-finally-sell-lots-of-supercomputers-and-their-networks/5288804"
         }
       ]
     },
@@ -12150,6 +12003,29 @@
       ]
     },
     {
+      "id": "Hackaday-https://hackaday.com/?p=1149806",
+      "title": "WordStar Lives Again (and Again)",
+      "url": "https://hackaday.com/2026/09/06/wordstar-lives-again-and-again/",
+      "domain": "hackaday.com",
+      "category": "Hardware",
+      "summary": "Word processors and editors are a funny thing. It doesn’t really matter what’s “best,” whatever that means. If you have finger memory built up for one program, it’s painful to …read more",
+      "tags": [
+        "Retrocomputing",
+        "Software Hacks",
+        "dosbox",
+        "wordstar"
+      ],
+      "published_at": "2026-09-06T08:00:05+00:00",
+      "sources": [
+        {
+          "name": "Hackaday",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://hackaday.com/2026/09/06/wordstar-lives-again-and-again/"
+        }
+      ]
+    },
+    {
       "id": "Hackaday-https://hackaday.com/?p=1149938",
       "title": "There’s Whole Computer Inside This Mouse",
       "url": "https://hackaday.com/2026/09/05/theres-whole-computer-inside-this-mouse/",
@@ -12295,39 +12171,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://hackaday.com/2026/09/05/if-at-first-you-dont-succeed/"
-        }
-      ]
-    },
-    {
-      "id": "18f6304806289fcc",
-      "title": "Running Generative AI on an RP2350",
-      "url": "https://hackaday.com/2026/09/05/running-generative-ai-on-an-rp2350/",
-      "domain": "hackaday.com",
-      "category": "AI / ML",
-      "summary": "Driven by a desire for privacy, customization, and lower costs, there’s growing interest in AI models which can be run on local hardware. Few of them go as far as …read more",
-      "tags": [
-        "AI model",
-        "Artificial Intelligence",
-        "Raspberry Pi",
-        "deep learning",
-        "diffusion model",
-        "diffusion models",
-        "rp2350",
-        "transformer"
-      ],
-      "published_at": "2026-09-04T12:11:00+00:00",
-      "sources": [
-        {
-          "name": "Hackaday",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://hackaday.com/2026/09/05/running-generative-ai-on-an-rp2350/"
-        },
-        {
-          "name": "TechSpot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techspot.com/news/113740-nyc-nation-largest-school-system-bans-ai-students.html"
         }
       ]
     },
@@ -12665,24 +12508,6 @@
       ]
     },
     {
-      "id": "TechSpot-https://www.techspot.com/news/113744-amd-next-gen-rdna-5-gpus-could-hit.html",
-      "title": "AMD's next-gen RDNA 5 GPUs could hit 3.4GHz, but they're not coming anytime soon",
-      "url": "https://www.techspot.com/news/113744-amd-next-gen-rdna-5-gpus-could-hit.html",
-      "domain": "techspot.com",
-      "category": "Hardware",
-      "summary": "According to a post on the AnandTech Forums by the generally reliable leaker Kepler_L2, internal AMD documentation points to a 3.1 to 3.4 GHz target frequency range for RDNA 5. The comment came in response to another forum member…",
-      "tags": [],
-      "published_at": "2026-09-04T20:39:00+00:00",
-      "sources": [
-        {
-          "name": "TechSpot",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.techspot.com/news/113744-amd-next-gen-rdna-5-gpus-could-hit.html"
-        }
-      ]
-    },
-    {
       "id": "TechSpot-https://www.techspot.com/news/113742-nvidia-pair-software-turns-idle-home-computers-local.html",
       "title": "Nvidia's PAIR software turns idle home computers into a local AI cluster",
       "url": "https://www.techspot.com/news/113742-nvidia-pair-software-turns-idle-home-computers-local.html",
@@ -12751,6 +12576,50 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.techspot.com/news/113735-google-turning-email-document-note-taking-apps-conversational.html"
+        }
+      ]
+    },
+    {
+      "id": "TechSpot-https://www.techspot.com/news/113740-nyc-nation-largest-school-system-bans-ai-students.html",
+      "title": "New York City bans generative AI for elementary and middle school students",
+      "url": "https://www.techspot.com/news/113740-nyc-nation-largest-school-system-bans-ai-students.html",
+      "domain": "techspot.com",
+      "category": "Hardware",
+      "summary": "New York City's policy is a one-year moratorium for the 2026-2027 school year, rather than being a permanent or statewide ban. Students in public schools from preschool through eighth grade cannot use student-facing generative AI. Read…",
+      "tags": [],
+      "published_at": "2026-09-04T12:11:00+00:00",
+      "sources": [
+        {
+          "name": "TechSpot",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.techspot.com/news/113740-nyc-nation-largest-school-system-bans-ai-students.html"
+        }
+      ]
+    },
+    {
+      "id": "Wccftech-https://wccftech.com/?post_type=review&p=1740637",
+      "title": "Twisted Tower Review – Let’s All Shoot Pennywise",
+      "url": "https://wccftech.com/review/twisted-tower-review-lets-all-shoot-pennywise/",
+      "domain": "wccftech.com",
+      "category": "Hardware",
+      "summary": "When did I get old? People are calling games like Halo and Bioshock \"Old School\" or just \"old\". I remember reading a post on Reddit where somebody said Bioshock doesn't hold up by today's standards. I still want to hurt that person…",
+      "tags": [
+        "3d realms",
+        "Atmos Games",
+        "Featured",
+        "Gaming",
+        "Review",
+        "Twisted Tower",
+        "shooter"
+      ],
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://wccftech.com/review/twisted-tower-review-lets-all-shoot-pennywise/"
         }
       ]
     },
@@ -12843,6 +12712,38 @@
       ]
     },
     {
+      "id": "Wccftech-https://wccftech.com/?p=1743575",
+      "title": "Minisforum Introduces MS-S1 MAX-P495 Mini PC, Powered By Ryzen AI Max+ PRO 495 SoC Coupled With 192 GB Memory",
+      "url": "https://wccftech.com/minisforum-introduces-ms-s1-max-p495-mini-pc/",
+      "domain": "wccftech.com",
+      "category": "Hardware",
+      "summary": "The new mini PC can offer up to 131 TOPS of AI power, allowing it to run 300B LLMs locally. Minisforum Showcases MS-S1 MAX-P495 Mini PC With 16-Core/32-Thread Gorgon Halo Processor, 192 GB RAM, and a Dedicated PCIe x16 Slot for Expansion…",
+      "tags": [
+        "AMD Ryzen AI MAX+ PRO 495",
+        "Announcement",
+        "Featured",
+        "Gorgon Halo",
+        "Hardware",
+        "LPDDR5X",
+        "MS-S1 MAX-P495",
+        "News",
+        "PCIe 4.0",
+        "RDNA 3.5",
+        "Radeon 8060S",
+        "Zen 5",
+        "minisforum"
+      ],
+      "published_at": "2026-09-05T12:08:41+00:00",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://wccftech.com/minisforum-introduces-ms-s1-max-p495-mini-pc/"
+        }
+      ]
+    },
+    {
       "id": "Wccftech-https://wccftech.com/?p=1743557",
       "title": "NVIDIA Rolls Out Hotfix 616.86 To Kill Three Bugs As Users Still Wait On The 8-Bit Flickering Fix",
       "url": "https://wccftech.com/nvidia-rolls-out-hotfix-616-86/",
@@ -12924,36 +12825,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://wccftech.com/rtx-3050-laptop-foreign-pricing-vs-us-market/"
-        }
-      ]
-    },
-    {
-      "id": "Wccftech-https://wccftech.com/?p=1743511",
-      "title": "Blizzard’s StarCraft Site Breaks Itself Days Before BlizzCon, and Fans Already Decoded a Hidden 2575 Horror ARG",
-      "url": "https://wccftech.com/starcraft-site-glitch-blizzcon-hidden-2575-horror-arg-decoded/",
-      "domain": "wccftech.com",
-      "category": "Hardware",
-      "summary": "With BlizzCon 2026 kicking off in just over a week in Anaheim, Blizzard's official StarCraft website has started behaving strangely, and the community has wasted no time picking its not-at-all-casual glitches apart. What began as a handful…",
-      "tags": [
-        "ARG",
-        "BlizzCon 2026",
-        "Gaming",
-        "News",
-        "Nexon StarCraft",
-        "Rumor",
-        "StarCraft Shooter",
-        "StarCraft nexon",
-        "Starcraft",
-        "Starcraft II",
-        "nexon"
-      ],
-      "published_at": "2026-09-04T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "Wccftech",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://wccftech.com/starcraft-site-glitch-blizzcon-hidden-2575-horror-arg-decoded/"
         }
       ]
     },
@@ -13457,6 +13328,42 @@
       ]
     },
     {
+      "id": "The Hacker News-https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "domain": "thehackernews.com",
+      "category": "Security",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning…",
+      "tags": [],
+      "published_at": "2026-09-06T09:32:38+00:00",
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html"
+        }
+      ]
+    },
+    {
+      "id": "The Hacker News-https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "domain": "thehackernews.com",
+      "category": "Security",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off…",
+      "tags": [],
+      "published_at": "2026-09-06T08:34:20+00:00",
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html"
+        }
+      ]
+    },
+    {
       "id": "The Hacker News-https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
       "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
@@ -13615,24 +13522,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html"
-        }
-      ]
-    },
-    {
-      "id": "The Hacker News-https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "domain": "thehackernews.com",
-      "category": "Security",
-      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media…",
-      "tags": [],
-      "published_at": "2026-09-04T07:35:14+00:00",
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html"
         }
       ]
     },
@@ -14350,6 +14239,24 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready"
+        }
+      ]
+    },
+    {
+      "id": "Dark Reading-https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+      "title": "Insurers Search for Answers to Rein in Rogue AI",
+      "url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+      "domain": "darkreading.com",
+      "category": "Security",
+      "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
+      "tags": [],
+      "published_at": "2026-09-04T12:15:03+00:00",
+      "sources": [
+        {
+          "name": "Dark Reading",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai"
         }
       ]
     },
@@ -17543,6 +17450,26 @@
       ]
     },
     {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "title": "Quoting Zach Kehs",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "domain": "simonwillison.net",
+      "category": "Systems",
+      "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. — Zach Kehs…",
+      "tags": [
+        "technical-debt"
+      ],
+      "published_at": "2026-09-06T08:42:49+00:00",
+      "sources": [
+        {
+          "name": "Simon Willison",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
+        }
+      ]
+    },
+    {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
       "title": "Using Blender with coding agents on macOS",
       "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
@@ -17717,29 +17644,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
-        }
-      ]
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/1/geojson/",
-      "title": "GeoJSON Map Viewer",
-      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
-      "domain": "simonwillison.net",
-      "category": "AI / ML",
-      "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council ) and found a need to display some GeoJSON files on a map and…",
-      "tags": [
-        "chatgpt",
-        "geojson",
-        "geospatial",
-        "tools"
-      ],
-      "published_at": "2026-09-01T18:05:45+00:00",
-      "sources": [
-        {
-          "name": "Simon Willison",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://simonwillison.net/2026/Sep/1/geojson/"
         }
       ]
     },
@@ -18324,29 +18228,6 @@
       ]
     },
     {
-      "id": "Ars Science-https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
-      "title": "El Niño is now stronger than at any point in the last 1,000 years, study finds",
-      "url": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
-      "domain": "arstechnica.com",
-      "category": "Science",
-      "summary": "“One more warning sign here of what we're facing in a warmer world.”",
-      "tags": [
-        "ENSO",
-        "El Niño",
-        "Science",
-        "climate change"
-      ],
-      "published_at": "2026-08-31T16:04:44+00:00",
-      "sources": [
-        {
-          "name": "Ars Science",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/"
-        }
-      ]
-    },
-    {
       "id": "Ars Science-https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
       "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
       "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
@@ -18649,6 +18530,26 @@
       ]
     },
     {
+      "id": "Phys.org-news707884271",
+      "title": "Haze emergency grips Malaysian Borneo town",
+      "url": "https://phys.org/news/2026-09-haze-emergency-malaysian-borneo-town.html",
+      "domain": "phys.org",
+      "category": "Science",
+      "summary": "Acrid smoke hung heavily over the Malaysian town of Serian, seeping into homes and cloaking roadside stalls, as residents navigated an air-quality emergency fueled by transboundary haze from Indonesia's raging fires.",
+      "tags": [
+        "Environment"
+      ],
+      "published_at": "2026-09-06T07:31:35+00:00",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://phys.org/news/2026-09-haze-emergency-malaysian-borneo-town.html"
+        }
+      ]
+    },
+    {
       "id": "Phys.org-news707472556",
       "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
       "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
@@ -18817,7 +18718,7 @@
       ]
     },
     {
-      "id": "dfe8d8d7b00211e9",
+      "id": "Phys.org-news706274391",
       "title": "Scientists discover how narwhals grow nature's only straight tusk",
       "url": "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html",
       "domain": "phys.org",
@@ -18826,19 +18727,13 @@
       "tags": [
         "Plants & Animals"
       ],
-      "published_at": "2026-09-04T12:29:06+00:00",
+      "published_at": "2026-09-05T15:00:07+00:00",
       "sources": [
         {
           "name": "Phys.org",
           "score": 0,
           "comments": 0,
           "thread_url": "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html"
-        },
-        {
-          "name": "ScienceDaily",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm"
         }
       ]
     },
@@ -18883,55 +18778,6 @@
       ]
     },
     {
-      "id": "de65f780691e3655",
-      "title": "Super El Niño could have unexpected effect on UK winter",
-      "url": "https://www.newscientist.com/article/2587719-super-el-nino-could-have-unexpected-effect-on-uk-winter/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "domain": "newscientist.com",
-      "category": "Science",
-      "summary": "Has El Niño reached the West Coast? You might think it has. After all, the ocean off Southern and Central California is unusually warm. But that warmth is from a recent marine heat wave that predates the current El Niño. Much of the…",
-      "tags": [
-        "Climate change",
-        "Earth Sciences",
-        "Environment",
-        "extreme weather"
-      ],
-      "published_at": "2026-09-04T14:56:07+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-09-ocean-indicators-noaa-scientists-tracking.html"
-        },
-        {
-          "name": "New Scientist",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.newscientist.com/article/2587719-super-el-nino-could-have-unexpected-effect-on-uk-winter/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
-        }
-      ]
-    },
-    {
-      "id": "Phys.org-news707750426",
-      "title": "Late Roman decrees uncover military system behind amphitheater animal spectacles",
-      "url": "https://phys.org/news/2026-09-late-roman-decrees-uncover-military.html",
-      "domain": "phys.org",
-      "category": "Science",
-      "summary": "A study on Roman law by the Carlos III University of Madrid analyzes the regulations and complex imperial logistics governing the capture, transport and safety of animals used in spectacles in the Roman Empire—which were far more popular…",
-      "tags": [
-        "Archaeology"
-      ],
-      "published_at": "2026-09-05T11:20:01+00:00",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://phys.org/news/2026-09-late-roman-decrees-uncover-military.html"
-        }
-      ]
-    },
-    {
       "id": "New Scientist-https://www.newscientist.com/article/2587839-auto-draft/",
       "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
       "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -18970,6 +18816,28 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        }
+      ]
+    },
+    {
+      "id": "New Scientist-https://www.newscientist.com/article/2587719-auto-draft/",
+      "title": "Super El Niño could have unexpected effect on UK winter",
+      "url": "https://www.newscientist.com/article/2587719-super-el-nino-could-have-unexpected-effect-on-uk-winter/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "domain": "newscientist.com",
+      "category": "Science",
+      "summary": "An El Niño is usually expected to herald a cold end to winter in the UK – but this year could be different",
+      "tags": [
+        "Climate change",
+        "Environment",
+        "extreme weather"
+      ],
+      "published_at": "2026-09-04T14:56:07+00:00",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.newscientist.com/article/2587719-super-el-nino-could-have-unexpected-effect-on-uk-winter/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
         }
       ]
     },
@@ -19092,6 +18960,48 @@
       ]
     },
     {
+      "id": "ScienceAlert-https://www.sciencealert.com/?p=217460",
+      "title": "Scientists Are Trying to Define What 'Reversing Aging' Really Means",
+      "url": "https://www.sciencealert.com/scientists-are-trying-to-define-what-reversing-aging-really-means",
+      "domain": "sciencealert.com",
+      "category": "Science",
+      "summary": "Let's get specific. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "tags": [
+        "Health",
+        "MSFT Content"
+      ],
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencealert.com/scientists-are-trying-to-define-what-reversing-aging-really-means"
+        }
+      ]
+    },
+    {
+      "id": "ScienceAlert-https://www.sciencealert.com/?p=217573",
+      "title": "Extremely Rare 'Rapunzel Syndrome' Can Cause a Hairball So Large It Requires Surgery",
+      "url": "https://www.sciencealert.com/extremely-rare-rapunzel-syndrome-can-cause-a-hairball-so-large-it-requires-surgery",
+      "domain": "sciencealert.com",
+      "category": "Science",
+      "summary": "A serious outcome from a compulsive behavior. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "tags": [
+        "Health",
+        "MSFT Content"
+      ],
+      "published_at": "2026-09-06T08:00:00+00:00",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencealert.com/extremely-rare-rapunzel-syndrome-can-cause-a-hairball-so-large-it-requires-surgery"
+        }
+      ]
+    },
+    {
       "id": "ScienceAlert-https://www.sciencealert.com/?p=217244",
       "title": "Squid Are Taking Over The Ocean – And Not For The Reason You Might Think",
       "url": "https://www.sciencealert.com/squid-are-taking-over-the-ocean-and-not-for-the-reason-you-might-think",
@@ -19155,15 +19065,17 @@
       ]
     },
     {
-      "id": "ScienceAlert-https://www.sciencealert.com/?p=217137",
+      "id": "77d7d19f4846eba7",
       "title": "One Old-Fashioned Trick May Actually Help Ease Lower Back Pain, Clinical Trial Finds",
       "url": "https://www.sciencealert.com/one-old-fashioned-trick-may-actually-help-ease-lower-back-pain-clinical-trial-finds",
       "domain": "sciencealert.com",
       "category": "Science",
       "summary": "A little support may ease back pain. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
       "tags": [
+        "Astronomy",
         "Health",
-        "MSFT Content"
+        "MSFT Content",
+        "Space"
       ],
       "published_at": "2026-09-05T12:00:00+00:00",
       "sources": [
@@ -19172,6 +19084,12 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.sciencealert.com/one-old-fashioned-trick-may-actually-help-ease-lower-back-pain-clinical-trial-finds"
+        },
+        {
+          "name": "Live Science",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.livescience.com/space/astronomy/james-webb-telescope-finds-one-of-our-galaxys-rarest-stars-inside-the-treasure-chest-globule-space-photo-of-the-week"
         }
       ]
     },
@@ -19217,44 +19135,22 @@
       ]
     },
     {
-      "id": "ScienceAlert-https://www.sciencealert.com/?p=217464",
-      "title": "GLP-1 Drugs Could Nudge Some Men Toward Hair Loss, Study Suggests",
-      "url": "https://www.sciencealert.com/glp-1-drugs-could-nudge-some-men-toward-hair-loss-study-suggests",
-      "domain": "sciencealert.com",
+      "id": "Space.com-C8mtCgpVDMAedTYcmgVsHC",
+      "title": "NASA expands Deep Space Network with giant new dish in California desert",
+      "url": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert",
+      "domain": "space.com",
       "category": "Science",
-      "summary": "Further investigation needed. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "summary": "The new antenna will boost capacity on NASA's increasingly strained deep-space communications network as Artemis and other missions drive up demand.",
       "tags": [
-        "Health",
-        "MSFT Content"
+        "Astronomy"
       ],
-      "published_at": "2026-09-05T02:00:00+00:00",
+      "published_at": "2026-09-06T10:00:00+00:00",
       "sources": [
         {
-          "name": "ScienceAlert",
+          "name": "Space.com",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.sciencealert.com/glp-1-drugs-could-nudge-some-men-toward-hair-loss-study-suggests"
-        }
-      ]
-    },
-    {
-      "id": "ScienceAlert-https://www.sciencealert.com/?p=217568",
-      "title": "Massive Analysis Finds Only 3 Supplements Show 'Unrealistically Large' Effects on Depression",
-      "url": "https://www.sciencealert.com/massive-analysis-finds-only-3-supplements-show-unrealistically-large-effects-on-depression",
-      "domain": "sciencealert.com",
-      "category": "Science",
-      "summary": "Extraordinary claims require extraordinary evidence. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-      "tags": [
-        "Health",
-        "MSFT Content"
-      ],
-      "published_at": "2026-09-05T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencealert.com/massive-analysis-finds-only-3-supplements-show-unrealistically-large-effects-on-depression"
+          "thread_url": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert"
         }
       ]
     },
@@ -19361,27 +19257,6 @@
       ]
     },
     {
-      "id": "Space.com-7hFmvFcm7DbQRhLDr6UvbR",
-      "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
-      "url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
-      "domain": "space.com",
-      "category": "Science",
-      "summary": "Beam into these stellar celebrations to mark the sci-fi franchise's historic anniversary this Labor Day Weekend!",
-      "tags": [
-        "Entertainment",
-        "Space Movies &amp; Shows"
-      ],
-      "published_at": "2026-09-04T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "Space.com",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute"
-        }
-      ]
-    },
-    {
       "id": "Space.com-fFdTTsV9dxFiL9VQDz6XgB",
       "title": "Venus is becoming a thinner crescent — and that's when it finally starts making sense",
       "url": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense",
@@ -19423,23 +19298,24 @@
       ]
     },
     {
-      "id": "Space.com-c9xnh5vuLQ9zHBHM6YafTm",
-      "title": "Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026",
-      "domain": "space.com",
+      "id": "Live Science-vEmhzkkwGvjwuBxXLDz5LJ",
+      "title": "How small can a transistor get?",
+      "url": "https://www.livescience.com/technology/electronics/how-small-can-a-transistor-get",
+      "domain": "livescience.com",
       "category": "Science",
-      "summary": "The Hubble Space Telescope has spotted a spectacular 'super bubble' in our Milky Way's nearest neighbor the Large Magellanic Cloud. Check out our space photo of the day.",
+      "summary": "How small can a transistor actually get? And is smaller even still the goal?",
       "tags": [
-        "Astronomy",
-        "Hubble Space Telescope"
+        "Electronic Engineering",
+        "Engineering",
+        "Technology"
       ],
-      "published_at": "2026-09-04T14:00:00+00:00",
+      "published_at": "2026-09-06T09:00:00+00:00",
       "sources": [
         {
-          "name": "Space.com",
+          "name": "Live Science",
           "score": 0,
           "comments": 0,
-          "thread_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026"
+          "thread_url": "https://www.livescience.com/technology/electronics/how-small-can-a-transistor-get"
         }
       ]
     },
@@ -19611,50 +19487,6 @@
       ]
     },
     {
-      "id": "Live Science-4DBVzxkU3D9vR4mZJamza8",
-      "title": "Hubble confirms mysterious, 10-sided cloud is growing over Saturn's south pole",
-      "url": "https://www.livescience.com/space/saturn/hubble-spots-a-mysterious-10-sided-decagon-growing-around-saturns-south-pole",
-      "domain": "livescience.com",
-      "category": "Science",
-      "summary": "The Hubble Space Telescope spied a large atmospheric phenomenon on Saturn: a decagon surrounding the south pole.",
-      "tags": [
-        "Astronomy",
-        "Planets",
-        "Saturn",
-        "Space"
-      ],
-      "published_at": "2026-09-03T21:27:00+00:00",
-      "sources": [
-        {
-          "name": "Live Science",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.livescience.com/space/saturn/hubble-spots-a-mysterious-10-sided-decagon-growing-around-saturns-south-pole"
-        }
-      ]
-    },
-    {
-      "id": "Live Science-odkYky9mSLx2SKMUhnBtfC",
-      "title": "Lavish private bath used by Roman emperor and 'high-status residents' discovered at imperial palace in Serbia",
-      "url": "https://www.livescience.com/archaeology/romans/lavish-private-bath-used-by-roman-emperor-and-high-status-residents-discovered-at-imperial-palace-in-serbia",
-      "domain": "livescience.com",
-      "category": "Science",
-      "summary": "The ancient bath complex was tucked in a tower in the corner of the royal palace and reveals unique architecture.",
-      "tags": [
-        "Archaeology",
-        "Romans"
-      ],
-      "published_at": "2026-09-03T20:20:28+00:00",
-      "sources": [
-        {
-          "name": "Live Science",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.livescience.com/archaeology/romans/lavish-private-bath-used-by-roman-emperor-and-high-status-residents-discovered-at-imperial-palace-in-serbia"
-        }
-      ]
-    },
-    {
       "id": "Scientific American-https://www.scientificamerican.com/article/new-brain-scan-tool-could-help-treat-huntingtons-disease-a-devastating-genetic-condition/",
       "title": "New brain scan tool could help treat Huntington’s disease, a devastating genetic condition",
       "url": "https://www.scientificamerican.com/article/new-brain-scan-tool-could-help-treat-huntingtons-disease-a-devastating-genetic-condition/",
@@ -19777,6 +19609,60 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.scientificamerican.com/article/un-admits-exceeding-paris-agreements-1-5-degrees-c-warming-target-is-unavoidable/"
+        }
+      ]
+    },
+    {
+      "id": "ScienceDaily-https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
+      "title": "Indonesia’s most dangerous fires are burning underground",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
+      "domain": "sciencedaily.com",
+      "category": "Science",
+      "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because…",
+      "tags": [],
+      "published_at": "2026-09-06T07:57:45+00:00",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm"
+        }
+      ]
+    },
+    {
+      "id": "ScienceDaily-https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+      "title": "AI can now control fusion plasma faster than humans can react",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+      "domain": "sciencedaily.com",
+      "category": "Science",
+      "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200 milliseconds before it…",
+      "tags": [],
+      "published_at": "2026-09-06T07:28:43+00:00",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
+        }
+      ]
+    },
+    {
+      "id": "ScienceDaily-https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+      "title": "Scientists find a weak spot in one of the deadliest brain cancers",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+      "domain": "sciencedaily.com",
+      "category": "Science",
+      "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable…",
+      "tags": [],
+      "published_at": "2026-09-06T06:58:29+00:00",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "score": 0,
+          "comments": 0,
+          "thread_url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm"
         }
       ]
     },
@@ -19921,62 +19807,6 @@
           "score": 0,
           "comments": 0,
           "thread_url": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm"
-        }
-      ]
-    },
-    {
-      "id": "ScienceDaily-https://www.sciencedaily.com/releases/2026/09/260901070543.htm",
-      "title": "Harvard scientists turn knitting into shape-shifting smart fabric",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm",
-      "domain": "sciencedaily.com",
-      "category": "Science",
-      "summary": "Harvard researchers have transformed ordinary knitting into a platform for creating fabrics that can snap between different shapes and perform useful functions. Using elastic yarns and industrial knitting techniques, the team engineered…",
-      "tags": [],
-      "published_at": "2026-09-04T21:43:31+00:00",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm"
-        }
-      ]
-    },
-    {
-      "id": "ScienceDaily-https://www.sciencedaily.com/releases/2026/09/260902234457.htm",
-      "title": "Extreme drought now covers 44% of Puerto Rico",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234457.htm",
-      "domain": "sciencedaily.com",
-      "category": "Science",
-      "summary": "Puerto Rico’s normally rainy season has instead brought a severe and fast-growing drought. By August 25, three-quarters of the territory was in at least moderate drought, with extreme drought covering 44 percent and some areas receiving…",
-      "tags": [],
-      "published_at": "2026-09-04T12:12:53+00:00",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.sciencedaily.com/releases/2026/09/260902234457.htm"
-        }
-      ]
-    },
-    {
-      "id": "r/dev-t3_1w80olh",
-      "title": ".gitignore everything by default",
-      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "domain": "packagemain.tech",
-      "category": "Systems",
-      "summary": "",
-      "tags": [
-        "programming"
-      ],
-      "published_at": "2026-09-05T13:23:49+00:00",
-      "sources": [
-        {
-          "name": "r/dev",
-          "score": 0,
-          "comments": 0,
-          "thread_url": "https://www.reddit.com/r/programming/comments/1w80olh/gitignore_everything_by_default/"
         }
       ]
     },
